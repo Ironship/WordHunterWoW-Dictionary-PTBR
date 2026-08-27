@@ -1,0 +1,11 @@
+/Tools/keys.env
+/Data/cache/
+/Data/QuestV2.csv
+/release/
+/curseforge/
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
