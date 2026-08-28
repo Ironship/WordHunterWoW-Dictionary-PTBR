@@ -6,5 +6,7 @@ LOCALES = {
         "source": "pt",
         "variable": "WordHunterWoW_Dictionary_PTBR",
         "output": "DictionaryPTBR.lua",
+        "curated": "CuratedPTBR.jsonl",
+        "single_char_words": "aoeéà",
     },
 }

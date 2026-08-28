@@ -12,11 +12,17 @@ def main():
     parser.add_argument("--locale", choices=LOCALES, default=next(iter(LOCALES)))
     args = parser.parse_args()
     config = LOCALES[args.locale]
-    source = ROOT / f"Data/cache/translations_{args.locale}_en.jsonl"
     records = {}
-    for line in source.read_text(encoding="utf-8").splitlines():
-        record = json.loads(line)
-        if record.get("translation"): records[record["key"]] = record
+    sources = [ROOT / f"Data/cache/translations_{args.locale}_en.jsonl"]
+    curated = config.get("curated")
+    if curated: sources.append(ROOT / "Data" / curated)
+    # Curated entries are read last so a hand-checked gloss wins over the machine one.
+    for source in sources:
+        if not source.exists(): continue
+        for line in source.read_text(encoding="utf-8-sig").splitlines():
+            if not line.strip(): continue
+            record = json.loads(line)
+            if record.get("translation"): records[record["key"]] = record
     lines = [f"{config['variable']} = {config['variable']} or {{}}"]
     for key in sorted(records):
         record = records[key]

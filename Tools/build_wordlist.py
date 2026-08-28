@@ -10,13 +10,16 @@ def main():
     parser.add_argument("--locale", choices=LOCALES, default=next(iter(LOCALES)))
     args = parser.parse_args()
     counts, forms, contexts = collections.Counter(), collections.defaultdict(collections.Counter), {}
+    # Single letters are almost always initials or list markers, but a handful are real
+    # words in these languages (Italian "e", "i", "è"; French "à", "y"). Keep only those.
+    singles = set(LOCALES[args.locale].get("single_char_words", ""))
     source = ROOT / f"Data/cache/quests_{args.locale}.jsonl"
     for line in source.read_text(encoding="utf-8").splitlines():
         quest = json.loads(line)
         for text in (quest.get("title") or "", quest.get("description") or "", quest.get("objectives") or ""):
             for word in TOKEN.findall(text):
-                if len(word) < 2: continue
                 key = word.casefold()
+                if len(key) < 2 and key not in singles: continue
                 counts[key] += 1
                 forms[key][word] += 1
                 contexts.setdefault(key, text[:500])
