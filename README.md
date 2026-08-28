@@ -28,4 +28,21 @@ The exception is a short hand-written list in `Data/CuratedPTBR.jsonl` covering 
 
 Never commit `Tools/keys.env`, `Data/cache/`, or `Data/QuestV2.csv`. Commit generated `Data/DictionaryPTBR.lua`.
 
+### Filling the gaps the API leaves
+
+Blizzard's quest endpoint returns a title and the offer text only. `objectives`
+comes back empty for all 30,815 quests, and there is no progress or hand-in
+text and no NPC gossip at all, so a word living solely in one of those passages
+can never enter this corpus. With **Collect quest and NPC text** enabled in
+WordHunterWoW, `/whw harvest export` writes what a player has seen to
+SavedVariables; fold it in with
+
+```
+python Tools/import_harvest.py --saved "<WoW>/_retail_/WTF/Account/<ACCT>/SavedVariables/WordHunterWoW.lua"
+```
+
+then rebuild from `build_wordlist.py` onward. Existing corpus text is never
+overwritten -- only empty fields are filled.
+
+
 All rights reserved.

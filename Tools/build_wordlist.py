@@ -16,7 +16,10 @@ def main():
     source = ROOT / f"Data/cache/quests_{args.locale}.jsonl"
     for line in source.read_text(encoding="utf-8").splitlines():
         quest = json.loads(line)
-        for text in (quest.get("title") or "", quest.get("description") or "", quest.get("objectives") or ""):
+        # progress and reward only ever arrive via import_harvest.py -- the quest
+        # API publishes neither, and objectives comes back empty from it too.
+        for field in ("title", "description", "objectives", "progress", "reward"):
+            text = quest.get(field) or ""
             for word in TOKEN.findall(text):
                 key = word.casefold()
                 if len(key) < 2 and key not in singles: continue
