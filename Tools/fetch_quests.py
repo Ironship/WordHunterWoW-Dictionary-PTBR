@@ -22,7 +22,7 @@ def get_token():
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--locale", choices=LOCALES, default=next(iter(LOCALES)))
-    parser.add_argument("--csv", default=str(ROOT / "Data/QuestV2.csv"))
+    parser.add_argument("--csv", default=str(ROOT / "Data/quest_ids.csv"))
     parser.add_argument("--workers", type=int, default=6)
     parser.add_argument("--interval", type=float, default=0.25)
     parser.add_argument("--limit", type=int, default=0)
