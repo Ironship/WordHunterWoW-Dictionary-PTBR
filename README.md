@@ -23,10 +23,11 @@ The exception is a short hand-written list in `Data/CuratedPTBR.jsonl` covering 
 ## Rebuild (maintainers)
 
 1. Blizzard API keys in `Tools/keys.env`.
-2. A quest id list at `Data/quest_ids.csv` — one `ID` column. Gitignored.
+2. Nothing. `fetch_quests.py` asks the API which quests exist. An optional
+   `Data/quest_ids.csv` with an `ID` column is merged in when present.
 3. Run `Tools/build_all.ps1`.
 
-Never commit `Tools/keys.env`, `Data/cache/`, or `Data/quest_ids.csv`. Commit generated `Data/DictionaryPTBR.lua`.
+Never commit `Tools/keys.env` or `Data/cache/`. Commit generated `Data/DictionaryPTBR.lua`.
 
 ### Filling the gaps the API leaves
 
