@@ -1,49 +1,43 @@
 # QuestWordHunter — Brazilian Portuguese Dictionary
 
-Optional Brazilian Portuguese→English vocabulary pack for [QuestWordHunter](https://github.com/Ironship/WordHunterWoW), built from actual World of Warcraft quest text.
+Learning Portuguese from quests is great until every second sentence sends you to a translator.
 
-Click a Portuguese word and an English gloss is ready. Player edits override the pack; **Reset to dictionary** restores its wording.
+This is a ready-made Portuguese→English glossary built from real quest text, so the words you click already have a meaning waiting. **55,346 words.**
 
-55,346 entries.
+## Install
 
-## Quality
+Unzip into `_retail_\Interface\AddOns\` and restart the game.
 
-This pack is raw machine translation. Unlike the [German dictionary](https://github.com/Ironship/WordHunterWoW-Dictionary-DE), where a large share of entries has been reviewed by hand against the quest sentence it appears in, nothing here has been through that review. Expect the usual machine-translation failures: false friends, the wrong sense of an ambiguous word, official WoW names translated literally. Treat a gloss as a starting point, and edit it when it is wrong — your edit wins over the pack.
+You need:
 
-The exception is a short hand-written list in `Data/CuratedPTBR.jsonl` covering the one-letter words `a`, `o`, `e`, `é` and `à`. Those are among the most frequent words in the language and a machine translator has no context to get them right: asked in isolation, Google renders `é` ("is") as "and", confusing it with `e`. These five are glossed by hand and override the machine output.
-
-## What you need
-
-- Retail 12.1 (`Interface 120100`)
 - [QuestWordHunter](https://github.com/Ironship/WordHunterWoW) **1.6.0 or newer**
 - Target language set to **Portuguese (Brazil)**
 
-1.6.0 is a hard requirement, not a suggestion: earlier versions lowercase only ASCII, so every word starting with an accented capital — `É`, `Ó`, `Ébano`, `Às` — missed the dictionary and opened a second entry in the word list. That affected 4,286 occurrences across 216 distinct words in this corpus.
+Words stay in the pack and are not copied into your saved data. Change any translation you like — your version wins, and **Reset to dictionary** brings this one back.
+
+## Good to know
+
+These translations are machine-made. They will get you through a quest, but expect the odd word to be off — a name translated literally, or the wrong sense of a word that has several. Fix any of them as you go; your edit sticks.
+
+The [German pack](https://github.com/Ironship/WordHunterWoW-Dictionary-DE) is the one that has been checked by hand, word by word.
+
+## Other languages
+
+There are packs for [French](https://github.com/Ironship/WordHunterWoW-Dictionary-FR), [Spanish](https://github.com/Ironship/WordHunterWoW-Dictionary-ES) and [Italian](https://github.com/Ironship/WordHunterWoW-Dictionary-IT) too.
+
+Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
+
+Retail 12.1. All rights reserved.
 
 ## Rebuild (maintainers)
 
-1. Blizzard API keys in `Tools/keys.env`.
-2. Nothing. `fetch_quests.py` asks the API which quests exist. An optional
-   `Data/quest_ids.csv` with an `ID` column is merged in when present.
-3. Run `Tools/build_all.ps1`.
-
-Never commit `Tools/keys.env` or `Data/cache/`. Commit generated `Data/DictionaryPTBR.lua`.
-
-### Filling the gaps the API leaves
-
-Blizzard's quest endpoint returns a title and the offer text only. `objectives`
-comes back empty for all 30,815 quests, and there is no progress or hand-in
-text and no NPC gossip at all, so a word living solely in one of those passages
-can never enter this corpus. With **Collect quest and NPC text** enabled in
-WordHunterWoW, `/whw harvest export` writes what a player has seen to
-SavedVariables; fold it in with
+Blizzard API keys in `Tools/keys.env`, then:
 
 ```
-python Tools/import_harvest.py --saved "<WoW>/_retail_/WTF/Account/<ACCT>/SavedVariables/WordHunterWoW.lua"
+python Tools/fetch_quests.py
+python Tools/build_wordlist.py
+python Tools/translate_google.py
+python Tools/build_dictionary_lua.py
 ```
 
-then rebuild from `build_wordlist.py` onward. Existing corpus text is never
-overwritten -- only empty fields are filled.
-
-
-All rights reserved.
+Commit the generated `Data/DictionaryPTBR.lua`; do not commit `Data/cache/`.
