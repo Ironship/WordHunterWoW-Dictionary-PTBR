@@ -1,0 +1,39 @@
+WordHunterWoW-Dictionary-PTBR
+Copyright (C) 2026 Ironship
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option) any later
+version. See the LICENSE file for the full text.
+
+
+Third-party material
+--------------------
+
+Part of the Brazilian Portuguese vocabulary in this dictionary was gathered from the
+Brazilian Portuguese quest text in the MultiLanguage addon by Ruben Zantingh
+(https://github.com/rubenzantingh/MultiLanguage), used with his permission
+given on 2 September 2026.
+
+Blizzard's Game Data API publishes a quest's title and description and nothing
+else. It does not publish the objective line, the text an NPC speaks while a
+quest is in progress, or the text spoken when it is handed in, and those three
+are a large part of what a player actually reads.
+
+Modifications made by Ironship, 2 September 2026:
+
+  * That text was read for the words it contains: 10,668 objective lines, 2,717 progress lines and 5,210 hand-in lines,
+    covering 4,661 quests the API does not return at all.
+  * What this addon ships is not that text. Quest text stays in Data/cache,
+    which is outside the repository and is never packaged. What ships is a list
+    of single words, each with an English translation and an explanatory note
+    written for this project. No quest sentence is reproduced.
+  * Where Blizzard's API had already supplied a field, its wording was kept.
+
+The import is performed by Tools/import_multilanguage.py, which is part of the
+corresponding source of this work.
+
+World of Warcraft content and materials are trademarks and copyrights of
+Blizzard Entertainment or its licensors. This addon is not affiliated with or
+endorsed by Blizzard Entertainment, and the GNU General Public License above
+applies to this addon's own code, not to Blizzard's underlying content.

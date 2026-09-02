@@ -18,7 +18,7 @@ def main():
         quest = json.loads(line)
         # progress and reward only ever arrive via import_harvest.py -- the quest
         # API publishes neither, and objectives comes back empty from it too.
-        for field in ("title", "description", "objectives", "progress", "reward"):
+        for field in ("title", "description", "objectives", "progress", "completion", "reward"):
             text = quest.get(field) or ""
             for word in TOKEN.findall(text):
                 key = word.casefold()
