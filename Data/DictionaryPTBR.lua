@@ -1456,6 +1456,7 @@ WordHunterWoW_Dictionary_PTBR["afetou"] = { word = "afetou", translation = "affe
 WordHunterWoW_Dictionary_PTBR["afetá-los"] = { word = "afetá-los", translation = "affect them", note = "" }
 WordHunterWoW_Dictionary_PTBR["aff"] = { word = "Aff", translation = "Ugh", note = "Brazilian interjection of annoyance, like ugh" }
 WordHunterWoW_Dictionary_PTBR["affairs"] = { word = "Affairs", translation = "Affairs", note = "" }
+WordHunterWoW_Dictionary_PTBR["afford"] = { word = "afford", translation = "affordability", note = "" }
 WordHunterWoW_Dictionary_PTBR["afia"] = { word = "Afia", translation = "Sharpen", note = "" }
 WordHunterWoW_Dictionary_PTBR["afiada"] = { word = "Afiada", translation = "sharp", note = "in the full place name, the official English is Blade's Edge Mountains" }
 WordHunterWoW_Dictionary_PTBR["afiadas"] = { word = "afiadas", translation = "sharp", note = "afiadas agrees with plural feminine garras: sharp" }
@@ -1680,6 +1681,7 @@ WordHunterWoW_Dictionary_PTBR["agnes"] = { word = "Agnes", translation = "Agnes"
 WordHunterWoW_Dictionary_PTBR["agnetta"] = { word = "Agnetta", translation = "Agnetta", note = "" }
 WordHunterWoW_Dictionary_PTBR["agni"] = { word = "Agni", translation = "Agni", note = "" }
 WordHunterWoW_Dictionary_PTBR["agnolitos"] = { word = "Agnolitos", translation = "Agnoliths", note = "" }
+WordHunterWoW_Dictionary_PTBR["ago"] = { word = "ago", translation = "Aug", note = "" }
 WordHunterWoW_Dictionary_PTBR["agogridon"] = { word = "Agogridon", translation = "Agogridon", note = "" }
 WordHunterWoW_Dictionary_PTBR["agol'watha"] = { word = "Agol'watha", translation = "Agol'watha", note = "" }
 WordHunterWoW_Dictionary_PTBR["agola"] = { word = "Agola", translation = "Agola", note = "" }
@@ -2892,6 +2894,7 @@ WordHunterWoW_Dictionary_PTBR["amassados"] = { word = "amassados", translation =
 WordHunterWoW_Dictionary_PTBR["amassando"] = { word = "amassando", translation = "kneading", note = "" }
 WordHunterWoW_Dictionary_PTBR["amassar"] = { word = "amassar", translation = "knead", note = "infinitive; kneading eggs/dough" }
 WordHunterWoW_Dictionary_PTBR["amasse"] = { word = "amasse", translation = "knead", note = "" }
+WordHunterWoW_Dictionary_PTBR["amassing"] = { word = "amassing", translation = "kneading", note = "" }
 WordHunterWoW_Dictionary_PTBR["amatet"] = { word = "Amatet", translation = "Amatet", note = "" }
 WordHunterWoW_Dictionary_PTBR["amava"] = { word = "amava", translation = "loved", note = "the imperfect past can describe an ongoing or habitual past feeling" }
 WordHunterWoW_Dictionary_PTBR["amavam"] = { word = "amavam", translation = "loved", note = "" }
@@ -3291,6 +3294,7 @@ WordHunterWoW_Dictionary_PTBR["angela"] = { word = "Angela", translation = "Ange
 WordHunterWoW_Dictionary_PTBR["angelical"] = { word = "angelical", translation = "angelic", note = "angelical is a cognate of angel, but English uses angelic" }
 WordHunterWoW_Dictionary_PTBR["angelo"] = { word = "Angelo", translation = "Angelo", note = "" }
 WordHunterWoW_Dictionary_PTBR["angerboda"] = { word = "Angerboda", translation = "Angerboda", note = "NPC name; vraikal queen Angerboda" }
+WordHunterWoW_Dictionary_PTBR["angered"] = { word = "angered", translation = "angry", note = "" }
 WordHunterWoW_Dictionary_PTBR["angkhal"] = { word = "Angkhal", translation = "Angkhal", note = "" }
 WordHunterWoW_Dictionary_PTBR["ango'rosh"] = { word = "Ango'rosh", translation = "Ango'rosh", note = "" }
 WordHunterWoW_Dictionary_PTBR["angor"] = { word = "Angor", translation = "Angor", note = "" }
@@ -3465,6 +3469,7 @@ WordHunterWoW_Dictionary_PTBR["antecipasse"] = { word = "antecipasse", translati
 WordHunterWoW_Dictionary_PTBR["antecipava"] = { word = "antecipava", translation = "anticipated", note = "" }
 WordHunterWoW_Dictionary_PTBR["antecipei"] = { word = "antecipei", translation = "anticipated", note = "" }
 WordHunterWoW_Dictionary_PTBR["antecâmara"] = { word = "antecâmara", translation = "antechamber; vestibule", note = "from Latin ante (before) + camera (chamber); room leading to a main chamber" }
+WordHunterWoW_Dictionary_PTBR["anted"] = { word = "ANTED", translation = "EARLIER", note = "" }
 WordHunterWoW_Dictionary_PTBR["antelarion"] = { word = "Antelarion", translation = "Antelarion", note = "" }
 WordHunterWoW_Dictionary_PTBR["antemão"] = { word = "antemão", translation = "beforehand", note = "" }
 WordHunterWoW_Dictionary_PTBR["antena"] = { word = "antena", translation = "antenna", note = "" }
@@ -3542,6 +3547,7 @@ WordHunterWoW_Dictionary_PTBR["antorus"] = { word = "Antorus", translation = "An
 WordHunterWoW_Dictionary_PTBR["antourix"] = { word = "Antourix", translation = "Antourix", note = "" }
 WordHunterWoW_Dictionary_PTBR["antro"] = { word = "Antro", translation = "den", note = "antro is a lair or den, often with a negative nuance" }
 WordHunterWoW_Dictionary_PTBR["antros"] = { word = "antros", translation = "dens", note = "" }
+WordHunterWoW_Dictionary_PTBR["ants"] = { word = "ants", translation = "before", note = "" }
 WordHunterWoW_Dictionary_PTBR["antu'sul"] = { word = "Antu'sul", translation = "Antu'sul", note = "" }
 WordHunterWoW_Dictionary_PTBR["antuka"] = { word = "Antuka", translation = "Antuka", note = "" }
 WordHunterWoW_Dictionary_PTBR["antul'mita"] = { word = "Antul'Mita", translation = "Antul'Mita", note = "" }
@@ -3591,6 +3597,7 @@ WordHunterWoW_Dictionary_PTBR["anuviam"] = { word = "anuviam", translation = "cl
 WordHunterWoW_Dictionary_PTBR["anuência"] = { word = "anuência", translation = "consent", note = "" }
 WordHunterWoW_Dictionary_PTBR["any"] = { word = "any", translation = "any", note = "this row is English text, not a Portuguese word" }
 WordHunterWoW_Dictionary_PTBR["anya"] = { word = "Anya", translation = "Anya", note = "" }
+WordHunterWoW_Dictionary_PTBR["anyhow"] = { word = "anyhow", translation = "anyway", note = "" }
 WordHunterWoW_Dictionary_PTBR["anything"] = { word = "anything", translation = "anything", note = "" }
 WordHunterWoW_Dictionary_PTBR["anzim"] = { word = "Anzim", translation = "Anzim", note = "" }
 WordHunterWoW_Dictionary_PTBR["anzio"] = { word = "Anzio", translation = "Anzio", note = "" }
@@ -5382,6 +5389,7 @@ WordHunterWoW_Dictionary_PTBR["assei"] = { word = "assei", translation = "I bake
 WordHunterWoW_Dictionary_PTBR["asseio"] = { word = "asseio", translation = "cleanliness", note = "" }
 WordHunterWoW_Dictionary_PTBR["assemblage"] = { word = "assemblage", translation = "assemblage", note = "" }
 WordHunterWoW_Dictionary_PTBR["assembleia"] = { word = "Assembleia", translation = "Assembly", note = "" }
+WordHunterWoW_Dictionary_PTBR["assembling"] = { word = "assembling", translation = "assembly", note = "" }
 WordHunterWoW_Dictionary_PTBR["assemelha"] = { word = "assemelha", translation = "resembles", note = "" }
 WordHunterWoW_Dictionary_PTBR["assemelham"] = { word = "assemelham", translation = "resemble", note = "" }
 WordHunterWoW_Dictionary_PTBR["assemelham-se"] = { word = "assemelham-se", translation = "resemble", note = "" }
@@ -6157,6 +6165,7 @@ WordHunterWoW_Dictionary_PTBR["auchenai"] = { word = "Auchenai", translation = "
 WordHunterWoW_Dictionary_PTBR["auchenais"] = { word = "auchenais", translation = "auchenais", note = "" }
 WordHunterWoW_Dictionary_PTBR["auchendoun"] = { word = "Auchendoun", translation = "Auchendoun", note = "" }
 WordHunterWoW_Dictionary_PTBR["auchindoun"] = { word = "Auchindoun", translation = "Auchindoun", note = "" }
+WordHunterWoW_Dictionary_PTBR["auctor"] = { word = "auctor", translation = "author", note = "" }
 WordHunterWoW_Dictionary_PTBR["audaciosa"] = { word = "audaciosa", translation = "audacious", note = "" }
 WordHunterWoW_Dictionary_PTBR["audaciosas"] = { word = "audaciosas", translation = "audacious", note = "" }
 WordHunterWoW_Dictionary_PTBR["audacioso"] = { word = "Audacioso", translation = "Daredevil", note = "the official item title is Faceless Mask of the Daredevil" }
@@ -6175,6 +6184,7 @@ WordHunterWoW_Dictionary_PTBR["audrey"] = { word = "Audrey", translation = "Audr
 WordHunterWoW_Dictionary_PTBR["audácia"] = { word = "audácia", translation = "audacity", note = "audácia suggests boldness that may be reckless, fitting their desperation" }
 WordHunterWoW_Dictionary_PTBR["auge"] = { word = "auge", translation = "peak; height", note = "from Arabic awj, the highest point of an orbit; no auge da guerra = at the height of the war" }
 WordHunterWoW_Dictionary_PTBR["augermu"] = { word = "Augermu", translation = "Augermu", note = "" }
+WordHunterWoW_Dictionary_PTBR["augue"] = { word = "augue", translation = "rent", note = "" }
 WordHunterWoW_Dictionary_PTBR["augustina"] = { word = "Augustina", translation = "Augustina", note = "" }
 WordHunterWoW_Dictionary_PTBR["augusto"] = { word = "Augusto", translation = "Augustus", note = "Portuguese form of the name; proper noun" }
 WordHunterWoW_Dictionary_PTBR["augustus"] = { word = "Augustus", translation = "Augustus", note = "Roman name; ledger book refers to a person or historical figure" }
@@ -6553,6 +6563,7 @@ WordHunterWoW_Dictionary_PTBR["avô"] = { word = "avô", translation = "grandfat
 WordHunterWoW_Dictionary_PTBR["awak"] = { word = "Awak", translation = "Awak", note = "" }
 WordHunterWoW_Dictionary_PTBR["awaken"] = { word = "awaken", translation = "awaken", note = "" }
 WordHunterWoW_Dictionary_PTBR["awilo"] = { word = "Awilo", translation = "Awilo", note = "" }
+WordHunterWoW_Dictionary_PTBR["axe"] = { word = "axe", translation = "ax", note = "" }
 WordHunterWoW_Dictionary_PTBR["axes"] = { word = "axes", translation = "axes", note = "" }
 WordHunterWoW_Dictionary_PTBR["axkall"] = { word = "Axkall", translation = "Axkall", note = "" }
 WordHunterWoW_Dictionary_PTBR["axtroz"] = { word = "Axtroz", translation = "Axtroz", note = "" }
@@ -7039,6 +7050,7 @@ WordHunterWoW_Dictionary_PTBR["banimento"] = { word = "banimento", translation =
 WordHunterWoW_Dictionary_PTBR["banimos"] = { word = "banimos", translation = "we ban", note = "" }
 WordHunterWoW_Dictionary_PTBR["banindo-o"] = { word = "banindo-o", translation = "banishing him", note = "" }
 WordHunterWoW_Dictionary_PTBR["banir"] = { word = "banir", translation = "banish", note = "false friend: banir is to banish or exile, not to ban something as forbidden" }
+WordHunterWoW_Dictionary_PTBR["banished"] = { word = "banished", translation = "banned", note = "" }
 WordHunterWoW_Dictionary_PTBR["baniu"] = { word = "baniu", translation = "banned", note = "" }
 WordHunterWoW_Dictionary_PTBR["banqueiro"] = { word = "banqueiro", translation = "banker", note = "" }
 WordHunterWoW_Dictionary_PTBR["banquete"] = { word = "banquete", translation = "banquet", note = "" }
@@ -7829,6 +7841,7 @@ WordHunterWoW_Dictionary_PTBR["bipsi"] = { word = "Bipsi", translation = "Bipsy"
 WordHunterWoW_Dictionary_PTBR["biquinho"] = { word = "biquinho", translation = "pout", note = "" }
 WordHunterWoW_Dictionary_PTBR["biquinho-de-grão"] = { word = "biquinho-de-grão", translation = "grain beak", note = "" }
 WordHunterWoW_Dictionary_PTBR["birch"] = { word = "Birch", translation = "Birch", note = "" }
+WordHunterWoW_Dictionary_PTBR["bird-men"] = { word = "bird-men", translation = "bird men", note = "" }
 WordHunterWoW_Dictionary_PTBR["birinaite"] = { word = "birinaite", translation = "birinaitis", note = "" }
 WordHunterWoW_Dictionary_PTBR["birita"] = { word = "birita", translation = "booze; a drink", note = "Brazilian slang for hard liquor; gostar de uma birita = to be fond of a tipple" }
 WordHunterWoW_Dictionary_PTBR["birl"] = { word = "birl", translation = "birl", note = "" }
@@ -8110,6 +8123,7 @@ WordHunterWoW_Dictionary_PTBR["bombado"] = { word = "bombado", translation = "pu
 WordHunterWoW_Dictionary_PTBR["bombadão"] = { word = "Bombadão", translation = "Bombadão", note = "" }
 WordHunterWoW_Dictionary_PTBR["bombando"] = { word = "bombando", translation = "pumping", note = "Brazilian slang can mean booming or going strong; here it suits the music title" }
 WordHunterWoW_Dictionary_PTBR["bombar"] = { word = "bombar", translation = "bomb", note = "" }
+WordHunterWoW_Dictionary_PTBR["bombard"] = { word = "bombard", translation = "bomb", note = "" }
 WordHunterWoW_Dictionary_PTBR["bombardeados"] = { word = "bombardeados", translation = "bombed", note = "" }
 WordHunterWoW_Dictionary_PTBR["bombardeando"] = { word = "bombardeando", translation = "bombing", note = "gerund of bombardear; it describes an action in progress" }
 WordHunterWoW_Dictionary_PTBR["bombardear"] = { word = "bombardear", translation = "bombard; bomb", note = "bomba (bomb) via French bombarder; used of shelling from above, as by the frost wyrms" }
@@ -8152,6 +8166,7 @@ WordHunterWoW_Dictionary_PTBR["bondebico"] = { word = "Bondebico", translation =
 WordHunterWoW_Dictionary_PTBR["bondosa"] = { word = "bondosa", translation = "kind; kindhearted", note = "bondade (goodness) + -oso; warmer than gentil, which is closer to polite" }
 WordHunterWoW_Dictionary_PTBR["bondoso"] = { word = "bondoso", translation = "kind", note = "bondoso suggests kind-hearted or good-natured" }
 WordHunterWoW_Dictionary_PTBR["bondosos"] = { word = "bondosos", translation = "kind", note = "" }
+WordHunterWoW_Dictionary_PTBR["bone"] = { word = "Bone", translation = "Cap", note = "" }
 WordHunterWoW_Dictionary_PTBR["boneca"] = { word = "boneca", translation = "doll", note = "" }
 WordHunterWoW_Dictionary_PTBR["bonecas"] = { word = "bonecas", translation = "dolls", note = "boneca means doll; the plural is bonecas" }
 WordHunterWoW_Dictionary_PTBR["boneco"] = { word = "boneco", translation = "doll; figure", note = "boneco de palito = stick figure; boneca with an a is the girl doll" }
@@ -8462,6 +8477,7 @@ WordHunterWoW_Dictionary_PTBR["braçoforte"] = { word = "Braçoforte", translati
 WordHunterWoW_Dictionary_PTBR["braços"] = { word = "braços", translation = "arms", note = "plural of braço; braço can also mean an arm or branch of something" }
 WordHunterWoW_Dictionary_PTBR["breanna"] = { word = "Breanna", translation = "Breanna", note = "" }
 WordHunterWoW_Dictionary_PTBR["breanni"] = { word = "Breanni", translation = "Breanni", note = "" }
+WordHunterWoW_Dictionary_PTBR["breath"] = { word = "breath", translation = "breathe", note = "" }
 WordHunterWoW_Dictionary_PTBR["brecha"] = { word = "brecha", translation = "opening; gap", note = "brecha nas defesas = an opening in the defenses, not a legal loophole" }
 WordHunterWoW_Dictionary_PTBR["brechas"] = { word = "brechas", translation = "breaches", note = "in this fantasy context a breach is an opening or rupture, not a legal loophole" }
 WordHunterWoW_Dictionary_PTBR["breeding"] = { word = "breeding", translation = "breeding", note = "" }
@@ -9970,6 +9986,7 @@ WordHunterWoW_Dictionary_PTBR["carroção"] = { word = "carroção", translation
 WordHunterWoW_Dictionary_PTBR["carroções"] = { word = "carroções", translation = "wagons", note = "" }
 WordHunterWoW_Dictionary_PTBR["carruagem"] = { word = "carruagem", translation = "carriage", note = "from carro; the horse-drawn passenger kind" }
 WordHunterWoW_Dictionary_PTBR["carruagens"] = { word = "carruagens", translation = "carriages", note = "plural of carruagem; naga war transports" }
+WordHunterWoW_Dictionary_PTBR["cart"] = { word = "cart", translation = "card", note = "" }
 WordHunterWoW_Dictionary_PTBR["carta"] = { word = "carta", translation = "letter", note = "carta can mean letter or card; delivery quests usually mean letter" }
 WordHunterWoW_Dictionary_PTBR["cartada"] = { word = "cartada", translation = "card", note = "" }
 WordHunterWoW_Dictionary_PTBR["cartas"] = { word = "cartas", translation = "letters", note = "cartas can also mean cards or maps; here they are correspondence" }
@@ -11217,6 +11234,7 @@ WordHunterWoW_Dictionary_PTBR["chover"] = { word = "chover", translation = "rain
 WordHunterWoW_Dictionary_PTBR["chovesse"] = { word = "chovesse", translation = "if it rained", note = "" }
 WordHunterWoW_Dictionary_PTBR["choveu"] = { word = "choveu", translation = "it rained", note = "" }
 WordHunterWoW_Dictionary_PTBR["chow"] = { word = "Chow", translation = "Chow", note = "" }
+WordHunterWoW_Dictionary_PTBR["christoph"] = { word = "Christoph", translation = "Christopher", note = "" }
 WordHunterWoW_Dictionary_PTBR["christy"] = { word = "Christy", translation = "Christy", note = "" }
 WordHunterWoW_Dictionary_PTBR["chronalis"] = { word = "Chronalis", translation = "Chronalis", note = "" }
 WordHunterWoW_Dictionary_PTBR["chronormu"] = { word = "Chronormu", translation = "Chronormu", note = "" }
@@ -12607,6 +12625,7 @@ WordHunterWoW_Dictionary_PTBR["concentrarmos"] = { word = "concentrarmos", trans
 WordHunterWoW_Dictionary_PTBR["concentrará"] = { word = "concentrará", translation = "will concentrate", note = "" }
 WordHunterWoW_Dictionary_PTBR["concentrarão"] = { word = "concentrarão", translation = "will concentrate", note = "" }
 WordHunterWoW_Dictionary_PTBR["concentrasse"] = { word = "concentrasse", translation = "concentrate", note = "" }
+WordHunterWoW_Dictionary_PTBR["concentration"] = { word = "concentration", translation = "concentration concentration", note = "" }
 WordHunterWoW_Dictionary_PTBR["concentrava"] = { word = "concentrava", translation = "concentrated", note = "" }
 WordHunterWoW_Dictionary_PTBR["concentração"] = { word = "concentração", translation = "concentration", note = "concentração de = concentration of; it shares a root with concentrate" }
 WordHunterWoW_Dictionary_PTBR["concentrações"] = { word = "concentrações", translation = "concentrations", note = "" }
@@ -13179,6 +13198,7 @@ WordHunterWoW_Dictionary_PTBR["consente"] = { word = "consente", translation = "
 WordHunterWoW_Dictionary_PTBR["consentimento"] = { word = "consentimento", translation = "consent", note = "" }
 WordHunterWoW_Dictionary_PTBR["consentir"] = { word = "consentir", translation = "consent", note = "" }
 WordHunterWoW_Dictionary_PTBR["consentiram"] = { word = "consentiram", translation = "consented", note = "" }
+WordHunterWoW_Dictionary_PTBR["consequat"] = { word = "consequat", translation = "consequence", note = "" }
 WordHunterWoW_Dictionary_PTBR["consequente"] = { word = "consequente", translation = "consequent", note = "" }
 WordHunterWoW_Dictionary_PTBR["consequentemente"] = { word = "consequentemente", translation = "consequently", note = "" }
 WordHunterWoW_Dictionary_PTBR["consequência"] = { word = "consequência", translation = "consequence", note = "consequência de means consequence of; the cedilla gives the c an s sound" }
@@ -13396,6 +13416,7 @@ WordHunterWoW_Dictionary_PTBR["consumada"] = { word = "consumada", translation =
 WordHunterWoW_Dictionary_PTBR["consumam"] = { word = "consumam", translation = "consume", note = "" }
 WordHunterWoW_Dictionary_PTBR["consumando"] = { word = "consumando", translation = "consummating", note = "" }
 WordHunterWoW_Dictionary_PTBR["consumaremos"] = { word = "consumaremos", translation = "we will consummate", note = "" }
+WordHunterWoW_Dictionary_PTBR["consumes"] = { word = "consumes", translation = "consumption", note = "" }
 WordHunterWoW_Dictionary_PTBR["consumi-las"] = { word = "consumi-las", translation = "consume them", note = "" }
 WordHunterWoW_Dictionary_PTBR["consumi-lo"] = { word = "consumi-lo", translation = "consume it", note = "" }
 WordHunterWoW_Dictionary_PTBR["consumi-los"] = { word = "consumi-los", translation = "consume them", note = "" }
@@ -13868,6 +13889,7 @@ WordHunterWoW_Dictionary_PTBR["convido"] = { word = "convido", translation = "I 
 WordHunterWoW_Dictionary_PTBR["convidou"] = { word = "convidou", translation = "invited", note = "preterite; convidar para entrar = to invite someone in" }
 WordHunterWoW_Dictionary_PTBR["convidá-lo"] = { word = "convidá-lo", translation = "invite you", note = "" }
 WordHunterWoW_Dictionary_PTBR["convidássemos"] = { word = "convidássemos", translation = "we would invite", note = "" }
+WordHunterWoW_Dictionary_PTBR["convince"] = { word = "convince", translation = "convincing", note = "" }
 WordHunterWoW_Dictionary_PTBR["convincente"] = { word = "convincente", translation = "convincing", note = "present participle form of convencer with the -nte suffix that yields adjectives like exigente or crescente" }
 WordHunterWoW_Dictionary_PTBR["convincentes"] = { word = "convincentes", translation = "convincing", note = "" }
 WordHunterWoW_Dictionary_PTBR["convite"] = { word = "convite", translation = "invitation", note = "convite do Festival da Lua = invitation to the Moon Festival" }
@@ -15301,6 +15323,7 @@ WordHunterWoW_Dictionary_PTBR["da'ka"] = { word = "Da'ka", translation = "Da'ka"
 WordHunterWoW_Dictionary_PTBR["da'kani"] = { word = "Da'kani", translation = "Da'kani", note = "" }
 WordHunterWoW_Dictionary_PTBR["daakara"] = { word = "Daakara", translation = "Daakara", note = "NPC/boss name; descriptive title 'Daakara the Undefeated' follows" }
 WordHunterWoW_Dictionary_PTBR["daalo"] = { word = "Daalo", translation = "Daalo", note = "" }
+WordHunterWoW_Dictionary_PTBR["dabbling"] = { word = "dabbling", translation = "dabbing", note = "" }
 WordHunterWoW_Dictionary_PTBR["dabir'ee"] = { word = "Dabir'ee", translation = "Dabir'ee", note = "" }
 WordHunterWoW_Dictionary_PTBR["dabiri"] = { word = "Dabiri", translation = "Dabiri", note = "" }
 WordHunterWoW_Dictionary_PTBR["dabyrie"] = { word = "Dabyrie", translation = "Dabyrie", note = "" }
@@ -15520,6 +15543,7 @@ WordHunterWoW_Dictionary_PTBR["davinia"] = { word = "Davinia", translation = "Da
 WordHunterWoW_Dictionary_PTBR["davos"] = { word = "Davos", translation = "Davos", note = "" }
 WordHunterWoW_Dictionary_PTBR["dawa"] = { word = "Dawa", translation = "Dawa", note = "" }
 WordHunterWoW_Dictionary_PTBR["dawnrunner"] = { word = "Dawnrunner", translation = "Dawnrunner", note = "" }
+WordHunterWoW_Dictionary_PTBR["dawnvocê"] = { word = "DawnVocê", translation = "DawnYou", note = "" }
 WordHunterWoW_Dictionary_PTBR["daxil"] = { word = "Daxil", translation = "Daxil", note = "" }
 WordHunterWoW_Dictionary_PTBR["daz"] = { word = "daz", translation = "daz", note = "" }
 WordHunterWoW_Dictionary_PTBR["dazakros"] = { word = "Dazakros", translation = "Dazakros", note = "" }
@@ -16029,6 +16053,7 @@ WordHunterWoW_Dictionary_PTBR["delaryn"] = { word = "Delaryn", translation = "De
 WordHunterWoW_Dictionary_PTBR["delas"] = { word = "delas", translation = "their; of them", note = "the possessive follows the noun in Portuguese: garras delas means their claws" }
 WordHunterWoW_Dictionary_PTBR["delatou"] = { word = "delatou", translation = "reported", note = "" }
 WordHunterWoW_Dictionary_PTBR["delavey"] = { word = "DeLavey", translation = "DeLavey", note = "NPC name; French-style surname" }
+WordHunterWoW_Dictionary_PTBR["delaying"] = { word = "delaying", translation = "delay", note = "" }
 WordHunterWoW_Dictionary_PTBR["delber"] = { word = "Delber", translation = "Delber", note = "" }
 WordHunterWoW_Dictionary_PTBR["dele"] = { word = "dele", translation = "his; of him", note = "de + ele shows possession: a escritura dele = his deed" }
 WordHunterWoW_Dictionary_PTBR["delegacia"] = { word = "delegacia", translation = "police station", note = "" }
@@ -16090,6 +16115,7 @@ WordHunterWoW_Dictionary_PTBR["delirantes"] = { word = "delirantes", translation
 WordHunterWoW_Dictionary_PTBR["delirava"] = { word = "delirava", translation = "raved", note = "" }
 WordHunterWoW_Dictionary_PTBR["delito"] = { word = "delito", translation = "offense", note = "" }
 WordHunterWoW_Dictionary_PTBR["delitos"] = { word = "delitos", translation = "offenses", note = "" }
+WordHunterWoW_Dictionary_PTBR["deliver"] = { word = "Deliver", translation = "Delivery", note = "" }
 WordHunterWoW_Dictionary_PTBR["delleprane"] = { word = "Delleprane", translation = "Delleprane", note = "" }
 WordHunterWoW_Dictionary_PTBR["dellis"] = { word = "Dellis", translation = "Dellis", note = "" }
 WordHunterWoW_Dictionary_PTBR["delmiro"] = { word = "Delmiro", translation = "Delmiro", note = "" }
@@ -16832,6 +16858,8 @@ WordHunterWoW_Dictionary_PTBR["descende"] = { word = "descende", translation = "
 WordHunterWoW_Dictionary_PTBR["descendem"] = { word = "descendem", translation = "descend", note = "" }
 WordHunterWoW_Dictionary_PTBR["descendente"] = { word = "descendente", translation = "descendant", note = "descendente can refer to a person in a family or bloodline" }
 WordHunterWoW_Dictionary_PTBR["descendentes"] = { word = "descendentes", translation = "descendants", note = "plural of descendente; offspring of an earlier generation" }
+WordHunterWoW_Dictionary_PTBR["descendents"] = { word = "descendents", translation = "descendants", note = "" }
+WordHunterWoW_Dictionary_PTBR["descending"] = { word = "descending", translation = "descent", note = "" }
 WordHunterWoW_Dictionary_PTBR["descendo"] = { word = "descendo", translation = "descending", note = "gerund of descer, to descend" }
 WordHunterWoW_Dictionary_PTBR["descenso"] = { word = "Descenso", translation = "Descent", note = "Descenso do Asa Negra is the raid Blackwing Descent; the everyday word for going down is descida" }
 WordHunterWoW_Dictionary_PTBR["descentes"] = { word = "descentes", translation = "decent", note = "" }
@@ -17574,6 +17602,7 @@ WordHunterWoW_Dictionary_PTBR["desocupada"] = { word = "desocupada", translation
 WordHunterWoW_Dictionary_PTBR["desocupadas"] = { word = "desocupadas", translation = "unoccupied", note = "" }
 WordHunterWoW_Dictionary_PTBR["desocupado"] = { word = "desocupado", translation = "unoccupied", note = "" }
 WordHunterWoW_Dictionary_PTBR["desocupados"] = { word = "desocupados", translation = "idle; unoccupied", note = "here it means not currently busy; the word for jobless is desempregado" }
+WordHunterWoW_Dictionary_PTBR["desolace"] = { word = "Desolace", translation = "Desolate", note = "" }
 WordHunterWoW_Dictionary_PTBR["desolada"] = { word = "desolada", translation = "desolate", note = "" }
 WordHunterWoW_Dictionary_PTBR["desoladas"] = { word = "desoladas", translation = "desolate", note = "" }
 WordHunterWoW_Dictionary_PTBR["desolado"] = { word = "desolado", translation = "desolate", note = "of a person it means heartbroken rather than barren, so the noun it modifies decides the sense" }
@@ -17909,6 +17938,7 @@ WordHunterWoW_Dictionary_PTBR["destro"] = { word = "destro", translation = "righ
 WordHunterWoW_Dictionary_PTBR["destroem"] = { word = "destroem", translation = "destroy", note = "third-person plural present form: they destroy" }
 WordHunterWoW_Dictionary_PTBR["destronados"] = { word = "Destronados", translation = "Uncrowned", note = "the rogue order's official English name is The Uncrowned" }
 WordHunterWoW_Dictionary_PTBR["destronar"] = { word = "destronar", translation = "dethrone", note = "" }
+WordHunterWoW_Dictionary_PTBR["destroying"] = { word = "destroying", translation = "destruction", note = "" }
 WordHunterWoW_Dictionary_PTBR["destroçad"] = { word = "destroçad", translation = "shattered", note = "" }
 WordHunterWoW_Dictionary_PTBR["destroçada"] = { word = "destroçada", translation = "shattered", note = "" }
 WordHunterWoW_Dictionary_PTBR["destroçadas"] = { word = "destroçadas", translation = "shattered", note = "" }
@@ -18046,6 +18076,7 @@ WordHunterWoW_Dictionary_PTBR["desértica"] = { word = "desértica", translation
 WordHunterWoW_Dictionary_PTBR["desérticas"] = { word = "desérticas", translation = "desert", note = "" }
 WordHunterWoW_Dictionary_PTBR["desígnio"] = { word = "desígnio", translation = "scheme; design; artifice", note = "noun; insidious trap or device" }
 WordHunterWoW_Dictionary_PTBR["desígnios"] = { word = "desígnios", translation = "designs; purposes; intentions", note = "formal/literary term for intentions or plans; 'os desígnios deles' = their designs/intentions" }
+WordHunterWoW_Dictionary_PTBR["detail"] = { word = "detail", translation = "details", note = "" }
 WordHunterWoW_Dictionary_PTBR["detalha"] = { word = "detalha", translation = "details", note = "detalhar = detail or describe fully; detalha is the third-person singular form" }
 WordHunterWoW_Dictionary_PTBR["detalhada"] = { word = "detalhada", translation = "detailed", note = "feminine adjective agreeing with planta" }
 WordHunterWoW_Dictionary_PTBR["detalhadamente"] = { word = "detalhadamente", translation = "in detail", note = "" }
@@ -18584,6 +18615,7 @@ WordHunterWoW_Dictionary_PTBR["diplomáticos"] = { word = "diplomáticos", trans
 WordHunterWoW_Dictionary_PTBR["diposta"] = { word = "diposta", translation = "willing", note = "" }
 WordHunterWoW_Dictionary_PTBR["diposto"] = { word = "diposto", translation = "disposed", note = "" }
 WordHunterWoW_Dictionary_PTBR["dique"] = { word = "Dique", translation = "Dike", note = "literal dike or embankment; this may be a place name, but English localization was not confirmed" }
+WordHunterWoW_Dictionary_PTBR["dire"] = { word = "dire", translation = "say", note = "" }
 WordHunterWoW_Dictionary_PTBR["direciona"] = { word = "direciona", translation = "directs", note = "" }
 WordHunterWoW_Dictionary_PTBR["direcionada"] = { word = "direcionada", translation = "targeted", note = "" }
 WordHunterWoW_Dictionary_PTBR["direcionadas"] = { word = "direcionadas", translation = "targeted", note = "" }
@@ -19006,6 +19038,7 @@ WordHunterWoW_Dictionary_PTBR["divagante"] = { word = "divagante", translation =
 WordHunterWoW_Dictionary_PTBR["divagar"] = { word = "divagar", translation = "ramble", note = "" }
 WordHunterWoW_Dictionary_PTBR["divagação"] = { word = "divagação", translation = "rambling", note = "" }
 WordHunterWoW_Dictionary_PTBR["divagações"] = { word = "Divagações", translation = "ramblings; tangents", note = "wandering thoughts or digressions from the main topic" }
+WordHunterWoW_Dictionary_PTBR["diver"] = { word = "diver", translation = "divers", note = "" }
 WordHunterWoW_Dictionary_PTBR["divergem"] = { word = "divergem", translation = "diverge", note = "" }
 WordHunterWoW_Dictionary_PTBR["divergente"] = { word = "Divergente", translation = "Divergent", note = "" }
 WordHunterWoW_Dictionary_PTBR["divergentes"] = { word = "divergentes", translation = "divergent", note = "" }
@@ -19147,6 +19180,7 @@ WordHunterWoW_Dictionary_PTBR["djim"] = { word = "Djim", translation = "DJ", not
 WordHunterWoW_Dictionary_PTBR["djinn"] = { word = "djinn", translation = "djinn; genie", note = "supernatural being from mythology" }
 WordHunterWoW_Dictionary_PTBR["dlagão"] = { word = "Dlagão", translation = "Dlagão", note = "" }
 WordHunterWoW_Dictionary_PTBR["dll"] = { word = "dll", translation = "dll", note = "garbled in-game gibberish rather than a Portuguese word" }
+WordHunterWoW_Dictionary_PTBR["dnt"] = { word = "DNT", translation = "NCD", note = "" }
 WordHunterWoW_Dictionary_PTBR["do"] = { word = "do", translation = "of the", note = "contraction of de + o" }
 WordHunterWoW_Dictionary_PTBR["do'gol"] = { word = "Do'gol", translation = "Do'gol", note = "proper name; NPC blacksmith with apostrophe" }
 WordHunterWoW_Dictionary_PTBR["do-tan"] = { word = "Do-Tan", translation = "Do-Tan", note = "" }
@@ -19255,6 +19289,7 @@ WordHunterWoW_Dictionary_PTBR["dolanaar"] = { word = "Dolanaar", translation = "
 WordHunterWoW_Dictionary_PTBR["dolena"] = { word = "Dolena", translation = "Dolene", note = "" }
 WordHunterWoW_Dictionary_PTBR["dolf"] = { word = "Dolf", translation = "Dolf", note = "" }
 WordHunterWoW_Dictionary_PTBR["dolfo"] = { word = "Dolfo", translation = "Dolfo", note = "" }
+WordHunterWoW_Dictionary_PTBR["dolor"] = { word = "dolor", translation = "pain", note = "" }
 WordHunterWoW_Dictionary_PTBR["dolore'sol"] = { word = "Dolore'sol", translation = "Dolore'sun", note = "" }
 WordHunterWoW_Dictionary_PTBR["doloria"] = { word = "Doloria", translation = "Doloria", note = "" }
 WordHunterWoW_Dictionary_PTBR["dolorida"] = { word = "dolorida", translation = "sore", note = "" }
@@ -19521,6 +19556,7 @@ WordHunterWoW_Dictionary_PTBR["dragar"] = { word = "dragar", translation = "dred
 WordHunterWoW_Dictionary_PTBR["dragas"] = { word = "dragas", translation = "dredgers", note = "" }
 WordHunterWoW_Dictionary_PTBR["dragasmagas"] = { word = "dragasmagas", translation = "dragasmagas", note = "" }
 WordHunterWoW_Dictionary_PTBR["dragatacas"] = { word = "dragatacas", translation = "dredgers", note = "" }
+WordHunterWoW_Dictionary_PTBR["dragged"] = { word = "dragged", translation = "drag", note = "" }
 WordHunterWoW_Dictionary_PTBR["dragkor"] = { word = "Dragkor", translation = "Dragkor", note = "" }
 WordHunterWoW_Dictionary_PTBR["dragocidas"] = { word = "dragocidas", translation = "dragocides", note = "" }
 WordHunterWoW_Dictionary_PTBR["dragoleta"] = { word = "dragoleta", translation = "dragonet", note = "" }
@@ -20484,6 +20520,7 @@ WordHunterWoW_Dictionary_PTBR["emergenciais"] = { word = "emergenciais", transla
 WordHunterWoW_Dictionary_PTBR["emergencial"] = { word = "emergencial", translation = "emergency", note = "in desligamento emergencial, emergency modifies shutdown" }
 WordHunterWoW_Dictionary_PTBR["emergente"] = { word = "emergente", translation = "emerging", note = "" }
 WordHunterWoW_Dictionary_PTBR["emergentes"] = { word = "emergentes", translation = "emerging", note = "" }
+WordHunterWoW_Dictionary_PTBR["emerges"] = { word = "emerges", translation = "emerge", note = "" }
 WordHunterWoW_Dictionary_PTBR["emergi"] = { word = "emergi", translation = "emerged", note = "" }
 WordHunterWoW_Dictionary_PTBR["emergimos"] = { word = "emergimos", translation = "we emerge", note = "" }
 WordHunterWoW_Dictionary_PTBR["emergindo"] = { word = "emergindo", translation = "emerging", note = "" }
@@ -20520,6 +20557,7 @@ WordHunterWoW_Dictionary_PTBR["emitido"] = { word = "emitido", translation = "is
 WordHunterWoW_Dictionary_PTBR["emitindo"] = { word = "emitindo", translation = "emitting; giving off", note = "of light or sound; emitir also covers issuing documents and currency" }
 WordHunterWoW_Dictionary_PTBR["emitir"] = { word = "emitir", translation = "emit; give off", note = "to send out or radiate; an aura radiating from someone" }
 WordHunterWoW_Dictionary_PTBR["emitirá"] = { word = "emitirá", translation = "will issue", note = "" }
+WordHunterWoW_Dictionary_PTBR["emitting"] = { word = "emitting", translation = "issuing", note = "" }
 WordHunterWoW_Dictionary_PTBR["emmara"] = { word = "Emmara", translation = "Emmara", note = "" }
 WordHunterWoW_Dictionary_PTBR["emmarel"] = { word = "Emmarel", translation = "Emmarel", note = "" }
 WordHunterWoW_Dictionary_PTBR["emocionada"] = { word = "emocionada", translation = "emotional", note = "" }
@@ -21092,6 +21130,7 @@ WordHunterWoW_Dictionary_PTBR["encostas"] = { word = "encostas", translation = "
 WordHunterWoW_Dictionary_PTBR["encoste"] = { word = "Encoste", translation = "Pull over", note = "" }
 WordHunterWoW_Dictionary_PTBR["encosto"] = { word = "encosto", translation = "backrest", note = "the back support of a seat or chair" }
 WordHunterWoW_Dictionary_PTBR["encostou"] = { word = "encostou", translation = "pulled over", note = "" }
+WordHunterWoW_Dictionary_PTBR["encountering"] = { word = "encountering", translation = "encounter", note = "" }
 WordHunterWoW_Dictionary_PTBR["encouraçada"] = { word = "Encouraçada", translation = "Garrison; Armored Post", note = "a fortified military installation" }
 WordHunterWoW_Dictionary_PTBR["encouraçado"] = { word = "encouraçado", translation = "armored; heavily protected", note = "with hard protective covering; built for combat" }
 WordHunterWoW_Dictionary_PTBR["encouraçados"] = { word = "encouraçados", translation = "armored", note = "encouraçado can describe armor-plated creatures or ships; here it means armored" }
@@ -23514,6 +23553,7 @@ WordHunterWoW_Dictionary_PTBR["esssquadrão"] = { word = "esssquadrão", transla
 WordHunterWoW_Dictionary_PTBR["essstúpido"] = { word = "essstúpido", translation = "ssstupid", note = "" }
 WordHunterWoW_Dictionary_PTBR["essência"] = { word = "essência", translation = "essence", note = "essência is the inner substance or essential quality of something" }
 WordHunterWoW_Dictionary_PTBR["essências"] = { word = "essências", translation = "essences", note = "in enchanting, essência is a magical crafting reagent" }
+WordHunterWoW_Dictionary_PTBR["est"] = { word = "est", translation = "is", note = "" }
 WordHunterWoW_Dictionary_PTBR["esta"] = { word = "esta", translation = "this", note = "esta is feminine this; unlike está, it has no accent and is not a verb" }
 WordHunterWoW_Dictionary_PTBR["estabelecemos"] = { word = "estabelecemos", translation = "settled", note = "past tense: nos estabelecemos = we settled here" }
 WordHunterWoW_Dictionary_PTBR["estabelecendo"] = { word = "Estabelecendo", translation = "establishing", note = "Brazilian Portuguese uses this gerund where European Portuguese prefers a estabelecer" }
@@ -24540,6 +24580,7 @@ WordHunterWoW_Dictionary_PTBR["exilou-se"] = { word = "exilou-se", translation =
 WordHunterWoW_Dictionary_PTBR["exime"] = { word = "exime", translation = "exempt", note = "" }
 WordHunterWoW_Dictionary_PTBR["eximir"] = { word = "eximir", translation = "exempt", note = "" }
 WordHunterWoW_Dictionary_PTBR["exinanir"] = { word = "exinanir", translation = "exterminate", note = "" }
+WordHunterWoW_Dictionary_PTBR["exist"] = { word = "exist", translation = "exists", note = "" }
 WordHunterWoW_Dictionary_PTBR["exista"] = { word = "exista", translation = "exist", note = "subjunctive after é uma pena que: exista = may exist or exists" }
 WordHunterWoW_Dictionary_PTBR["existam"] = { word = "existam", translation = "may exist", note = "present subjunctive: existam expresses uncertainty or possibility" }
 WordHunterWoW_Dictionary_PTBR["existe"] = { word = "existe", translation = "exists", note = "não existe = there is not; existe is the third-person form of existir" }
@@ -25267,6 +25308,7 @@ WordHunterWoW_Dictionary_PTBR["familiarizava"] = { word = "familiarizava", trans
 WordHunterWoW_Dictionary_PTBR["familiarização"] = { word = "Familiarização", translation = "Familiarization", note = "" }
 WordHunterWoW_Dictionary_PTBR["familiarizem-se"] = { word = "Familiarizem-se", translation = "Get familiar", note = "" }
 WordHunterWoW_Dictionary_PTBR["familiarizou"] = { word = "familiarizou", translation = "familiarized", note = "se familiarizar com = become familiar with something" }
+WordHunterWoW_Dictionary_PTBR["familiars"] = { word = "Familiars", translation = "Family members", note = "" }
 WordHunterWoW_Dictionary_PTBR["faminta"] = { word = "faminta", translation = "hungry", note = "feminine form agrees with fera; fera faminta is a hungry beast" }
 WordHunterWoW_Dictionary_PTBR["famintas"] = { word = "famintas", translation = "hungry", note = "famintas is feminine plural, agreeing with arraias" }
 WordHunterWoW_Dictionary_PTBR["faminto"] = { word = "faminto", translation = "hungry", note = "masculine form agrees with the implied male pet; estar faminto = be very hungry" }
@@ -26593,6 +26635,7 @@ WordHunterWoW_Dictionary_PTBR["fontescarpa"] = { word = "Fontescarpa", translati
 WordHunterWoW_Dictionary_PTBR["fonteterna"] = { word = "Fonteterna", translation = "Fonteterna", note = "" }
 WordHunterWoW_Dictionary_PTBR["fontevita"] = { word = "Fontevita", translation = "Fontevita", note = "" }
 WordHunterWoW_Dictionary_PTBR["food"] = { word = "food", translation = "food", note = "" }
+WordHunterWoW_Dictionary_PTBR["foot"] = { word = "foot", translation = "feet", note = "" }
 WordHunterWoW_Dictionary_PTBR["foothills"] = { word = "Foothills", translation = "Foothills", note = "" }
 WordHunterWoW_Dictionary_PTBR["foothold"] = { word = "foothold", translation = "foothold", note = "" }
 WordHunterWoW_Dictionary_PTBR["for"] = { word = "for", translation = "go", note = "future subjunctive of ir: conforme for ganhando = as you gain" }
@@ -28745,6 +28788,7 @@ WordHunterWoW_Dictionary_PTBR["gotinhas"] = { word = "Gotinhas", translation = "
 WordHunterWoW_Dictionary_PTBR["gotisca"] = { word = "Gotisca", translation = "Gotisca", note = "" }
 WordHunterWoW_Dictionary_PTBR["gotiscas"] = { word = "gotiscas", translation = "drops", note = "" }
 WordHunterWoW_Dictionary_PTBR["gotrigg"] = { word = "Gotrigg", translation = "Gotrigg", note = "" }
+WordHunterWoW_Dictionary_PTBR["gotten"] = { word = "gotten", translation = "got", note = "" }
 WordHunterWoW_Dictionary_PTBR["gotura"] = { word = "Gotura", translation = "Gotura", note = "" }
 WordHunterWoW_Dictionary_PTBR["goturo"] = { word = "Goturo", translation = "Goturo", note = "" }
 WordHunterWoW_Dictionary_PTBR["goubel"] = { word = "Goubel", translation = "Goubel", note = "" }
@@ -29856,6 +29900,7 @@ WordHunterWoW_Dictionary_PTBR["hazzin"] = { word = "Hazzin", translation = "Hazz
 WordHunterWoW_Dictionary_PTBR["hce"] = { word = "HCE", translation = "HCE", note = "" }
 WordHunterWoW_Dictionary_PTBR["hch'uu"] = { word = "Hch'uu", translation = "Hch'uu", note = "" }
 WordHunterWoW_Dictionary_PTBR["he"] = { word = "He", translation = "Hey", note = "attention-getting interjection, usually written ei in Brazilian Portuguese" }
+WordHunterWoW_Dictionary_PTBR["head-on"] = { word = "head-on", translation = "head on", note = "" }
 WordHunterWoW_Dictionary_PTBR["hearthstone"] = { word = "Hearthstone", translation = "Hearthstone", note = "" }
 WordHunterWoW_Dictionary_PTBR["heb'drakkar"] = { word = "Heb'Drakkar", translation = "Heb'Drakkar", note = "" }
 WordHunterWoW_Dictionary_PTBR["heb'jin"] = { word = "Heb'Jin", translation = "Heb'Jin", note = "" }
@@ -30242,6 +30287,7 @@ WordHunterWoW_Dictionary_PTBR["homicídio"] = { word = "homicídio", translation
 WordHunterWoW_Dictionary_PTBR["homogênea"] = { word = "homogênea", translation = "homogeneous", note = "" }
 WordHunterWoW_Dictionary_PTBR["homurk"] = { word = "Homurk", translation = "Homurk", note = "" }
 WordHunterWoW_Dictionary_PTBR["hondo"] = { word = "Hondo", translation = "Hondo", note = "" }
+WordHunterWoW_Dictionary_PTBR["hone"] = { word = "hone", translation = "hon", note = "" }
 WordHunterWoW_Dictionary_PTBR["honesta"] = { word = "honesta", translation = "honest", note = "feminine form of honesto, agreeing with the person described" }
 WordHunterWoW_Dictionary_PTBR["honestamente"] = { word = "honestamente", translation = "honestly", note = "the h is silent; honesto keeps the Latin spelling without the sound" }
 WordHunterWoW_Dictionary_PTBR["honestas"] = { word = "honestas", translation = "honest", note = "" }
@@ -30416,6 +30462,7 @@ WordHunterWoW_Dictionary_PTBR["humanos"] = { word = "humanos", translation = "hu
 WordHunterWoW_Dictionary_PTBR["humanóide"] = { word = "humanóide", translation = "humanoid", note = "" }
 WordHunterWoW_Dictionary_PTBR["humberrto"] = { word = "Humberrto", translation = "Humberrto", note = "" }
 WordHunterWoW_Dictionary_PTBR["humberto"] = { word = "Humberto", translation = "Humberto", note = "" }
+WordHunterWoW_Dictionary_PTBR["humblevocê"] = { word = "humbleVocê", translation = "humbleYou", note = "" }
 WordHunterWoW_Dictionary_PTBR["humboldt"] = { word = "Humboldt", translation = "Humboldt", note = "" }
 WordHunterWoW_Dictionary_PTBR["humildade"] = { word = "Humildade", translation = "humility", note = "abstract noun from humilde, humble" }
 WordHunterWoW_Dictionary_PTBR["humilde"] = { word = "humilde", translation = "humble", note = "humilde can describe modest status or a simple, unpretentious place" }
@@ -31226,6 +31273,7 @@ WordHunterWoW_Dictionary_PTBR["inauguramos"] = { word = "Inauguramos", translati
 WordHunterWoW_Dictionary_PTBR["inaugurando"] = { word = "Inaugurando", translation = "Opening", note = "" }
 WordHunterWoW_Dictionary_PTBR["inaugurar"] = { word = "inaugurar", translation = "inaugurate", note = "" }
 WordHunterWoW_Dictionary_PTBR["inauguração"] = { word = "inauguração", translation = "inauguration", note = "" }
+WordHunterWoW_Dictionary_PTBR["inc"] = { word = "Inc", translation = "Inc.", note = "" }
 WordHunterWoW_Dictionary_PTBR["incalculáveis"] = { word = "incalculáveis", translation = "incalculable", note = "incalculável can mean impossible to calculate or assess" }
 WordHunterWoW_Dictionary_PTBR["incalculável"] = { word = "incalculável", translation = "incalculable; immeasurable", note = "in- + calcular + -avel, the suffix matching English -able" }
 WordHunterWoW_Dictionary_PTBR["incandescente"] = { word = "Incandescente", translation = "Incandescent", note = "capitalized here because it appears in the name of the Incandescent Nest" }
@@ -31767,6 +31815,7 @@ WordHunterWoW_Dictionary_PTBR["infestação"] = { word = "infestação", transla
 WordHunterWoW_Dictionary_PTBR["infestações"] = { word = "infestações", translation = "infestations", note = "" }
 WordHunterWoW_Dictionary_PTBR["infeste"] = { word = "infeste", translation = "infest", note = "" }
 WordHunterWoW_Dictionary_PTBR["infestem"] = { word = "INFESTEM", translation = "INFEST", note = "" }
+WordHunterWoW_Dictionary_PTBR["infesting"] = { word = "infesting", translation = "infestation", note = "" }
 WordHunterWoW_Dictionary_PTBR["infestou"] = { word = "infestou", translation = "infested; overran", note = "preterite, a completed act: a pack moved in, not a present state" }
 WordHunterWoW_Dictionary_PTBR["infiel"] = { word = "infiel", translation = "unfaithful", note = "" }
 WordHunterWoW_Dictionary_PTBR["infiltra"] = { word = "infiltra", translation = "infiltrate", note = "command in a quest title; it is not third-person infiltrates" }
@@ -32206,6 +32255,7 @@ WordHunterWoW_Dictionary_PTBR["inspeciono"] = { word = "inspeciono", translation
 WordHunterWoW_Dictionary_PTBR["inspecionou"] = { word = "inspecionou", translation = "inspected", note = "" }
 WordHunterWoW_Dictionary_PTBR["inspecioná-las"] = { word = "inspecioná-las", translation = "inspect them", note = "" }
 WordHunterWoW_Dictionary_PTBR["inspecioná-los"] = { word = "inspecioná-los", translation = "inspect them", note = "" }
+WordHunterWoW_Dictionary_PTBR["inspects"] = { word = "inspects", translation = "inspections", note = "" }
 WordHunterWoW_Dictionary_PTBR["inspetor"] = { word = "Inspetor", translation = "Inspector", note = "" }
 WordHunterWoW_Dictionary_PTBR["inspetores"] = { word = "inspetores", translation = "inspectors", note = "" }
 WordHunterWoW_Dictionary_PTBR["inspeção"] = { word = "inspeção", translation = "inspection", note = "inspeção final = final inspection, a fixed phrase in quest instructions" }
@@ -33116,6 +33166,7 @@ WordHunterWoW_Dictionary_PTBR["iskar"] = { word = "Iskar", translation = "Iskar"
 WordHunterWoW_Dictionary_PTBR["iskha"] = { word = "Iskha", translation = "Iskha", note = "" }
 WordHunterWoW_Dictionary_PTBR["isla"] = { word = "Isla", translation = "Island", note = "" }
 WordHunterWoW_Dictionary_PTBR["island"] = { word = "island", translation = "island", note = "English word in English quest text" }
+WordHunterWoW_Dictionary_PTBR["isle"] = { word = "isle", translation = "island", note = "" }
 WordHunterWoW_Dictionary_PTBR["islen"] = { word = "Islen", translation = "Islen", note = "" }
 WordHunterWoW_Dictionary_PTBR["iso'rath"] = { word = "Iso'rath", translation = "Iso'rath", note = "" }
 WordHunterWoW_Dictionary_PTBR["isolada"] = { word = "isolada", translation = "isolated", note = "from ilha (island) by way of Italian isolato, literally made into an island" }
@@ -33419,6 +33470,7 @@ WordHunterWoW_Dictionary_PTBR["jet"] = { word = "jet", translation = "jet", note
 WordHunterWoW_Dictionary_PTBR["jethan"] = { word = "Jethan", translation = "Jethan", note = "" }
 WordHunterWoW_Dictionary_PTBR["jeto"] = { word = "jeto", translation = "jet", note = "" }
 WordHunterWoW_Dictionary_PTBR["jett"] = { word = "Jett", translation = "Jett", note = "" }
+WordHunterWoW_Dictionary_PTBR["jewelershop"] = { word = "Jewelershop", translation = "jewelry shop", note = "" }
 WordHunterWoW_Dictionary_PTBR["jeyne"] = { word = "Jeyne", translation = "Jeyne", note = "" }
 WordHunterWoW_Dictionary_PTBR["jeytha"] = { word = "Jeytha", translation = "Jeytha", note = "" }
 WordHunterWoW_Dictionary_PTBR["jez"] = { word = "Jez", translation = "Jez", note = "" }
@@ -35275,6 +35327,7 @@ WordHunterWoW_Dictionary_PTBR["lenhoso"] = { word = "Lenhoso", translation = "Wo
 WordHunterWoW_Dictionary_PTBR["lenhosos"] = { word = "lenhosos", translation = "woody", note = "" }
 WordHunterWoW_Dictionary_PTBR["lenhâmbar"] = { word = "Lenhâmbar", translation = "Ambermill", note = "lenha (wood) + âmbar; the Dalaran mages' village in Silverpine" }
 WordHunterWoW_Dictionary_PTBR["leniente"] = { word = "leniente", translation = "lenient", note = "" }
+WordHunterWoW_Dictionary_PTBR["lent"] = { word = "lent", translation = "slow", note = "" }
 WordHunterWoW_Dictionary_PTBR["lenta"] = { word = "lenta", translation = "slow", note = "lenta agrees with the feminine noun batida, the heartbeat" }
 WordHunterWoW_Dictionary_PTBR["lentamente"] = { word = "lentamente", translation = "slowly", note = "the suffix -mente turns lento, slow, into an adverb" }
 WordHunterWoW_Dictionary_PTBR["lentas"] = { word = "lentas", translation = "slow", note = "" }
@@ -35997,6 +36050,7 @@ WordHunterWoW_Dictionary_PTBR["localizá-la"] = { word = "localizá-la", transla
 WordHunterWoW_Dictionary_PTBR["localizá-las"] = { word = "localizá-las", translation = "locate them", note = "" }
 WordHunterWoW_Dictionary_PTBR["localizá-lo"] = { word = "localizá-lo", translation = "locate it", note = "localizá-lo = locate it; -lo is the masculine object clitic" }
 WordHunterWoW_Dictionary_PTBR["localizá-los"] = { word = "localizá-los", translation = "locate them", note = "infinitive plus enclitic pronoun: the final r drops and the a takes an acute accent" }
+WordHunterWoW_Dictionary_PTBR["locate"] = { word = "Locate", translation = "Location", note = "" }
 WordHunterWoW_Dictionary_PTBR["located"] = { word = "located", translation = "located", note = "" }
 WordHunterWoW_Dictionary_PTBR["location"] = { word = "LOCATION", translation = "LOCATION", note = "" }
 WordHunterWoW_Dictionary_PTBR["loch"] = { word = "Loch", translation = "Loch", note = "" }
@@ -36701,8 +36755,10 @@ WordHunterWoW_Dictionary_PTBR["magias"] = { word = "magias", translation = "spel
 WordHunterWoW_Dictionary_PTBR["magic"] = { word = "magic", translation = "magic", note = "" }
 WordHunterWoW_Dictionary_PTBR["magical"] = { word = "magical", translation = "magical", note = "English word in Portuguese text" }
 WordHunterWoW_Dictionary_PTBR["magicamente"] = { word = "magicamente", translation = "magically", note = "adverbs take -mente on the feminine adjective, mágica + mente, and lose the accent" }
+WordHunterWoW_Dictionary_PTBR["magics"] = { word = "magics", translation = "magic", note = "" }
 WordHunterWoW_Dictionary_PTBR["magifaixa"] = { word = "magifaixa", translation = "magifaixa", note = "" }
 WordHunterWoW_Dictionary_PTBR["magilança"] = { word = "Magilança", translation = "Spellcraft", note = "nickname or epithet; spellcraft is a literal reading, but the official English rendering is unconfirmed" }
+WordHunterWoW_Dictionary_PTBR["magister"] = { word = "Magister", translation = "Master", note = "" }
 WordHunterWoW_Dictionary_PTBR["magistra"] = { word = "Magistra", translation = "Magistrix", note = "female blood elf title; the official English form is Magistrix" }
 WordHunterWoW_Dictionary_PTBR["magistrado"] = { word = "Magistrado", translation = "Magistrate", note = "magistrado is an official or judge; it is not related to the English word magistral" }
 WordHunterWoW_Dictionary_PTBR["magistrados"] = { word = "magistrados", translation = "magistrates", note = "" }
@@ -36888,6 +36944,7 @@ WordHunterWoW_Dictionary_PTBR["malcheirosa"] = { word = "malcheirosa", translati
 WordHunterWoW_Dictionary_PTBR["malcheiroso"] = { word = "malcheiroso", translation = "smelly", note = "" }
 WordHunterWoW_Dictionary_PTBR["malchezaar"] = { word = "Malchezaar", translation = "Malchezaar", note = "" }
 WordHunterWoW_Dictionary_PTBR["malcin"] = { word = "Malcin", translation = "Malcin", note = "" }
+WordHunterWoW_Dictionary_PTBR["malcinvocê"] = { word = "MalcinVocê", translation = "MalcinYou", note = "" }
 WordHunterWoW_Dictionary_PTBR["malcriadas"] = { word = "malcriadas", translation = "naughty", note = "" }
 WordHunterWoW_Dictionary_PTBR["malcriados"] = { word = "malcriados", translation = "naughty", note = "" }
 WordHunterWoW_Dictionary_PTBR["maldade"] = { word = "maldade", translation = "evil", note = "maldade is evil or wickedness, not simply a bad deed" }
@@ -36919,6 +36976,7 @@ WordHunterWoW_Dictionary_PTBR["malefícios"] = { word = "malefícios", translati
 WordHunterWoW_Dictionary_PTBR["malefúria"] = { word = "Malefúria", translation = "Malefury", note = "" }
 WordHunterWoW_Dictionary_PTBR["malem"] = { word = "Malem", translation = "Malem", note = "" }
 WordHunterWoW_Dictionary_PTBR["males"] = { word = "males", translation = "evils", note = "here males means evils or afflictions, not male" }
+WordHunterWoW_Dictionary_PTBR["malesuada"] = { word = "malesuada", translation = "bad", note = "" }
 WordHunterWoW_Dictionary_PTBR["maleta"] = { word = "maleta", translation = "briefcase; small case", note = "diminutive of mala (suitcase), with the -eta suffix" }
 WordHunterWoW_Dictionary_PTBR["maletas"] = { word = "maletas", translation = "suitcases", note = "" }
 WordHunterWoW_Dictionary_PTBR["maleva"] = { word = "Maleva", translation = "Maleva", note = "" }
@@ -39099,6 +39157,7 @@ WordHunterWoW_Dictionary_PTBR["modificá-las"] = { word = "modificá-las", trans
 WordHunterWoW_Dictionary_PTBR["modifique"] = { word = "modifique", translation = "modify", note = "" }
 WordHunterWoW_Dictionary_PTBR["modifiquei"] = { word = "Modifiquei", translation = "I modified", note = "preterite; c becomes qu before the -ei ending to keep the hard sound" }
 WordHunterWoW_Dictionary_PTBR["modinha"] = { word = "modinha", translation = "fashion", note = "" }
+WordHunterWoW_Dictionary_PTBR["modir"] = { word = "Modir", translation = "Modify", note = "" }
 WordHunterWoW_Dictionary_PTBR["modo"] = { word = "modo", translation = "way", note = "modo mais rápido means quickest way; mode is usually about a setting or system" }
 WordHunterWoW_Dictionary_PTBR["modorrento"] = { word = "Modorrento", translation = "Modorrento", note = "" }
 WordHunterWoW_Dictionary_PTBR["modos"] = { word = "modos", translation = "ways; manners", note = "de todos os modos means anyway, and que modos! scolds someone's bad manners" }
@@ -41208,6 +41267,7 @@ WordHunterWoW_Dictionary_PTBR["nulificando"] = { word = "Nulificando", translati
 WordHunterWoW_Dictionary_PTBR["nulificação"] = { word = "nulificação", translation = "nullification", note = "" }
 WordHunterWoW_Dictionary_PTBR["nulitraje"] = { word = "nulitraje", translation = "null suit", note = "a coined compound of nuli- (null) and traje (suit); exact item name unconfirmed" }
 WordHunterWoW_Dictionary_PTBR["nulitrajes"] = { word = "nulitrajes", translation = "nullitrajes", note = "" }
+WordHunterWoW_Dictionary_PTBR["nulla"] = { word = "Nulla", translation = "Null", note = "" }
 WordHunterWoW_Dictionary_PTBR["nullaeus"] = { word = "Nullaeus", translation = "Nullaeus", note = "" }
 WordHunterWoW_Dictionary_PTBR["nulo"] = { word = "Nulo", translation = "Null", note = "unclear context — could mean void, null, or be a proper administrative name" }
 WordHunterWoW_Dictionary_PTBR["nulos"] = { word = "nulos", translation = "null", note = "" }
@@ -41823,6 +41883,7 @@ WordHunterWoW_Dictionary_PTBR["okrilla"] = { word = "Okrilla", translation = "Ok
 WordHunterWoW_Dictionary_PTBR["okrog"] = { word = "Okrog", translation = "Okrog", note = "" }
 WordHunterWoW_Dictionary_PTBR["okrut"] = { word = "Okrut", translation = "Okrut", note = "" }
 WordHunterWoW_Dictionary_PTBR["okuna"] = { word = "Okuna", translation = "Okuna", note = "" }
+WordHunterWoW_Dictionary_PTBR["ol"] = { word = "ol", translation = "hello", note = "" }
 WordHunterWoW_Dictionary_PTBR["olacrístia"] = { word = "Olacrístia", translation = "Olacristia", note = "" }
 WordHunterWoW_Dictionary_PTBR["olaf"] = { word = "Olaf", translation = "Olaf", note = "" }
 WordHunterWoW_Dictionary_PTBR["olafson"] = { word = "Olafson", translation = "Olafson", note = "" }
@@ -42031,6 +42092,7 @@ WordHunterWoW_Dictionary_PTBR["operar"] = { word = "operar", translation = "oper
 WordHunterWoW_Dictionary_PTBR["operarem"] = { word = "operarem", translation = "operate", note = "" }
 WordHunterWoW_Dictionary_PTBR["operaremos"] = { word = "operaremos", translation = "we will operate", note = "" }
 WordHunterWoW_Dictionary_PTBR["operará"] = { word = "operará", translation = "will operate", note = "" }
+WordHunterWoW_Dictionary_PTBR["operation"] = { word = "operation", translation = "operations", note = "" }
 WordHunterWoW_Dictionary_PTBR["operavam"] = { word = "operavam", translation = "operated", note = "" }
 WordHunterWoW_Dictionary_PTBR["operação"] = { word = "operação", translation = "operation", note = "" }
 WordHunterWoW_Dictionary_PTBR["operações"] = { word = "operações", translation = "operations", note = "" }
@@ -42144,6 +42206,7 @@ WordHunterWoW_Dictionary_PTBR["orc"] = { word = "orc", translation = "orc", note
 WordHunterWoW_Dictionary_PTBR["orca"] = { word = "orca", translation = "orca", note = "the whale; in context this is a named creature/pet" }
 WordHunterWoW_Dictionary_PTBR["orcarmeyer"] = { word = "Orcarmeyer", translation = "Orcarmeyer", note = "" }
 WordHunterWoW_Dictionary_PTBR["orcas"] = { word = "orcas", translation = "orcas", note = "orca means killer whale; the English plural adds -s" }
+WordHunterWoW_Dictionary_PTBR["orces"] = { word = "orces", translation = "budgets", note = "" }
 WordHunterWoW_Dictionary_PTBR["orcs"] = { word = "orcs", translation = "orcs", note = "" }
 WordHunterWoW_Dictionary_PTBR["ordeiro"] = { word = "Ordeiro", translation = "Orderly", note = "" }
 WordHunterWoW_Dictionary_PTBR["ordeiros"] = { word = "Ordeiros", translation = "Orderly", note = "" }
@@ -43833,6 +43896,7 @@ WordHunterWoW_Dictionary_PTBR["península"] = { word = "Península", translation
 WordHunterWoW_Dictionary_PTBR["penúltimo"] = { word = "Penúltimo", translation = "Penultimate", note = "" }
 WordHunterWoW_Dictionary_PTBR["penúria"] = { word = "penúria", translation = "penury", note = "" }
 WordHunterWoW_Dictionary_PTBR["peonei"] = { word = "peonei", translation = "peonei", note = "" }
+WordHunterWoW_Dictionary_PTBR["peons"] = { word = "peons", translation = "pawns", note = "" }
 WordHunterWoW_Dictionary_PTBR["pepa"] = { word = "Pepa", translation = "Pepa", note = "" }
 WordHunterWoW_Dictionary_PTBR["pepe"] = { word = "Pepe", translation = "Pepe", note = "Pepe Tallgrass; tauren tracker name" }
 WordHunterWoW_Dictionary_PTBR["pepino"] = { word = "pepino", translation = "problem", note = "slang: pepino means a problem here, not a cucumber" }
@@ -44031,6 +44095,7 @@ WordHunterWoW_Dictionary_PTBR["perfeitos"] = { word = "perfeitos", translation =
 WordHunterWoW_Dictionary_PTBR["perfeição"] = { word = "perfeição", translation = "perfection", note = "" }
 WordHunterWoW_Dictionary_PTBR["perfil"] = { word = "perfil", translation = "profile", note = "" }
 WordHunterWoW_Dictionary_PTBR["performance"] = { word = "performance", translation = "performance", note = "English loanword used in Brazilian Portuguese with the same spelling" }
+WordHunterWoW_Dictionary_PTBR["performs"] = { word = "performs", translation = "performances", note = "" }
 WordHunterWoW_Dictionary_PTBR["perfumada"] = { word = "perfumada", translation = "perfumed", note = "" }
 WordHunterWoW_Dictionary_PTBR["perfumadas"] = { word = "perfumadas", translation = "perfumed", note = "" }
 WordHunterWoW_Dictionary_PTBR["perfumado"] = { word = "perfumado", translation = "fragrant", note = "" }
@@ -45426,6 +45491,7 @@ WordHunterWoW_Dictionary_PTBR["possamos"] = { word = "possamos", translation = "
 WordHunterWoW_Dictionary_PTBR["possante"] = { word = "Possante", translation = "Powerful", note = "" }
 WordHunterWoW_Dictionary_PTBR["possas"] = { word = "possas", translation = "you may be able", note = "present subjunctive of poder in the tu form, required after para que" }
 WordHunterWoW_Dictionary_PTBR["posse"] = { word = "posse", translation = "control", note = "mudar de posse means change hands; here it refers to control of territory" }
+WordHunterWoW_Dictionary_PTBR["posse-gatherin"] = { word = "posse-gatherin", translation = "possession-gatherin", note = "" }
 WordHunterWoW_Dictionary_PTBR["posses"] = { word = "posses", translation = "possessions", note = "english source word in the embedded text; possessions means belongings" }
 WordHunterWoW_Dictionary_PTBR["possessivo"] = { word = "possessivo", translation = "possessive", note = "" }
 WordHunterWoW_Dictionary_PTBR["possesso"] = { word = "possesso", translation = "possessed", note = "" }
@@ -45487,6 +45553,7 @@ WordHunterWoW_Dictionary_PTBR["postular"] = { word = "postular", translation = "
 WordHunterWoW_Dictionary_PTBR["postulo"] = { word = "postulo", translation = "postulate", note = "" }
 WordHunterWoW_Dictionary_PTBR["postura"] = { word = "postura", translation = "posture, stance", note = "also means a stance on an issue, and in law a municipal ordinance" }
 WordHunterWoW_Dictionary_PTBR["postássemos"] = { word = "postássemos", translation = "we would post", note = "" }
+WordHunterWoW_Dictionary_PTBR["posuere"] = { word = "posuere", translation = "possess", note = "" }
 WordHunterWoW_Dictionary_PTBR["pote"] = { word = "pote", translation = "pot", note = "pote is a general container; pot, jar, or tub may fit depending on the object" }
 WordHunterWoW_Dictionary_PTBR["potenciais"] = { word = "potenciais", translation = "potential", note = "an adjective here modifying melhoramentos, not the noun potentials" }
 WordHunterWoW_Dictionary_PTBR["potencial"] = { word = "potencial", translation = "potential", note = "aliados em potencial = potential allies" }
@@ -45505,6 +45572,7 @@ WordHunterWoW_Dictionary_PTBR["potencializei"] = { word = "potencializei", trans
 WordHunterWoW_Dictionary_PTBR["potencializou"] = { word = "potencializou", translation = "potentiated", note = "" }
 WordHunterWoW_Dictionary_PTBR["potencializá-lo"] = { word = "potencializá-lo", translation = "enhance it", note = "" }
 WordHunterWoW_Dictionary_PTBR["potencialmente"] = { word = "potencialmente", translation = "potentially", note = "" }
+WordHunterWoW_Dictionary_PTBR["potent"] = { word = "potent", translation = "powerful", note = "" }
 WordHunterWoW_Dictionary_PTBR["potente"] = { word = "potente", translation = "powerful", note = "cognate with English potent, both from Latin potens" }
 WordHunterWoW_Dictionary_PTBR["potentes"] = { word = "potentes", translation = "potent", note = "potente means potent or powerful; here it describes elixirs" }
 WordHunterWoW_Dictionary_PTBR["potentíssima"] = { word = "potentíssima", translation = "very powerful", note = "" }
@@ -45914,6 +45982,7 @@ WordHunterWoW_Dictionary_PTBR["prenuncia"] = { word = "prenuncia", translation =
 WordHunterWoW_Dictionary_PTBR["prenunciam"] = { word = "prenunciam", translation = "foreshadow", note = "" }
 WordHunterWoW_Dictionary_PTBR["prenúncio"] = { word = "prenúncio", translation = "omen; portent; foreboding", note = "pré (before) + núncio (messenger); sign of things to come; omen or warning" }
 WordHunterWoW_Dictionary_PTBR["prenúncios"] = { word = "Prenúncios", translation = "Foreshadowing", note = "" }
+WordHunterWoW_Dictionary_PTBR["preoccupied"] = { word = "preoccupied", translation = "worried", note = "" }
 WordHunterWoW_Dictionary_PTBR["preocupa"] = { word = "preocupa", translation = "worries", note = "se preocupa com = worries about or cares about" }
 WordHunterWoW_Dictionary_PTBR["preocupa-me"] = { word = "Preocupa-me", translation = "I worry", note = "" }
 WordHunterWoW_Dictionary_PTBR["preocupada"] = { word = "preocupada", translation = "concerned", note = "preocupada is feminine; Brazilian Portuguese marks gender in the -a ending" }
@@ -45982,6 +46051,7 @@ WordHunterWoW_Dictionary_PTBR["preparei"] = { word = "preparei", translation = "
 WordHunterWoW_Dictionary_PTBR["preparem"] = { word = "preparem", translation = "prepare", note = "vocês imperative, an order to a group; the subjunctive form doubles as the command" }
 WordHunterWoW_Dictionary_PTBR["preparem-se"] = { word = "Preparem-se", translation = "Get ready", note = "" }
 WordHunterWoW_Dictionary_PTBR["preparemos"] = { word = "preparemos", translation = "let's prepare", note = "" }
+WordHunterWoW_Dictionary_PTBR["prepares"] = { word = "prepares", translation = "prepare", note = "" }
 WordHunterWoW_Dictionary_PTBR["preparo"] = { word = "preparo", translation = "prepare", note = "preparo can be a noun or first-person verb; this clause makes it 'I prepare'" }
 WordHunterWoW_Dictionary_PTBR["preparos"] = { word = "preparos", translation = "preparations", note = "" }
 WordHunterWoW_Dictionary_PTBR["preparou"] = { word = "preparou", translation = "prepared", note = "preparou is the preterite of preparar, so it means prepared" }
@@ -46172,6 +46242,7 @@ WordHunterWoW_Dictionary_PTBR["presídio"] = { word = "Presídio", translation =
 WordHunterWoW_Dictionary_PTBR["preta"] = { word = "preta", translation = "black", note = "in a coisa está ficando preta, the idiom means things are looking bad" }
 WordHunterWoW_Dictionary_PTBR["pretas"] = { word = "pretas", translation = "black", note = "feminine plural agrees with an omitted noun; English black stays unchanged" }
 WordHunterWoW_Dictionary_PTBR["pretejado"] = { word = "pretejado", translation = "deprecated", note = "" }
+WordHunterWoW_Dictionary_PTBR["pretend"] = { word = "pretend", translation = "intend", note = "" }
 WordHunterWoW_Dictionary_PTBR["pretenda"] = { word = "pretenda", translation = "intend", note = "" }
 WordHunterWoW_Dictionary_PTBR["pretendam"] = { word = "pretendam", translation = "intend", note = "false friend: pretendam means intend, not pretend" }
 WordHunterWoW_Dictionary_PTBR["pretende"] = { word = "pretende", translation = "intend", note = "false friend: pretender means to intend, not to pretend" }
@@ -47543,6 +47614,7 @@ WordHunterWoW_Dictionary_PTBR["quallestis"] = { word = "Quallestis", translation
 WordHunterWoW_Dictionary_PTBR["qualquer"] = { word = "qualquer", translation = "any", note = "qualquer um = anyone or any one; qualquer coisa = anything" }
 WordHunterWoW_Dictionary_PTBR["qualquerr"] = { word = "qualquerr", translation = "anyone", note = "" }
 WordHunterWoW_Dictionary_PTBR["qualé"] = { word = "qualé", translation = "what it is", note = "" }
+WordHunterWoW_Dictionary_PTBR["quam"] = { word = "quam", translation = "who", note = "" }
 WordHunterWoW_Dictionary_PTBR["quando"] = { word = "quando", translation = "when", note = "" }
 WordHunterWoW_Dictionary_PTBR["quanta"] = { word = "Quanta", translation = "How much", note = "feminine form agreeing with cerveja; quanto is masculine" }
 WordHunterWoW_Dictionary_PTBR["quantas"] = { word = "quantas", translation = "how many", note = "quantas agrees with a feminine plural noun such as pessoas" }
@@ -48886,6 +48958,7 @@ WordHunterWoW_Dictionary_PTBR["reclamar"] = { word = "reclamar", translation = "
 WordHunterWoW_Dictionary_PTBR["reclamaram"] = { word = "Reclamaram", translation = "They complained", note = "" }
 WordHunterWoW_Dictionary_PTBR["reclamarmos"] = { word = "reclamarmos", translation = "we complain", note = "" }
 WordHunterWoW_Dictionary_PTBR["reclamarão"] = { word = "reclamarão", translation = "will complain", note = "" }
+WordHunterWoW_Dictionary_PTBR["reclamation"] = { word = "reclamation", translation = "complaint", note = "" }
 WordHunterWoW_Dictionary_PTBR["reclamavam"] = { word = "reclamavam", translation = "they complained", note = "" }
 WordHunterWoW_Dictionary_PTBR["reclamação"] = { word = "reclamação", translation = "complaint", note = "" }
 WordHunterWoW_Dictionary_PTBR["reclamações"] = { word = "reclamações", translation = "complaints", note = "reclamação (complaint) + -es plural; also protests" }
@@ -48898,6 +48971,7 @@ WordHunterWoW_Dictionary_PTBR["reclamões"] = { word = "reclamões", translation
 WordHunterWoW_Dictionary_PTBR["reclinada"] = { word = "Reclinada", translation = "Reclining", note = "" }
 WordHunterWoW_Dictionary_PTBR["reclusa"] = { word = "Reclusa", translation = "Inmate", note = "" }
 WordHunterWoW_Dictionary_PTBR["reclusas"] = { word = "reclusas", translation = "inmates", note = "" }
+WordHunterWoW_Dictionary_PTBR["recluse"] = { word = "Recluse", translation = "Inmate", note = "" }
 WordHunterWoW_Dictionary_PTBR["recluso"] = { word = "recluso", translation = "reclusive", note = "recluso describes someone secluded or withdrawn; an inmate is a preso" }
 WordHunterWoW_Dictionary_PTBR["reclusos"] = { word = "reclusos", translation = "secluded", note = "recluso can mean secluded or shut away; these cultists are holed up" }
 WordHunterWoW_Dictionary_PTBR["reco-reco"] = { word = "Reco-reco", translation = "Reco-reco", note = "proper name (character); also a type of Brazilian percussion instrument" }
@@ -49926,6 +50000,7 @@ WordHunterWoW_Dictionary_PTBR["remexendo"] = { word = "Remexendo", translation =
 WordHunterWoW_Dictionary_PTBR["remexer"] = { word = "remexer", translation = "rummage", note = "" }
 WordHunterWoW_Dictionary_PTBR["remexida"] = { word = "remexida", translation = "scrambled", note = "" }
 WordHunterWoW_Dictionary_PTBR["remik"] = { word = "Remik", translation = "Remik", note = "" }
+WordHunterWoW_Dictionary_PTBR["reminds"] = { word = "reminds", translation = "reminders", note = "" }
 WordHunterWoW_Dictionary_PTBR["reminescências"] = { word = "reminescências", translation = "reminiscences", note = "" }
 WordHunterWoW_Dictionary_PTBR["reminiscências"] = { word = "Reminiscências", translation = "Reminiscences", note = "" }
 WordHunterWoW_Dictionary_PTBR["remma"] = { word = "Remma", translation = "Remma", note = "" }
@@ -50065,6 +50140,7 @@ WordHunterWoW_Dictionary_PTBR["renovem"] = { word = "renovem", translation = "re
 WordHunterWoW_Dictionary_PTBR["renovemos"] = { word = "Renovemos", translation = "Let us renew", note = "" }
 WordHunterWoW_Dictionary_PTBR["renovou"] = { word = "renovou", translation = "renewed", note = "" }
 WordHunterWoW_Dictionary_PTBR["renovávamos"] = { word = "renovávamos", translation = "we renewed", note = "" }
+WordHunterWoW_Dictionary_PTBR["renown"] = { word = "renown", translation = "renew", note = "" }
 WordHunterWoW_Dictionary_PTBR["rensai"] = { word = "Rensai", translation = "Rensai", note = "" }
 WordHunterWoW_Dictionary_PTBR["rensar"] = { word = "Rensar", translation = "Rensar", note = "" }
 WordHunterWoW_Dictionary_PTBR["rente"] = { word = "rente", translation = "close", note = "" }
@@ -50394,11 +50470,14 @@ WordHunterWoW_Dictionary_PTBR["residem"] = { word = "residem", translation = "re
 WordHunterWoW_Dictionary_PTBR["residencial"] = { word = "residencial", translation = "residential", note = "" }
 WordHunterWoW_Dictionary_PTBR["residente"] = { word = "residente", translation = "resident", note = "engenheiro residente can also be rendered in-house engineer" }
 WordHunterWoW_Dictionary_PTBR["residentes"] = { word = "residentes", translation = "residents", note = "the plural noun refers to people living in the village" }
+WordHunterWoW_Dictionary_PTBR["resides"] = { word = "resides", translation = "reside", note = "" }
 WordHunterWoW_Dictionary_PTBR["residi"] = { word = "residi", translation = "resided", note = "" }
 WordHunterWoW_Dictionary_PTBR["residindo"] = { word = "residindo", translation = "residing", note = "" }
 WordHunterWoW_Dictionary_PTBR["residir"] = { word = "residir", translation = "reside", note = "" }
 WordHunterWoW_Dictionary_PTBR["residuais"] = { word = "residuais", translation = "residual", note = "adjective; leftover creations from before" }
 WordHunterWoW_Dictionary_PTBR["residual"] = { word = "residual", translation = "residual", note = "residual means left over after the main material or process" }
+WordHunterWoW_Dictionary_PTBR["residue"] = { word = "residue", translation = "residue residue", note = "" }
+WordHunterWoW_Dictionary_PTBR["residues"] = { word = "Residues", translation = "Waste", note = "" }
 WordHunterWoW_Dictionary_PTBR["residência"] = { word = "residência", translation = "residence", note = "residência can mean a home or official residence; it is a direct cognate" }
 WordHunterWoW_Dictionary_PTBR["resignada"] = { word = "resignada", translation = "resigned", note = "" }
 WordHunterWoW_Dictionary_PTBR["resignar"] = { word = "resignar", translation = "resign", note = "" }
@@ -51213,6 +51292,7 @@ WordHunterWoW_Dictionary_PTBR["ridiculamente"] = { word = "ridiculamente", trans
 WordHunterWoW_Dictionary_PTBR["ridicularizadas"] = { word = "ridicularizadas", translation = "ridiculed", note = "" }
 WordHunterWoW_Dictionary_PTBR["ridicularização"] = { word = "ridicularização", translation = "ridicule", note = "" }
 WordHunterWoW_Dictionary_PTBR["rido"] = { word = "rido", translation = "laughed", note = "" }
+WordHunterWoW_Dictionary_PTBR["rids"] = { word = "rids", translation = "laughs", note = "" }
 WordHunterWoW_Dictionary_PTBR["ridícula"] = { word = "ridícula", translation = "ridiculous", note = "the feminine ending agrees with calça; English ridiculous has no gender ending" }
 WordHunterWoW_Dictionary_PTBR["ridículas"] = { word = "ridículas", translation = "ridiculous", note = "" }
 WordHunterWoW_Dictionary_PTBR["ridículo"] = { word = "ridículo", translation = "ridiculous", note = "" }
@@ -51351,6 +51431,7 @@ WordHunterWoW_Dictionary_PTBR["roakk"] = { word = "Roakk", translation = "Roakk"
 WordHunterWoW_Dictionary_PTBR["roanauk"] = { word = "Roanauk", translation = "Roanauk", note = "" }
 WordHunterWoW_Dictionary_PTBR["roark"] = { word = "Roark", translation = "Roark", note = "" }
 WordHunterWoW_Dictionary_PTBR["roarroarroar"] = { word = "Roarroarroar", translation = "Roarroarroar", note = "" }
+WordHunterWoW_Dictionary_PTBR["rob"] = { word = "rob", translation = "robot", note = "" }
 WordHunterWoW_Dictionary_PTBR["robalos"] = { word = "robalos", translation = "sea ​​bass", note = "" }
 WordHunterWoW_Dictionary_PTBR["robalos-zoiudos"] = { word = "robalos-zoiudos", translation = "sea ​​bass", note = "" }
 WordHunterWoW_Dictionary_PTBR["robe"] = { word = "robe", translation = "robe", note = "robe is a loose garment and a shared loanword in Portuguese and English" }
@@ -51707,6 +51788,7 @@ WordHunterWoW_Dictionary_PTBR["roça"] = { word = "roça", translation = "countr
 WordHunterWoW_Dictionary_PTBR["roçado"] = { word = "roçado", translation = "mowed", note = "" }
 WordHunterWoW_Dictionary_PTBR["roçam"] = { word = "roçam", translation = "brush", note = "" }
 WordHunterWoW_Dictionary_PTBR["roído"] = { word = "roído", translation = "gnawed", note = "" }
+WordHunterWoW_Dictionary_PTBR["rp"] = { word = "RP", translation = "PR", note = "" }
 WordHunterWoW_Dictionary_PTBR["rredondezas"] = { word = "rredondezas", translation = "surroundings", note = "" }
 WordHunterWoW_Dictionary_PTBR["rrgh"] = { word = "Rrgh", translation = "Rrgh", note = "" }
 WordHunterWoW_Dictionary_PTBR["rrgulgrulgrgl"] = { word = "rrgulgrulgrgl", translation = "rrgulgrulgrgl", note = "" }
@@ -52119,6 +52201,7 @@ WordHunterWoW_Dictionary_PTBR["sacrossanta"] = { word = "sacrossanta", translati
 WordHunterWoW_Dictionary_PTBR["sacrário"] = { word = "Sacrário", translation = "Tabernacle", note = "a named location; the official English name is not confirmed here" }
 WordHunterWoW_Dictionary_PTBR["sacríficio"] = { word = "sacríficio", translation = "sacrifice", note = "" }
 WordHunterWoW_Dictionary_PTBR["sacrílega"] = { word = "Sacrílega", translation = "Sacrilegious", note = "" }
+WordHunterWoW_Dictionary_PTBR["sacs"] = { word = "sacs", translation = "bags", note = "" }
 WordHunterWoW_Dictionary_PTBR["sacuda"] = { word = "sacuda", translation = "shake", note = "" }
 WordHunterWoW_Dictionary_PTBR["sacudia"] = { word = "sacudia", translation = "shook", note = "" }
 WordHunterWoW_Dictionary_PTBR["sacudida"] = { word = "sacudida", translation = "jolt", note = "" }
@@ -52608,6 +52691,7 @@ WordHunterWoW_Dictionary_PTBR["saron"] = { word = "Saron", translation = "Saron"
 WordHunterWoW_Dictionary_PTBR["saronen"] = { word = "Saronen", translation = "Saronen", note = "" }
 WordHunterWoW_Dictionary_PTBR["saronita"] = { word = "saronita", translation = "saronite", note = "" }
 WordHunterWoW_Dictionary_PTBR["saronitas"] = { word = "Saronitas", translation = "Saronites", note = "" }
+WordHunterWoW_Dictionary_PTBR["saronite"] = { word = "Saronite", translation = "Saronitis", note = "" }
 WordHunterWoW_Dictionary_PTBR["sarophas"] = { word = "Sarophas", translation = "Sarophas", note = "" }
 WordHunterWoW_Dictionary_PTBR["sarrafo"] = { word = "sarrafo", translation = "stick", note = "descer o sarrafo = to beat someone up; it is not the ordinary batten sense" }
 WordHunterWoW_Dictionary_PTBR["sarro"] = { word = "sarro", translation = "make fun", note = "" }
@@ -53926,6 +54010,8 @@ WordHunterWoW_Dictionary_PTBR["sistemas"] = { word = "sistemas", translation = "
 WordHunterWoW_Dictionary_PTBR["sistemático"] = { word = "sistemático", translation = "systematic", note = "" }
 WordHunterWoW_Dictionary_PTBR["sistêmico"] = { word = "sistêmico", translation = "systemic", note = "" }
 WordHunterWoW_Dictionary_PTBR["sisuda"] = { word = "sisuda", translation = "dour", note = "" }
+WordHunterWoW_Dictionary_PTBR["site"] = { word = "site", translation = "website", note = "" }
+WordHunterWoW_Dictionary_PTBR["sites"] = { word = "sites", translation = "websites", note = "" }
 WordHunterWoW_Dictionary_PTBR["sithis"] = { word = "Sithis", translation = "Sithis", note = "" }
 WordHunterWoW_Dictionary_PTBR["siti"] = { word = "Siti", translation = "Siti", note = "" }
 WordHunterWoW_Dictionary_PTBR["sitiada"] = { word = "sitiada", translation = "besieged", note = "" }
@@ -54646,8 +54732,11 @@ WordHunterWoW_Dictionary_PTBR["spearheading"] = { word = "spearheading", transla
 WordHunterWoW_Dictionary_PTBR["spearshaker"] = { word = "Spearshaker", translation = "Spearshaker", note = "" }
 WordHunterWoW_Dictionary_PTBR["specialization"] = { word = "Specialization", translation = "Specialization", note = "" }
 WordHunterWoW_Dictionary_PTBR["specifics"] = { word = "specifics", translation = "specifics", note = "" }
+WordHunterWoW_Dictionary_PTBR["spectres"] = { word = "spectres", translation = "specters", note = "" }
 WordHunterWoW_Dictionary_PTBR["spellfire"] = { word = "Spellfire", translation = "Spellfire", note = "" }
 WordHunterWoW_Dictionary_PTBR["spiraverde"] = { word = "Spiraverde", translation = "Spiraverde", note = "" }
+WordHunterWoW_Dictionary_PTBR["spires"] = { word = "spires", translation = "spiers", note = "" }
+WordHunterWoW_Dictionary_PTBR["spite"] = { word = "Spite", translation = "spit", note = "" }
 WordHunterWoW_Dictionary_PTBR["sporeggar"] = { word = "Sporeggar", translation = "Sporeggar", note = "" }
 WordHunterWoW_Dictionary_PTBR["spot"] = { word = "spot", translation = "spot", note = "" }
 WordHunterWoW_Dictionary_PTBR["spray"] = { word = "spray", translation = "spray", note = "spray is an English loanword used unchanged in Brazilian Portuguese" }
@@ -54677,9 +54766,12 @@ WordHunterWoW_Dictionary_PTBR["stahlstrom"] = { word = "Stahlstrom", translation
 WordHunterWoW_Dictionary_PTBR["stalactus"] = { word = "Stalactus", translation = "Stalactus", note = "" }
 WordHunterWoW_Dictionary_PTBR["stalvan"] = { word = "Stalvan", translation = "Stalvan", note = "" }
 WordHunterWoW_Dictionary_PTBR["stanwad"] = { word = "Stanwad", translation = "Stanwad", note = "" }
+WordHunterWoW_Dictionary_PTBR["stares"] = { word = "stares", translation = "stars", note = "" }
 WordHunterWoW_Dictionary_PTBR["starion"] = { word = "Starion", translation = "Starion", note = "" }
 WordHunterWoW_Dictionary_PTBR["starlys"] = { word = "Starlys", translation = "Starlys", note = "" }
 WordHunterWoW_Dictionary_PTBR["status"] = { word = "status", translation = "status", note = "a Latin loan kept unchanged in the plural: os status" }
+WordHunterWoW_Dictionary_PTBR["stead"] = { word = "stead", translation = "steady", note = "" }
+WordHunterWoW_Dictionary_PTBR["steadfast"] = { word = "steadfast", translation = "steady fast", note = "" }
 WordHunterWoW_Dictionary_PTBR["steamboil"] = { word = "Steamboil", translation = "Steamboil", note = "" }
 WordHunterWoW_Dictionary_PTBR["stefan"] = { word = "Stefan", translation = "Stefan", note = "" }
 WordHunterWoW_Dictionary_PTBR["stelacanto"] = { word = "Stelacanto", translation = "Stelacanthus", note = "the official English name is Stelacanthus" }
@@ -54698,6 +54790,7 @@ WordHunterWoW_Dictionary_PTBR["stik'kar"] = { word = "Stik'kar", translation = "
 WordHunterWoW_Dictionary_PTBR["stikwad"] = { word = "Stikwad", translation = "Stikwad", note = "" }
 WordHunterWoW_Dictionary_PTBR["stok'ton"] = { word = "Stok'ton", translation = "Stok'ton", note = "" }
 WordHunterWoW_Dictionary_PTBR["stokalfr"] = { word = "Stokalfr", translation = "Stokalfr", note = "" }
+WordHunterWoW_Dictionary_PTBR["stole"] = { word = "stole", translation = "stolen", note = "" }
 WordHunterWoW_Dictionary_PTBR["stoma"] = { word = "Stoma", translation = "Stoma", note = "" }
 WordHunterWoW_Dictionary_PTBR["stone"] = { word = "Stone", translation = "stone", note = "" }
 WordHunterWoW_Dictionary_PTBR["stooker"] = { word = "Stooker", translation = "Stooker", note = "" }
@@ -54796,6 +54889,7 @@ WordHunterWoW_Dictionary_PTBR["subirá"] = { word = "subirá", translation = "wi
 WordHunterWoW_Dictionary_PTBR["subirão"] = { word = "subirão", translation = "will rise", note = "" }
 WordHunterWoW_Dictionary_PTBR["subitamente"] = { word = "subitamente", translation = "suddenly", note = "súbito + -mente forms an adverb like sudden + -ly" }
 WordHunterWoW_Dictionary_PTBR["subiu"] = { word = "subiu", translation = "rose", note = "preterite of subir; rose is past, not climbs, in this context" }
+WordHunterWoW_Dictionary_PTBR["subjected"] = { word = "subjected", translation = "submitted", note = "" }
 WordHunterWoW_Dictionary_PTBR["subjugada"] = { word = "subjugada", translation = "subdued", note = "" }
 WordHunterWoW_Dictionary_PTBR["subjugadas"] = { word = "subjugadas", translation = "subjugated", note = "plural participle describing the villages; English keeps the same form here" }
 WordHunterWoW_Dictionary_PTBR["subjugado"] = { word = "subjugado", translation = "subdued, subjugated", note = "sub- + jugo (yoke), literally brought under the yoke" }
@@ -55003,6 +55097,7 @@ WordHunterWoW_Dictionary_PTBR["sue"] = { word = "sue", translation = "sue", note
 WordHunterWoW_Dictionary_PTBR["suerte"] = { word = "suerte", translation = "luck", note = "" }
 WordHunterWoW_Dictionary_PTBR["sufaad"] = { word = "Sufaad", translation = "Sufaad", note = "" }
 WordHunterWoW_Dictionary_PTBR["sufaadi"] = { word = "Sufaadi", translation = "Sufaadi", note = "" }
+WordHunterWoW_Dictionary_PTBR["suffice"] = { word = "Suffice", translation = "sufficiency", note = "" }
 WordHunterWoW_Dictionary_PTBR["suficente"] = { word = "suficente", translation = "enough", note = "" }
 WordHunterWoW_Dictionary_PTBR["suficiente"] = { word = "suficiente", translation = "enough", note = "" }
 WordHunterWoW_Dictionary_PTBR["suficientemente"] = { word = "suficientemente", translation = "sufficiently, enough", note = "placed before the adjective, unlike English enough, which follows it" }
@@ -55425,6 +55520,7 @@ WordHunterWoW_Dictionary_PTBR["surto"] = { word = "surto", translation = "outbre
 WordHunterWoW_Dictionary_PTBR["surtoflúvio"] = { word = "Surtoflúvio", translation = "Outbreak", note = "" }
 WordHunterWoW_Dictionary_PTBR["surtos"] = { word = "surtos", translation = "fits, bouts; outbreaks", note = "of disease it is an outbreak, but surto de piedade is a fit or attack of pity" }
 WordHunterWoW_Dictionary_PTBR["sururu"] = { word = "Sururu", translation = "Sururu", note = "" }
+WordHunterWoW_Dictionary_PTBR["surviving"] = { word = "surviving", translation = "survive", note = "" }
 WordHunterWoW_Dictionary_PTBR["suscetíveis"] = { word = "suscetíveis", translation = "susceptible", note = "suscetível a = susceptible to; the preposition a is retained in the phrase" }
 WordHunterWoW_Dictionary_PTBR["suscetível"] = { word = "Suscetível", translation = "Susceptible", note = "" }
 WordHunterWoW_Dictionary_PTBR["suscita"] = { word = "suscita", translation = "raises", note = "" }
@@ -56139,6 +56235,7 @@ WordHunterWoW_Dictionary_PTBR["tecessombras"] = { word = "Tecessombras", transla
 WordHunterWoW_Dictionary_PTBR["tecestrela"] = { word = "Tecestrela", translation = "Tecstar", note = "" }
 WordHunterWoW_Dictionary_PTBR["tecetrevas"] = { word = "Tecetrevas", translation = "Darkweave", note = "a coined game material or name; the exact official English localization was not confirmed" }
 WordHunterWoW_Dictionary_PTBR["tecevento"] = { word = "Tecevento", translation = "Tecevento", note = "" }
+WordHunterWoW_Dictionary_PTBR["technological"] = { word = "technological", translation = "technology", note = "" }
 WordHunterWoW_Dictionary_PTBR["tecia"] = { word = "tecia", translation = "weave", note = "" }
 WordHunterWoW_Dictionary_PTBR["tecida"] = { word = "tecida", translation = "woven", note = "" }
 WordHunterWoW_Dictionary_PTBR["tecidas"] = { word = "tecidas", translation = "woven", note = "" }
@@ -56396,9 +56493,12 @@ WordHunterWoW_Dictionary_PTBR["tende"] = { word = "tende", translation = "tend; 
 WordHunterWoW_Dictionary_PTBR["tendem"] = { word = "tendem", translation = "tend", note = "tendem means they tend to; the plural ending -em is easy to miss" }
 WordHunterWoW_Dictionary_PTBR["tendemos"] = { word = "tendemos", translation = "we tend", note = "" }
 WordHunterWoW_Dictionary_PTBR["tendencioso"] = { word = "tendencioso", translation = "biased", note = "" }
+WordHunterWoW_Dictionary_PTBR["tendency"] = { word = "tendency", translation = "trends", note = "" }
 WordHunterWoW_Dictionary_PTBR["tendendo"] = { word = "tendendo", translation = "trending", note = "" }
 WordHunterWoW_Dictionary_PTBR["tenderá"] = { word = "tenderá", translation = "will tend", note = "" }
+WordHunterWoW_Dictionary_PTBR["tending"] = { word = "tending", translation = "trending", note = "" }
 WordHunterWoW_Dictionary_PTBR["tendo"] = { word = "tendo", translation = "having", note = "mesmo tendo sido = even though they were; Portuguese uses tendo in this construction" }
+WordHunterWoW_Dictionary_PTBR["tends"] = { word = "tends", translation = "tend", note = "" }
 WordHunterWoW_Dictionary_PTBR["tendão"] = { word = "tendão", translation = "tendon", note = "biological connective tissue; from Latin tendere (to stretch)" }
 WordHunterWoW_Dictionary_PTBR["tendência"] = { word = "tendência", translation = "trend", note = "tendency or trend; alarming pattern in context" }
 WordHunterWoW_Dictionary_PTBR["tendências"] = { word = "tendências", translation = "tendencies", note = "" }
@@ -56435,6 +56535,7 @@ WordHunterWoW_Dictionary_PTBR["tenso"] = { word = "tenso", translation = "tense"
 WordHunterWoW_Dictionary_PTBR["tensoras"] = { word = "tensoras", translation = "tensors", note = "" }
 WordHunterWoW_Dictionary_PTBR["tensão"] = { word = "tensão", translation = "tension", note = "tensão here is pressure or strain, not electrical voltage" }
 WordHunterWoW_Dictionary_PTBR["tensões"] = { word = "tensões", translation = "tensions", note = "plural of tensão; Portuguese uses -ões for this plural" }
+WordHunterWoW_Dictionary_PTBR["tent"] = { word = "tent", translation = "try", note = "" }
 WordHunterWoW_Dictionary_PTBR["tenta"] = { word = "tenta", translation = "try", note = "tentar + infinitive = try to; tenta convencê-los means try to convince them" }
 WordHunterWoW_Dictionary_PTBR["tentaculada"] = { word = "tentaculada", translation = "tentacled", note = "" }
 WordHunterWoW_Dictionary_PTBR["tentaculares"] = { word = "tentaculares", translation = "tentacular", note = "" }
@@ -56772,6 +56873,7 @@ WordHunterWoW_Dictionary_PTBR["thander"] = { word = "Thander", translation = "Th
 WordHunterWoW_Dictionary_PTBR["thandol"] = { word = "Thandol", translation = "Thandol", note = "" }
 WordHunterWoW_Dictionary_PTBR["thane"] = { word = "thane", translation = "Thane", note = "thane is a noble or clan-leader title; here it precedes Yoregar" }
 WordHunterWoW_Dictionary_PTBR["thanessa"] = { word = "Thanessa", translation = "Thanessa", note = "" }
+WordHunterWoW_Dictionary_PTBR["thank"] = { word = "thank", translation = "thank you", note = "" }
 WordHunterWoW_Dictionary_PTBR["thaon"] = { word = "Thaon", translation = "Thaon", note = "" }
 WordHunterWoW_Dictionary_PTBR["thar'well"] = { word = "Thar'well", translation = "Thar'well", note = "" }
 WordHunterWoW_Dictionary_PTBR["tharek"] = { word = "Tharek", translation = "Tharek", note = "" }
@@ -56842,6 +56944,7 @@ WordHunterWoW_Dictionary_PTBR["theryn"] = { word = "Theryn", translation = "Ther
 WordHunterWoW_Dictionary_PTBR["therysil"] = { word = "Therysil", translation = "Therysil", note = "" }
 WordHunterWoW_Dictionary_PTBR["therzok"] = { word = "Therzok", translation = "Therzok", note = "" }
 WordHunterWoW_Dictionary_PTBR["these"] = { word = "these", translation = "these", note = "" }
+WordHunterWoW_Dictionary_PTBR["thesevocê"] = { word = "theseVocê", translation = "theseYou", note = "" }
 WordHunterWoW_Dictionary_PTBR["thespia"] = { word = "Thespia", translation = "Thespia", note = "" }
 WordHunterWoW_Dictionary_PTBR["thessera"] = { word = "Thessera", translation = "Thessera", note = "" }
 WordHunterWoW_Dictionary_PTBR["thetys"] = { word = "Thetys", translation = "Thetys", note = "" }
@@ -56979,6 +57082,7 @@ WordHunterWoW_Dictionary_PTBR["timan"] = { word = "Timan", translation = "Timan"
 WordHunterWoW_Dictionary_PTBR["timbrado"] = { word = "timbrado", translation = "stamped", note = "" }
 WordHunterWoW_Dictionary_PTBR["time"] = { word = "time", translation = "team", note = "brazilian Portuguese time = team or squad, unrelated to English time" }
 WordHunterWoW_Dictionary_PTBR["timeon"] = { word = "Timeon", translation = "Timeon", note = "" }
+WordHunterWoW_Dictionary_PTBR["times"] = { word = "times", translation = "teams", note = "" }
 WordHunterWoW_Dictionary_PTBR["timeu"] = { word = "Timeu", translation = "Timaeus", note = "the Portuguese form of the Greek name Timaios, known from Plato's dialogue" }
 WordHunterWoW_Dictionary_PTBR["timidez"] = { word = "timidez", translation = "shyness", note = "" }
 WordHunterWoW_Dictionary_PTBR["timing"] = { word = "timing", translation = "timing", note = "" }
@@ -57617,8 +57721,10 @@ WordHunterWoW_Dictionary_PTBR["toshe"] = { word = "Toshe", translation = "Toshe"
 WordHunterWoW_Dictionary_PTBR["tosquiadeira"] = { word = "tosquiadeira", translation = "clipper", note = "" }
 WordHunterWoW_Dictionary_PTBR["tosquiado"] = { word = "tosquiado", translation = "shorn", note = "" }
 WordHunterWoW_Dictionary_PTBR["tosquiar"] = { word = "tosquiar", translation = "shear", note = "" }
+WordHunterWoW_Dictionary_PTBR["toss"] = { word = "toss", translation = "cough", note = "" }
 WordHunterWoW_Dictionary_PTBR["tosse"] = { word = "tosse", translation = "coughs", note = "third-person singular present of tossir; tosse can also be the noun cough" }
 WordHunterWoW_Dictionary_PTBR["tossindo"] = { word = "tossindo", translation = "coughing", note = "" }
+WordHunterWoW_Dictionary_PTBR["tossing"] = { word = "Tossing", translation = "coughing", note = "" }
 WordHunterWoW_Dictionary_PTBR["tostada"] = { word = "tostada", translation = "roasted", note = "roasted or fried meat; carne tostada = roasted meat (not the Mexican tortilla dish)" }
 WordHunterWoW_Dictionary_PTBR["tostado"] = { word = "tostado", translation = "toasted", note = "" }
 WordHunterWoW_Dictionary_PTBR["tostando"] = { word = "tostando", translation = "toasting", note = "" }
@@ -58017,11 +58123,13 @@ WordHunterWoW_Dictionary_PTBR["transparecer"] = { word = "transparecer", transla
 WordHunterWoW_Dictionary_PTBR["transparente"] = { word = "transparente", translation = "transparent", note = "" }
 WordHunterWoW_Dictionary_PTBR["transpareçam"] = { word = "transpareçam", translation = "shine through", note = "" }
 WordHunterWoW_Dictionary_PTBR["transparência"] = { word = "Transparência", translation = "Transparency", note = "" }
+WordHunterWoW_Dictionary_PTBR["transpired"] = { word = "transpired", translation = "perspired", note = "" }
 WordHunterWoW_Dictionary_PTBR["transplante"] = { word = "transplante", translation = "transplant", note = "" }
 WordHunterWoW_Dictionary_PTBR["transplantes"] = { word = "Transplantes", translation = "Transplants", note = "" }
 WordHunterWoW_Dictionary_PTBR["transpoliportador"] = { word = "Transpoliportador", translation = "Transporter", note = "" }
 WordHunterWoW_Dictionary_PTBR["transponder"] = { word = "transponder", translation = "transponder", note = "technical term; teleportation device for gnomes; no Portuguese equivalent needed" }
 WordHunterWoW_Dictionary_PTBR["transpor"] = { word = "transpor", translation = "cross", note = "to cross over, transcend; transpose is false friend" }
+WordHunterWoW_Dictionary_PTBR["transport"] = { word = "transport", translation = "transportation", note = "" }
 WordHunterWoW_Dictionary_PTBR["transporta"] = { word = "transporta", translation = "transport", note = "" }
 WordHunterWoW_Dictionary_PTBR["transportad"] = { word = "transportad", translation = "transported", note = "" }
 WordHunterWoW_Dictionary_PTBR["transportada"] = { word = "transportada", translation = "transported", note = "past participle of transportar; moved or carried" }
@@ -59160,6 +59268,7 @@ WordHunterWoW_Dictionary_PTBR["unatos"] = { word = "Unatos", translation = "Unat
 WordHunterWoW_Dictionary_PTBR["unbagwa"] = { word = "Unbagwa", translation = "Unbagwa", note = "proper name; NPC witch doctor/summoner" }
 WordHunterWoW_Dictionary_PTBR["uncontrollably"] = { word = "uncontrollably", translation = "uncontrollably", note = "" }
 WordHunterWoW_Dictionary_PTBR["undercity"] = { word = "Undercity", translation = "Undercity", note = "" }
+WordHunterWoW_Dictionary_PTBR["undertaken"] = { word = "undertaken", translation = "adopted", note = "" }
 WordHunterWoW_Dictionary_PTBR["une"] = { word = "une", translation = "unites", note = "third-person singular present: que une = that unites; unite is the infinitive" }
 WordHunterWoW_Dictionary_PTBR["unem"] = { word = "unem", translation = "unite", note = "third person plural or imperative of unir (to unite, join together)" }
 WordHunterWoW_Dictionary_PTBR["unga"] = { word = "Unga", translation = "Anoint", note = "" }
@@ -59235,6 +59344,7 @@ WordHunterWoW_Dictionary_PTBR["uno"] = { word = "uno", translation = "one", note
 WordHunterWoW_Dictionary_PTBR["unos"] = { word = "unos", translation = "one", note = "" }
 WordHunterWoW_Dictionary_PTBR["unow"] = { word = "Unow", translation = "Unow", note = "" }
 WordHunterWoW_Dictionary_PTBR["unprotected"] = { word = "unprotected", translation = "unprotected", note = "" }
+WordHunterWoW_Dictionary_PTBR["unravelling"] = { word = "Unravelling", translation = "Unraveling", note = "" }
 WordHunterWoW_Dictionary_PTBR["unrecognizable"] = { word = "unrecognizable", translation = "unrecognizable", note = "" }
 WordHunterWoW_Dictionary_PTBR["uns"] = { word = "uns", translation = "some", note = "uns is masculine plural of um; uns nacos = some pieces" }
 WordHunterWoW_Dictionary_PTBR["unsh"] = { word = "unsh", translation = "unsh", note = "" }
@@ -59448,6 +59558,7 @@ WordHunterWoW_Dictionary_PTBR["utilizaram"] = { word = "utilizaram", translation
 WordHunterWoW_Dictionary_PTBR["utilizaremos"] = { word = "utilizaremos", translation = "we will use", note = "" }
 WordHunterWoW_Dictionary_PTBR["utilizava"] = { word = "utilizava", translation = "used", note = "" }
 WordHunterWoW_Dictionary_PTBR["utilize"] = { word = "Utilize", translation = "use", note = "utilize or make use of; formal variant of usar" }
+WordHunterWoW_Dictionary_PTBR["utilized"] = { word = "utilized", translation = "used", note = "" }
 WordHunterWoW_Dictionary_PTBR["utilizem"] = { word = "Utilizem", translation = "Use", note = "" }
 WordHunterWoW_Dictionary_PTBR["utilizemos"] = { word = "utilizemos", translation = "let's use", note = "" }
 WordHunterWoW_Dictionary_PTBR["utilizá-la"] = { word = "utilizá-la", translation = "use it", note = "" }
@@ -59930,6 +60041,7 @@ WordHunterWoW_Dictionary_PTBR["vegetarianos"] = { word = "vegetarianos", transla
 WordHunterWoW_Dictionary_PTBR["vegetação"] = { word = "vegetação", translation = "vegetation", note = "the collective plant growth of an area" }
 WordHunterWoW_Dictionary_PTBR["vegetações"] = { word = "Vegetações", translation = "Vegetations", note = "" }
 WordHunterWoW_Dictionary_PTBR["vehdir"] = { word = "Vehdir", translation = "Vehdir", note = "" }
+WordHunterWoW_Dictionary_PTBR["vehicula"] = { word = "vehicula", translation = "vehicle", note = "" }
 WordHunterWoW_Dictionary_PTBR["veia"] = { word = "Veia", translation = "vein", note = "veia can also mean a streak or aptitude, as in veia artística" }
 WordHunterWoW_Dictionary_PTBR["veias"] = { word = "veias", translation = "veins", note = "plural of veia, the blood vessels" }
 WordHunterWoW_Dictionary_PTBR["veiaço"] = { word = "Veiaço", translation = "Veiaço", note = "reads as veio, Brazilian slang for velho (old man), plus the augmentative -aco" }
@@ -60114,6 +60226,7 @@ WordHunterWoW_Dictionary_PTBR["veneração"] = { word = "Veneração", translati
 WordHunterWoW_Dictionary_PTBR["venerá-lo"] = { word = "venerá-lo", translation = "venerate him", note = "" }
 WordHunterWoW_Dictionary_PTBR["veneráveis"] = { word = "veneráveis", translation = "venerable", note = "worthy of reverence; mushrooms rare and esteemed; from venerável" }
 WordHunterWoW_Dictionary_PTBR["venerável"] = { word = "venerável", translation = "venerable", note = "worthy of reverence; deserving respect due to age or wisdom" }
+WordHunterWoW_Dictionary_PTBR["vengeance"] = { word = "vengeance", translation = "revenge", note = "" }
 WordHunterWoW_Dictionary_PTBR["venha"] = { word = "Venha", translation = "come", note = "venha is the você command form of vir: come" }
 WordHunterWoW_Dictionary_PTBR["venham"] = { word = "venham", translation = "may come", note = "venham a fazer = may come to use or make use of it; the subjunctive marks uncertainty" }
 WordHunterWoW_Dictionary_PTBR["venhamos"] = { word = "venhamos", translation = "let's come", note = "" }
@@ -60481,6 +60594,7 @@ WordHunterWoW_Dictionary_PTBR["videspinhas"] = { word = "videspinhas", translati
 WordHunterWoW_Dictionary_PTBR["vidinha"] = { word = "vidinha", translation = "little life", note = "" }
 WordHunterWoW_Dictionary_PTBR["vidioso"] = { word = "Vidioso", translation = "Vidious", note = "official name is Vidious; it is a name, not the adjective vidious" }
 WordHunterWoW_Dictionary_PTBR["vidoeiro"] = { word = "vidoeiro", translation = "birch", note = "" }
+WordHunterWoW_Dictionary_PTBR["vidra"] = { word = "Vidra", translation = "Glass", note = "" }
 WordHunterWoW_Dictionary_PTBR["vidrados"] = { word = "vidrados", translation = "glazes", note = "" }
 WordHunterWoW_Dictionary_PTBR["vidrinho"] = { word = "vidrinho", translation = "small bottle", note = "diminutive of vidro (glass/bottle)" }
 WordHunterWoW_Dictionary_PTBR["vidro"] = { word = "vidro", translation = "glass", note = "vidro can mean the material or a glass object" }
@@ -61392,6 +61506,7 @@ WordHunterWoW_Dictionary_PTBR["wazzik"] = { word = "Wazzik", translation = "Wazz
 WordHunterWoW_Dictionary_PTBR["we"] = { word = "we", translation = "we", note = "" }
 WordHunterWoW_Dictionary_PTBR["we're"] = { word = "we're", translation = "we're", note = "contraction of we are" }
 WordHunterWoW_Dictionary_PTBR["weapon"] = { word = "weapon", translation = "weapon; weapons", note = "English word in English quest context; grammar corrected from plural" }
+WordHunterWoW_Dictionary_PTBR["weaponry"] = { word = "weaponry", translation = "weapons", note = "" }
 WordHunterWoW_Dictionary_PTBR["webinário"] = { word = "Webinário", translation = "Webinar", note = "" }
 WordHunterWoW_Dictionary_PTBR["weegli"] = { word = "Weegli", translation = "Weegli", note = "" }
 WordHunterWoW_Dictionary_PTBR["weezil"] = { word = "Weezil", translation = "Weezil", note = "" }
@@ -61421,6 +61536,7 @@ WordHunterWoW_Dictionary_PTBR["what"] = { word = "what", translation = "what", n
 WordHunterWoW_Dictionary_PTBR["whelgar"] = { word = "Whelgar", translation = "Whelgar", note = "" }
 WordHunterWoW_Dictionary_PTBR["when"] = { word = "when", translation = "when", note = "" }
 WordHunterWoW_Dictionary_PTBR["while"] = { word = "while", translation = "while", note = "" }
+WordHunterWoW_Dictionary_PTBR["whine"] = { word = "whine", translation = "white", note = "" }
 WordHunterWoW_Dictionary_PTBR["whitereach"] = { word = "Whitereach", translation = "Whitereach", note = "" }
 WordHunterWoW_Dictionary_PTBR["whitley"] = { word = "Whitley", translation = "Whitley", note = "" }
 WordHunterWoW_Dictionary_PTBR["who"] = { word = "who", translation = "who", note = "" }
@@ -61493,6 +61609,7 @@ WordHunterWoW_Dictionary_PTBR["wrenix"] = { word = "Wrenix", translation = "Wren
 WordHunterWoW_Dictionary_PTBR["wrex"] = { word = "Wrex", translation = "Wrex", note = "" }
 WordHunterWoW_Dictionary_PTBR["wright"] = { word = "Wright", translation = "Wright", note = "" }
 WordHunterWoW_Dictionary_PTBR["wrilehiss"] = { word = "Wrilehiss", translation = "Wrilehiss", note = "" }
+WordHunterWoW_Dictionary_PTBR["writ"] = { word = "Writ", translation = "Write", note = "" }
 WordHunterWoW_Dictionary_PTBR["wrynn"] = { word = "Wrynn", translation = "Wrynn", note = "" }
 WordHunterWoW_Dictionary_PTBR["wu"] = { word = "Wu", translation = "Wu", note = "" }
 WordHunterWoW_Dictionary_PTBR["wu-song"] = { word = "Wu-Song", translation = "Wu-Song", note = "" }
@@ -61556,6 +61673,7 @@ WordHunterWoW_Dictionary_PTBR["xenas"] = { word = "Xenas", translation = "Xenas"
 WordHunterWoW_Dictionary_PTBR["xenedar"] = { word = "Xenedar", translation = "Xenedar", note = "" }
 WordHunterWoW_Dictionary_PTBR["xennir"] = { word = "Xennir", translation = "Xennir", note = "" }
 WordHunterWoW_Dictionary_PTBR["xeque"] = { word = "xeque", translation = "check", note = "" }
+WordHunterWoW_Dictionary_PTBR["xerash's"] = { word = "Xerash's", translation = "Sherash's", note = "" }
 WordHunterWoW_Dictionary_PTBR["xeretando"] = { word = "xeretando", translation = "snooping", note = "from xereta; busybody, poking around" }
 WordHunterWoW_Dictionary_PTBR["xerez"] = { word = "Xerez", translation = "sherry", note = "Xerez = Sherry (wine from Jerez, Spain); the drink is called sherry in English" }
 WordHunterWoW_Dictionary_PTBR["xesh"] = { word = "Xesh", translation = "Xesh", note = "" }

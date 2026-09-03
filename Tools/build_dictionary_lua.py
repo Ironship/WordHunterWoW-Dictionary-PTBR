@@ -16,17 +16,26 @@ def main():
     args = parser.parse_args()
     config = LOCALES[args.locale]
 
-    # Only words the corpus still contains are shipped. The translation cache
-    # keeps everything ever looked up, including the English words that came
-    # from untranslated quest rows before build_wordlist.py learned to skip
-    # them; shipping those puts English-to-English entries in a dictionary the
-    # player opens to look up their own language.
+    # An entry is dropped only when it is both absent from the corpus and reads
+    # English-to-English -- the -> the, default -> Default. Those came from
+    # quest rows that were never translated, which build_wordlist.py now skips.
+    #
+    # Absence from the corpus is not on its own a reason to drop anything. The
+    # curated file holds words a fuller corpus once carried, and a player who
+    # meets one in text this corpus happens not to include should still be able
+    # to look it up.
     wordlist = ROOT / f"Data/cache/wordlist_{args.locale}.jsonl"
     live = None
     if wordlist.exists() and not args.all:
         live = {json.loads(line)["key"]
                 for line in wordlist.read_text(encoding="utf-8").splitlines()
                 if line.strip()}
+
+    def english_leftover(record):
+        if live is None or record.get("key") in live:
+            return False
+        return (record.get("translation") or "").strip().casefold() == \
+            (record.get("word") or "").strip().casefold()
 
     records = {}
     sources = [ROOT / f"Data/cache/translations_{args.locale}_en.jsonl"]
@@ -38,7 +47,7 @@ def main():
         for line in source.read_text(encoding="utf-8-sig").splitlines():
             if not line.strip(): continue
             record = json.loads(line)
-            if live is not None and record.get("key") not in live: continue
+            if english_leftover(record): continue
             if record.get("translation"): records[record["key"]] = record
     lines = [f"{config['variable']} = {config['variable']} or {{}}"]
     for key in sorted(records):
