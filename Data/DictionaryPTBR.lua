@@ -1,4 +1,5 @@
 WordHunterWoW_Dictionary_PTBR = WordHunterWoW_Dictionary_PTBR or {}
+;(function()
 WordHunterWoW_Dictionary_PTBR["a"] = { word = "a", translation = "the; to", note = "feminine singular article, and the preposition to" }
 WordHunterWoW_Dictionary_PTBR["a'dal"] = { word = "A'dal", translation = "A'dal", note = "" }
 WordHunterWoW_Dictionary_PTBR["a'manore"] = { word = "a'manore", translation = "a'manore", note = "" }
@@ -19999,6 +20000,8 @@ WordHunterWoW_Dictionary_PTBR["eco-domos"] = { word = "eco-domos", translation =
 WordHunterWoW_Dictionary_PTBR["ecoa"] = { word = "ecoa", translation = "echoes", note = "present third person: ecoa = echoes; the subject here is a voice" }
 WordHunterWoW_Dictionary_PTBR["ecoada"] = { word = "Ecoada", translation = "Echoed", note = "" }
 WordHunterWoW_Dictionary_PTBR["ecoado"] = { word = "ecoado", translation = "echoed", note = "" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_PTBR["ecoam"] = { word = "ecoam", translation = "echo", note = "from eco, ultimately the Greek nymph Echo who could only repeat others" }
 WordHunterWoW_Dictionary_PTBR["ecoando"] = { word = "ecoando", translation = "echoing", note = "" }
 WordHunterWoW_Dictionary_PTBR["ecoante"] = { word = "ecoante", translation = "echoing", note = "" }
@@ -39999,6 +40002,8 @@ WordHunterWoW_Dictionary_PTBR["mundanas"] = { word = "mundanas", translation = "
 WordHunterWoW_Dictionary_PTBR["mundano"] = { word = "mundano", translation = "mundane", note = "" }
 WordHunterWoW_Dictionary_PTBR["mundanos"] = { word = "mundanos", translation = "worldly", note = "mundano contrasts with spiritual or supernatural; here it means worldly concerns" }
 WordHunterWoW_Dictionary_PTBR["mundaréu"] = { word = "mundaréu", translation = "mundaréu", note = "" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_PTBR["munderut"] = { word = "Munderut", translation = "Munderut", note = "" }
 WordHunterWoW_Dictionary_PTBR["mundiais"] = { word = "mundiais", translation = "worldwide", note = "plural adjective: acontecimentos mundiais means world or worldwide events" }
 WordHunterWoW_Dictionary_PTBR["mundial"] = { word = "mundial", translation = "worldwide", note = "mundial describes something relating to the whole world; global is a close equivalent" }
@@ -59999,6 +60004,8 @@ WordHunterWoW_Dictionary_PTBR["vaza"] = { word = "vaza", translation = "beat it;
 WordHunterWoW_Dictionary_PTBR["vazamento"] = { word = "vazamento", translation = "leak", note = "vazamento can describe a leak of liquid, air, or information" }
 WordHunterWoW_Dictionary_PTBR["vazamentos"] = { word = "vazamentos", translation = "leaks", note = "vazar (to leak) + -mento; in Brazilian slang vazar also means to clear off" }
 WordHunterWoW_Dictionary_PTBR["vazando"] = { word = "vazando", translation = "leaking", note = "escaping or flowing out; present participle of vazar" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_PTBR["vazantes"] = { word = "vazantes", translation = "ebb", note = "" }
 WordHunterWoW_Dictionary_PTBR["vazar"] = { word = "vazar", translation = "leak", note = "brazilian slang can also mean leave; the truncated context does not settle that sense" }
 WordHunterWoW_Dictionary_PTBR["vazasse"] = { word = "vazasse", translation = "leak", note = "" }
@@ -62549,3 +62556,4 @@ WordHunterWoW_Dictionary_PTBR["únicos"] = { word = "únicos", translation = "on
 WordHunterWoW_Dictionary_PTBR["úrsius"] = { word = "Úrsius", translation = "Ursius", note = "correction: should be 'Úrsius' (with accent); epithet 'Fangtusked'; bear creature name" }
 WordHunterWoW_Dictionary_PTBR["úteis"] = { word = "úteis", translation = "useful", note = "plural of útil: useful; propriedades úteis = useful properties" }
 WordHunterWoW_Dictionary_PTBR["útil"] = { word = "útil", translation = "useful", note = "ser útil = be useful; útil keeps its accent in Portuguese" }
+end)()

@@ -49,10 +49,18 @@ def main():
             record = json.loads(line)
             if english_leftover(record): continue
             if record.get("translation"): records[record["key"]] = record
-    lines = [f"{config['variable']} = {config['variable']} or {{}}"]
-    for key in sorted(records):
-        record = records[key]
-        lines.append(f"{config['variable']}[{quote(key)}] = {{ word = {quote(record['word'])}, translation = {quote(record['translation'])}, note = {quote(record.get('note'))} }}")
+    # WoW Lua 5.1: 2^18-1 constants per function. Nested functions avoid
+    # "constant table overflow" once unique strings pass that cap.
+    chunk = 20000
+    keys = sorted(records)
+    var = config["variable"]
+    lines = [f"{var} = {var} or {{}}"]
+    for i in range(0, len(keys), chunk):
+        lines.append(";(function()")
+        for key in keys[i:i + chunk]:
+            record = records[key]
+            lines.append(f"{var}[{quote(key)}] = {{ word = {quote(record['word'])}, translation = {quote(record['translation'])}, note = {quote(record.get('note'))} }}")
+        lines.append("end)()")
     target = ROOT / "Data" / config["output"]
     target.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"locale={args.locale} entries={len(records)} output={target}")
