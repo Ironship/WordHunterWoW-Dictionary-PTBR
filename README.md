@@ -10,10 +10,12 @@ Unzip into `_retail_\Interface\AddOns\` and restart the game.
 
 You need:
 
-- [QuestWordHunter](https://github.com/Ironship/WordHunterWoW) **1.6.0 or newer**
+- [QuestWordHunter](https://github.com/Ironship/WordHunterWoW) **1.22.6 or newer**
 - Target language set to **Portuguese (Brazil)**
 
 Words stay in the pack and are not copied into your saved data. Change any translation you like — your version wins, and **Reset to dictionary** brings this one back.
+
+This dictionary is read only when its language is the one you are learning, so having several packs installed costs no memory for the others. QuestWordHunter loads it at login, or the moment you pick the language in its settings. A pack installed or updated while the game is running needs a restart to be noticed, and it needs QuestWordHunter 1.22.6 or newer: an older one never loads it.
 
 ## Good to know
 
