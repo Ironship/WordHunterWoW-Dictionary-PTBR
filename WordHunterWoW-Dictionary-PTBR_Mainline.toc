@@ -1,4 +1,4 @@
-## Interface: 120100, 120105, 120107
+## Interface: 120100, 120105, 16001, 120107
 ## Title: QuestWordHunter - Brazilian Portuguese Dictionary
 ## Notes: Optional Portuguese-English quest dictionary. Requires WordHunterWoW 1.22.6 or newer, which loads it when this language is chosen.
 ## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-PTBR\icon
