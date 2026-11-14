@@ -42,6 +42,10 @@ Further modification by Ironship, 14 November 2026:
     English translation and a note written for this project. No quest sentence is
     reproduced.
 
+  * The Portuguese item, spell and NPC descriptions of the same data were read the
+    same way for single words: 751 were added. Names of items, spells and NPCs
+    were not taken.
+
 World of Warcraft content and materials are trademarks and copyrights of
 Blizzard Entertainment or its licensors. This addon is not affiliated with or
 endorsed by Blizzard Entertainment, and the GNU General Public License above
