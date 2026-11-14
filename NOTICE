@@ -33,6 +33,15 @@ Modifications made by Ironship, 2 September 2026:
 The import is performed by Tools/import_multilanguage.py, which is part of the
 corresponding source of this work.
 
+Further modification by Ironship, 14 November 2026:
+
+  * The current MultiLanguage Portuguese quest data (title, objective, description, progress
+    and hand-in text) was read again for single words the dictionary did not
+    have: 689 were added (458 ordinary words and 231 names).
+  * As above, what this addon ships is a list of single words, each with an
+    English translation and a note written for this project. No quest sentence is
+    reproduced.
+
 World of Warcraft content and materials are trademarks and copyrights of
 Blizzard Entertainment or its licensors. This addon is not affiliated with or
 endorsed by Blizzard Entertainment, and the GNU General Public License above

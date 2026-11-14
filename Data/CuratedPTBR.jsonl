@@ -62669,3 +62669,692 @@
 {"key": "supertarefa", "word": "supertarefa", "translation": "supertask", "note": "big job; collect waxy items"}
 {"key": "superticiosos", "word": "superticiosos", "translation": "superstitious", "note": "believing in omens"}
 {"key": "superveloz", "word": "superveloz", "translation": "superfast", "note": "extremely fast; safe speed"}
+{"key": "a-a-ache", "word": "a-a-ache", "translation": "find (stuttered)", "note": "stuttered form of ache"}
+{"key": "a-a-ajuda", "word": "a-a-ajuda", "translation": "help (stuttered)", "note": "stuttered form of ajuda"}
+{"key": "aba", "word": "aba", "translation": "tab", "note": ""}
+{"key": "abastecidas", "word": "abastecidas", "translation": "supplied", "note": ""}
+{"key": "abençoá-lo", "word": "abençoá-lo", "translation": "bless you", "note": ""}
+{"key": "abichornado", "word": "abichornado", "translation": "abichornado", "note": ""}
+{"key": "abrigam-se", "word": "abrigam-se", "translation": "take shelter", "note": ""}
+{"key": "acelerador", "word": "Acelerador", "translation": "Acelerador", "note": "proper name"}
+{"key": "acomoda", "word": "acomoda", "translation": "accommodate", "note": ""}
+{"key": "adesivo", "word": "adesivo", "translation": "sticker", "note": ""}
+{"key": "adoecem", "word": "adoecem", "translation": "get sick", "note": ""}
+{"key": "adorador", "word": "adorador", "translation": "worshiper", "note": ""}
+{"key": "adquiram", "word": "adquiram", "translation": "acquire", "note": ""}
+{"key": "adquiri-las", "word": "adquiri-las", "translation": "acquire them", "note": ""}
+{"key": "aeonas", "word": "Aeonas", "translation": "Aeonas", "note": "proper name"}
+{"key": "afluir", "word": "afluir", "translation": "flow", "note": ""}
+{"key": "afoga", "word": "afoga", "translation": "drown", "note": ""}
+{"key": "ageron", "word": "Ageron", "translation": "Ageron", "note": "proper name"}
+{"key": "agol'wath", "word": "Agol'wath", "translation": "Agol'wath", "note": "proper name"}
+{"key": "aguada", "word": "aguada", "translation": "watery", "note": ""}
+{"key": "aguassonho", "word": "Aguassonho", "translation": "Aguassonho", "note": "proper name"}
+{"key": "aida", "word": "Aida", "translation": "Aida", "note": "proper name"}
+{"key": "ajoelha-te", "word": "ajoelha-te", "translation": "kneel", "note": ""}
+{"key": "ajoelhado", "word": "ajoelhado", "translation": "kneeling", "note": ""}
+{"key": "akronos", "word": "Akronos", "translation": "Akronos", "note": "proper name"}
+{"key": "alagar", "word": "alagar", "translation": "flood", "note": ""}
+{"key": "alara", "word": "Alara", "translation": "Alara", "note": "proper name"}
+{"key": "alarmados", "word": "alarmados", "translation": "alarmed", "note": ""}
+{"key": "aliancinha", "word": "aliancinha", "translation": "alliance", "note": ""}
+{"key": "almescória", "word": "Almescória", "translation": "Almescória", "note": "proper name"}
+{"key": "alondrius", "word": "Alondrius", "translation": "Alondrius", "note": "proper name"}
+{"key": "alto-comando", "word": "alto-comando", "translation": "high command", "note": ""}
+{"key": "alíssian", "word": "Alíssian", "translation": "Alíssian", "note": "proper name"}
+{"key": "amadurecimento", "word": "amadurecimento", "translation": "ripening", "note": ""}
+{"key": "amalgamados", "word": "amalgamados", "translation": "amalgamated", "note": ""}
+{"key": "amalya", "word": "Amalya", "translation": "Amalya", "note": "proper name"}
+{"key": "amarre-o", "word": "amarre-o", "translation": "tie it up", "note": ""}
+{"key": "amburgh", "word": "Amburgh", "translation": "Amburgh", "note": "proper name"}
+{"key": "amiúde", "word": "amiúde", "translation": "often", "note": ""}
+{"key": "amokarok", "word": "Amokarok", "translation": "Amokarok", "note": "proper name"}
+{"key": "ampliou", "word": "ampliou", "translation": "expanded", "note": ""}
+{"key": "anadelle", "word": "Anadelle", "translation": "Anadelle", "note": "proper name"}
+{"key": "andacharco", "word": "Andacharco", "translation": "Andacharco", "note": "proper name"}
+{"key": "ander", "word": "Ander", "translation": "Ander", "note": "proper name"}
+{"key": "anime-se", "word": "anime-se", "translation": "cheer up", "note": ""}
+{"key": "anormalmente", "word": "anormalmente", "translation": "abnormally", "note": ""}
+{"key": "anthion's", "word": "anthion's", "translation": "anthion's", "note": ""}
+{"key": "antolhos", "word": "antolhos", "translation": "blinders", "note": ""}
+{"key": "apraz", "word": "apraz", "translation": "please", "note": ""}
+{"key": "aprimorarem", "word": "aprimorarem", "translation": "improve", "note": ""}
+{"key": "aprochegares", "word": "aprochegares", "translation": "approach", "note": ""}
+{"key": "aproximações", "word": "aproximações", "translation": "approximations", "note": ""}
+{"key": "arcânicos", "word": "Arcânicos", "translation": "Arcânicos", "note": "proper name"}
+{"key": "arkonos", "word": "Arkonos", "translation": "Arkonos", "note": "proper name"}
+{"key": "arraigaram", "word": "arraigaram", "translation": "took root", "note": ""}
+{"key": "arredar", "word": "arredar", "translation": "remove", "note": ""}
+{"key": "arreglar", "word": "arreglar", "translation": "arrange", "note": ""}
+{"key": "arremate", "word": "arremate", "translation": "finish", "note": ""}
+{"key": "arrepiado", "word": "arrepiado", "translation": "goosebumps", "note": ""}
+{"key": "arriscou-se", "word": "arriscou-se", "translation": "took a risk", "note": ""}
+{"key": "arrombei", "word": "arrombei", "translation": "I broke in", "note": ""}
+{"key": "arroxeado", "word": "arroxeado", "translation": "purplish", "note": ""}
+{"key": "artesania", "word": "artesania", "translation": "craftsmanship", "note": ""}
+{"key": "arunnel", "word": "Arunnel", "translation": "Arunnel", "note": "proper name"}
+{"key": "asco", "word": "asco", "translation": "disgust", "note": ""}
+{"key": "assimilar", "word": "assimilar", "translation": "assimilate", "note": ""}
+{"key": "assomam", "word": "assomam", "translation": "loom", "note": ""}
+{"key": "astrocaos", "word": "Astrocaos", "translation": "Astrocaos", "note": "proper name"}
+{"key": "atires", "word": "atires", "translation": "shoot", "note": ""}
+{"key": "atlas", "word": "atlas", "translation": "atlas", "note": ""}
+{"key": "atrai-la", "word": "atrai-la", "translation": "attract her", "note": ""}
+{"key": "automanual", "word": "automanual", "translation": "automatic", "note": ""}
+{"key": "autoproclamado", "word": "autoproclamado", "translation": "self-proclaimed", "note": ""}
+{"key": "autoriza-o", "word": "autoriza-o", "translation": "authorize it", "note": ""}
+{"key": "avambraços", "word": "avambraços", "translation": "vambraces", "note": ""}
+{"key": "azgaloth", "word": "Azgaloth", "translation": "Azgaloth", "note": "proper name"}
+{"key": "açoita", "word": "açoita", "translation": "whip", "note": ""}
+{"key": "badalados", "word": "badalados", "translation": "trendy", "note": ""}
+{"key": "baelin", "word": "Baelin", "translation": "Baelin", "note": "proper name"}
+{"key": "baj'ura", "word": "Baj'ura", "translation": "Baj'ura", "note": "proper name"}
+{"key": "banteazo", "word": "Banteazo", "translation": "Banteazo", "note": "proper name"}
+{"key": "beatrix", "word": "Beatrix", "translation": "Beatrix", "note": "proper name"}
+{"key": "bendizer", "word": "bendizer", "translation": "bless", "note": ""}
+{"key": "bhossca", "word": "Bhossca", "translation": "Bhossca", "note": "proper name"}
+{"key": "bicha", "word": "bicha", "translation": "queer", "note": ""}
+{"key": "bifas", "word": "bifas", "translation": "steaks", "note": ""}
+{"key": "biofluxo", "word": "biofluxo", "translation": "bioflow", "note": ""}
+{"key": "biografia", "word": "Biografia", "translation": "Biografia", "note": "proper name"}
+{"key": "bladeshadow", "word": "Bladeshadow", "translation": "Bladeshadow", "note": "proper name"}
+{"key": "bobalhão", "word": "bobalhão", "translation": "fool", "note": ""}
+{"key": "bobeie", "word": "bobeie", "translation": "bobeie", "note": ""}
+{"key": "bocaberta", "word": "bocaberta", "translation": "open-mouthed", "note": ""}
+{"key": "bocabertice", "word": "bocabertice", "translation": "mouthiness", "note": ""}
+{"key": "bolados", "word": "bolados", "translation": "balls", "note": ""}
+{"key": "bolgar", "word": "Bolgar", "translation": "Bolgar", "note": "proper name"}
+{"key": "bombaloca", "word": "Bombaloca", "translation": "Bombaloca", "note": "proper name"}
+{"key": "bornais", "word": "bornais", "translation": "terminals", "note": ""}
+{"key": "borradas", "word": "borradas", "translation": "blurred", "note": ""}
+{"key": "botão-de-chamas", "word": "botão-de-chamas", "translation": "flame button", "note": ""}
+{"key": "braçofrouxo", "word": "Braçofrouxo", "translation": "Braçofrouxo", "note": "proper name"}
+{"key": "brucutus", "word": "brucutus", "translation": "brucutus", "note": ""}
+{"key": "c-c-criatura", "word": "c-c-criatura", "translation": "creature (stuttered)", "note": "stuttered form of criatura"}
+{"key": "c-c-cuidado", "word": "c-c-cuidado", "translation": "careful (stuttered)", "note": "stuttered form of cuidado"}
+{"key": "caborteiros", "word": "caborteiros", "translation": "caborters", "note": ""}
+{"key": "caer", "word": "Caer", "translation": "Caer", "note": "proper name"}
+{"key": "caius", "word": "Caius", "translation": "Caius", "note": "proper name"}
+{"key": "caldoran", "word": "Caldoran", "translation": "Caldoran", "note": "proper name"}
+{"key": "calefactus", "word": "Calefactus", "translation": "Calefactus", "note": "proper name"}
+{"key": "caleidoscópio", "word": "caleidoscópio", "translation": "kaleidoscope", "note": ""}
+{"key": "calibrá-la", "word": "calibrá-la", "translation": "calibrate it", "note": ""}
+{"key": "campeamos", "word": "campeamos", "translation": "we champion", "note": ""}
+{"key": "cang", "word": "Cang", "translation": "Cang", "note": "proper name"}
+{"key": "caninegro", "word": "Caninegro", "translation": "Caninegro", "note": "proper name"}
+{"key": "cantarroio", "word": "Cantarroio", "translation": "Cantarroio", "note": "proper name"}
+{"key": "carangos", "word": "carangos", "translation": "snappers", "note": ""}
+{"key": "carboidratos", "word": "carboidratos", "translation": "carbohydrates", "note": ""}
+{"key": "carmins", "word": "Carmins", "translation": "Carmins", "note": "proper name"}
+{"key": "carnudo", "word": "carnudo", "translation": "fleshy", "note": ""}
+{"key": "cartografia", "word": "cartografia", "translation": "cartography", "note": ""}
+{"key": "casca-dura", "word": "casca-dura", "translation": "hard shell", "note": ""}
+{"key": "cascos-de-estrela", "word": "cascos-de-estrela", "translation": "starhoof", "note": ""}
+{"key": "casualmente", "word": "casualmente", "translation": "casually", "note": ""}
+{"key": "cataclismos", "word": "cataclismos", "translation": "cataclysms", "note": ""}
+{"key": "cauteris", "word": "Cauteris", "translation": "Cauteris", "note": "proper name"}
+{"key": "caça-estrelas", "word": "Caça-estrelas", "translation": "Caça-estrelas", "note": "proper name"}
+{"key": "centáurea", "word": "centáurea", "translation": "cornflower", "note": ""}
+{"key": "cerceie", "word": "cerceie", "translation": "fence", "note": ""}
+{"key": "cerejinha", "word": "cerejinha", "translation": "cherry", "note": ""}
+{"key": "certificando", "word": "certificando", "translation": "certifying", "note": ""}
+{"key": "chacoalhados", "word": "chacoalhados", "translation": "shaken", "note": ""}
+{"key": "chamativa", "word": "chamativa", "translation": "flashy", "note": ""}
+{"key": "chaveiro", "word": "chaveiro", "translation": "keychain", "note": ""}
+{"key": "chavetuxa", "word": "chavetuxa", "translation": "chavetuxa", "note": ""}
+{"key": "choco", "word": "choco", "translation": "cuttlefish", "note": ""}
+{"key": "chove", "word": "chove", "translation": "it rains", "note": ""}
+{"key": "clamaventos", "word": "Clamaventos", "translation": "Clamaventos", "note": "proper name"}
+{"key": "claudicando", "word": "claudicando", "translation": "limping", "note": ""}
+{"key": "cleft", "word": "Cleft", "translation": "Cleft", "note": "proper name"}
+{"key": "clemente", "word": "clemente", "translation": "clement", "note": ""}
+{"key": "cobrarás", "word": "cobrarás", "translation": "you will charge", "note": ""}
+{"key": "cobrobina", "word": "Cobrobina", "translation": "Cobrobina", "note": "proper name"}
+{"key": "colação", "word": "colação", "translation": "collation", "note": ""}
+{"key": "coleciono", "word": "coleciono", "translation": "I collect", "note": ""}
+{"key": "collin's", "word": "collin's", "translation": "collin's", "note": ""}
+{"key": "colocara", "word": "colocara", "translation": "put", "note": ""}
+{"key": "combinarem", "word": "combinarem", "translation": "combine", "note": ""}
+{"key": "compatíveis", "word": "compatíveis", "translation": "compatible", "note": ""}
+{"key": "compraram", "word": "compraram", "translation": "bought", "note": ""}
+{"key": "compreensivo", "word": "compreensivo", "translation": "understanding", "note": ""}
+{"key": "comunicarão", "word": "comunicarão", "translation": "will communicate", "note": ""}
+{"key": "conchestrelas", "word": "conchestrelas", "translation": "shellstars", "note": ""}
+{"key": "concordarem", "word": "concordarem", "translation": "agree", "note": ""}
+{"key": "concussão", "word": "Concussão", "translation": "Concussão", "note": "proper name"}
+{"key": "conjunção", "word": "conjunção", "translation": "conjunction", "note": ""}
+{"key": "consagre", "word": "consagre", "translation": "consecrate", "note": ""}
+{"key": "conseguida", "word": "conseguida", "translation": "achieved", "note": ""}
+{"key": "conseguidos", "word": "conseguidos", "translation": "achieved", "note": ""}
+{"key": "construí-las", "word": "construí-las", "translation": "build them", "note": ""}
+{"key": "conte-nos", "word": "conte-nos", "translation": "tell us", "note": ""}
+{"key": "contingências", "word": "contingências", "translation": "contingencies", "note": ""}
+{"key": "contraordem", "word": "contraordem", "translation": "counterorder", "note": ""}
+{"key": "conversemos", "word": "conversemos", "translation": "let's talk", "note": ""}
+{"key": "corações-sangrentos", "word": "Corações-sangrentos", "translation": "Corações-sangrentos", "note": "proper name"}
+{"key": "corroído", "word": "corroído", "translation": "corroded", "note": ""}
+{"key": "corujando", "word": "corujando", "translation": "owling", "note": ""}
+{"key": "coseiro", "word": "Coseiro", "translation": "Coseiro", "note": "proper name"}
+{"key": "cotidiana", "word": "Cotidiana", "translation": "Cotidiana", "note": "proper name"}
+{"key": "cremá-lo", "word": "cremá-lo", "translation": "cremate him", "note": ""}
+{"key": "cresceria", "word": "cresceria", "translation": "would grow", "note": ""}
+{"key": "criatura-alvo", "word": "criatura-alvo", "translation": "target creature", "note": ""}
+{"key": "crimeon", "word": "Crimeon", "translation": "Crimeon", "note": "proper name"}
+{"key": "criticar", "word": "criticar", "translation": "criticize", "note": ""}
+{"key": "cromaggus", "word": "Cromaggus", "translation": "Cromaggus", "note": "proper name"}
+{"key": "culminação", "word": "culminação", "translation": "culmination", "note": ""}
+{"key": "curabosque", "word": "Curabosque", "translation": "Curabosque", "note": "proper name"}
+{"key": "curvando-os", "word": "curvando-os", "translation": "bending them", "note": ""}
+{"key": "curárvore", "word": "Curárvore", "translation": "Curárvore", "note": "proper name"}
+{"key": "cuteberto", "word": "Cuteberto", "translation": "Cuteberto", "note": "proper name"}
+{"key": "cássia", "word": "Cássia", "translation": "Cássia", "note": "proper name"}
+{"key": "d-d-descongelado", "word": "d-d-descongelado", "translation": "thawed (stuttered)", "note": "stuttered form of descongelado"}
+{"key": "dal'laceral", "word": "dal'Laceral", "translation": "dal'Laceral", "note": ""}
+{"key": "darrow", "word": "Darrow", "translation": "Darrow", "note": "proper name"}
+{"key": "davidus", "word": "Davidus", "translation": "Davidus", "note": "proper name"}
+{"key": "decapitação", "word": "decapitação", "translation": "decapitation", "note": ""}
+{"key": "deficiências", "word": "deficiências", "translation": "shortcomings", "note": ""}
+{"key": "definhantes", "word": "definhantes", "translation": "languishing", "note": ""}
+{"key": "deformação", "word": "deformação", "translation": "deformation", "note": ""}
+{"key": "degringolar", "word": "degringolar", "translation": "crumble", "note": ""}
+{"key": "delios", "word": "Delios", "translation": "Delios", "note": "proper name"}
+{"key": "demitrian", "word": "Demitrian", "translation": "Demitrian", "note": "proper name"}
+{"key": "demonicídio", "word": "demonicídio", "translation": "demonicide", "note": ""}
+{"key": "demoniozão", "word": "demoniozão", "translation": "big demon", "note": ""}
+{"key": "dependura-se", "word": "dependura-se", "translation": "hang on", "note": ""}
+{"key": "dependurada", "word": "dependurada", "translation": "hanging", "note": ""}
+{"key": "deprivation", "word": "Deprivation", "translation": "Deprivation", "note": "proper name"}
+{"key": "derramarão", "word": "derramarão", "translation": "will spill", "note": ""}
+{"key": "des'altek", "word": "Des'Altek", "translation": "Des'Altek", "note": "proper name"}
+{"key": "desacordá-lo", "word": "desacordá-lo", "translation": "wake him up", "note": ""}
+{"key": "desagrilhoado", "word": "desagrilhoado", "translation": "unfettered", "note": ""}
+{"key": "desaprovam", "word": "desaprovam", "translation": "disapprove", "note": ""}
+{"key": "desarticularia", "word": "desarticularia", "translation": "disarticulate", "note": ""}
+{"key": "descobri-los", "word": "descobri-los", "translation": "discover them", "note": ""}
+{"key": "desconhecem", "word": "desconhecem", "translation": "are unaware", "note": ""}
+{"key": "descorado", "word": "descorado", "translation": "bleached", "note": ""}
+{"key": "descorados", "word": "Descorados", "translation": "Descorados", "note": "proper name"}
+{"key": "desencaminhado", "word": "desencaminhado", "translation": "misled", "note": ""}
+{"key": "desenvolverem", "word": "desenvolverem", "translation": "develop", "note": ""}
+{"key": "desgraçaria", "word": "desgraçaria", "translation": "disgrace", "note": ""}
+{"key": "desincorporada", "word": "desincorporada", "translation": "disincorporated", "note": ""}
+{"key": "deslizando-o", "word": "deslizando-o", "translation": "sliding it", "note": ""}
+{"key": "desnucar", "word": "desnucar", "translation": "uncover", "note": ""}
+{"key": "desonrosos", "word": "desonrosos", "translation": "dishonorable", "note": ""}
+{"key": "despencava", "word": "despencava", "translation": "plummeted", "note": ""}
+{"key": "desperdiçá-los", "word": "desperdiçá-los", "translation": "waste them", "note": ""}
+{"key": "despeça-se", "word": "despeça-se", "translation": "say goodbye", "note": ""}
+{"key": "destinava", "word": "destinava", "translation": "intended", "note": ""}
+{"key": "destruamos", "word": "destruamos", "translation": "let us destroy", "note": ""}
+{"key": "desvenda", "word": "desvenda", "translation": "unveil", "note": ""}
+{"key": "desvendem", "word": "desvendem", "translation": "unravel", "note": ""}
+{"key": "desérticos", "word": "desérticos", "translation": "deserts", "note": ""}
+{"key": "devoração", "word": "devoração", "translation": "devouring", "note": ""}
+{"key": "devoro", "word": "devoro", "translation": "I devour", "note": ""}
+{"key": "diabrura", "word": "diabrura", "translation": "devilry", "note": ""}
+{"key": "diga-se", "word": "diga-se", "translation": "tell yourself", "note": ""}
+{"key": "digressiono", "word": "digressiono", "translation": "digression", "note": ""}
+{"key": "dissolvendo", "word": "dissolvendo", "translation": "dissolving", "note": ""}
+{"key": "dividi-lo", "word": "dividi-lo", "translation": "split it", "note": ""}
+{"key": "dizer-lhe", "word": "dizer-lhe", "translation": "tell you", "note": ""}
+{"key": "doeu", "word": "doeu", "translation": "it hurt", "note": ""}
+{"key": "dorilar", "word": "Dorilar", "translation": "Dorilar", "note": "proper name"}
+{"key": "dormenuvem", "word": "Dormenuvem", "translation": "Dormenuvem", "note": "proper name"}
+{"key": "dosar", "word": "dosar", "translation": "dose", "note": ""}
+{"key": "draco'dar", "word": "Draco'dar", "translation": "Draco'dar", "note": "proper name"}
+{"key": "duais", "word": "duais", "translation": "dual", "note": ""}
+{"key": "durião", "word": "durião", "translation": "durian", "note": ""}
+{"key": "e-e-ele", "word": "e-e-ele", "translation": "he (stuttered)", "note": "stuttered form of ele"}
+{"key": "efêmera", "word": "efêmera", "translation": "ephemeral", "note": ""}
+{"key": "elenora", "word": "Elenora", "translation": "Elenora", "note": "proper name"}
+{"key": "eletro-ótica", "word": "eletro-ótica", "translation": "electro-optics", "note": ""}
+{"key": "eletromagnéticos", "word": "eletromagnéticos", "translation": "electromagnetic", "note": ""}
+{"key": "elianar", "word": "Elianar", "translation": "Elianar", "note": "proper name"}
+{"key": "ellodar", "word": "Ellodar", "translation": "Ellodar", "note": "proper name"}
+{"key": "elun'adore", "word": "elun'adore", "translation": "elun'adore", "note": ""}
+{"key": "elunar", "word": "elunar", "translation": "elunate", "note": ""}
+{"key": "embaralhados", "word": "embaralhados", "translation": "scrambled", "note": ""}
+{"key": "embrulham", "word": "embrulham", "translation": "wrap", "note": ""}
+{"key": "emigraram", "word": "emigraram", "translation": "emigrated", "note": ""}
+{"key": "emitirei", "word": "emitirei", "translation": "I will issue", "note": ""}
+{"key": "emular", "word": "emular", "translation": "emulate", "note": ""}
+{"key": "enaltecido", "word": "enaltecido", "translation": "extolled", "note": ""}
+{"key": "encaixadas", "word": "encaixadas", "translation": "fitted", "note": ""}
+{"key": "encarreguei-me", "word": "encarreguei-me", "translation": "I took charge", "note": ""}
+{"key": "enfeitiçamento", "word": "Enfeitiçamento", "translation": "Enfeitiçamento", "note": "proper name"}
+{"key": "enfrente-a", "word": "enfrente-a", "translation": "face her", "note": ""}
+{"key": "engatinha", "word": "engatinha", "translation": "crawl", "note": ""}
+{"key": "engendra", "word": "engendra", "translation": "engenders", "note": ""}
+{"key": "engordando", "word": "engordando", "translation": "getting fat", "note": ""}
+{"key": "engrenafaca", "word": "Engrenafaca", "translation": "Engrenafaca", "note": "proper name"}
+{"key": "enkles", "word": "Enkles", "translation": "Enkles", "note": "proper name"}
+{"key": "enluarar", "word": "Enluarar", "translation": "Enluarar", "note": "proper name"}
+{"key": "ensurdecedores", "word": "ensurdecedores", "translation": "deafening", "note": ""}
+{"key": "enterrá-las", "word": "enterrá-las", "translation": "bury them", "note": ""}
+{"key": "envenenam", "word": "envenenam", "translation": "poison", "note": ""}
+{"key": "envergonha", "word": "envergonha", "translation": "shame", "note": ""}
+{"key": "esbranquiçada", "word": "esbranquiçada", "translation": "whitish", "note": ""}
+{"key": "esburacada", "word": "Esburacada", "translation": "Esburacada", "note": "proper name"}
+{"key": "escoras", "word": "escoras", "translation": "struts", "note": ""}
+{"key": "escravizá-lo", "word": "escravizá-lo", "translation": "enslave him", "note": ""}
+{"key": "escrevinhar", "word": "escrevinhar", "translation": "scribble", "note": ""}
+{"key": "esculpe", "word": "esculpe", "translation": "carves", "note": ""}
+{"key": "escápula", "word": "escápula", "translation": "scapula", "note": ""}
+{"key": "esfregada", "word": "esfregada", "translation": "rubbed", "note": ""}
+{"key": "esguelha", "word": "esguelha", "translation": "squints", "note": ""}
+{"key": "esplendores", "word": "esplendores", "translation": "splendors", "note": ""}
+{"key": "estarrecido", "word": "estarrecido", "translation": "appalled", "note": ""}
+{"key": "estatelado", "word": "estatelado", "translation": "sprawled", "note": ""}
+{"key": "estelenn", "word": "Estelenn", "translation": "Estelenn", "note": "proper name"}
+{"key": "estranhíssimas", "word": "estranhíssimas", "translation": "very strange", "note": ""}
+{"key": "estrepiquil", "word": "Estrepiquil", "translation": "Estrepiquil", "note": "proper name"}
+{"key": "estressar", "word": "estressar", "translation": "stress", "note": ""}
+{"key": "esvazie", "word": "esvazie", "translation": "empty", "note": ""}
+{"key": "esvaído", "word": "esvaído", "translation": "faded", "note": ""}
+{"key": "esvoaçando", "word": "esvoaçando", "translation": "fluttering", "note": ""}
+{"key": "evoluídos", "word": "evoluídos", "translation": "evolved", "note": ""}
+{"key": "exalta", "word": "exalta", "translation": "exalts", "note": ""}
+{"key": "experimentaram", "word": "experimentaram", "translation": "experienced", "note": ""}
+{"key": "expiatórios", "word": "expiatórios", "translation": "expiatory", "note": ""}
+{"key": "expurgante", "word": "expurgante", "translation": "purging", "note": ""}
+{"key": "extensivas", "word": "extensivas", "translation": "extensive", "note": ""}
+{"key": "extirpados", "word": "extirpados", "translation": "extirpated", "note": ""}
+{"key": "extraoficialmente", "word": "extraoficialmente", "translation": "unofficially", "note": ""}
+{"key": "f-f-foi", "word": "f-f-foi", "translation": "he was (stuttered)", "note": "stuttered form of foi"}
+{"key": "fabrico", "word": "fabrico", "translation": "manufacturing", "note": ""}
+{"key": "fajutarautos", "word": "fajutarautos", "translation": "fajutarautos", "note": ""}
+{"key": "fallia", "word": "Fallia", "translation": "Fallia", "note": "proper name"}
+{"key": "faranister", "word": "Faranister", "translation": "Faranister", "note": "proper name"}
+{"key": "fasers", "word": "fasers", "translation": "phasers", "note": ""}
+{"key": "feiticinhos", "word": "feiticinhos", "translation": "spells", "note": ""}
+{"key": "felore", "word": "Felore", "translation": "Felore", "note": "proper name"}
+{"key": "fetidez", "word": "fetidez", "translation": "fetidity", "note": ""}
+{"key": "fie", "word": "fie", "translation": "fie", "note": ""}
+{"key": "financeiras", "word": "financeiras", "translation": "financial", "note": ""}
+{"key": "financia", "word": "financia", "translation": "finance", "note": ""}
+{"key": "fitzbitz", "word": "Fitzbitz", "translation": "Fitzbitz", "note": "proper name"}
+{"key": "fizbuz", "word": "Fizbuz", "translation": "Fizbuz", "note": "proper name"}
+{"key": "flamarautos", "word": "Flamarautos", "translation": "Flamarautos", "note": "proper name"}
+{"key": "flamassonho", "word": "Flamassonho", "translation": "Flamassonho", "note": "proper name"}
+{"key": "flórius", "word": "Flórius", "translation": "Flórius", "note": "proper name"}
+{"key": "fofice", "word": "Fofice", "translation": "Fofice", "note": "proper name"}
+{"key": "fogolar", "word": "Fogolar", "translation": "Fogolar", "note": "proper name"}
+{"key": "folheado", "word": "folheado", "translation": "veneer", "note": ""}
+{"key": "folhumbras", "word": "folhumbras", "translation": "folhumbras", "note": ""}
+{"key": "fontessonho", "word": "Fontessonho", "translation": "Fontessonho", "note": "proper name"}
+{"key": "foo", "word": "Foo", "translation": "Foo", "note": "proper name"}
+{"key": "forasteirpo", "word": "forasteirpo", "translation": "outsider", "note": ""}
+{"key": "forcejar", "word": "forcejar", "translation": "force", "note": ""}
+{"key": "formiguinhas", "word": "formiguinhas", "translation": "little ants", "note": ""}
+{"key": "formule", "word": "formule", "translation": "formulate", "note": ""}
+{"key": "foror", "word": "Foror", "translation": "Foror", "note": "proper name"}
+{"key": "fortalecer-lhes", "word": "fortalecer-lhes", "translation": "strengthen them", "note": ""}
+{"key": "fraquinhas", "word": "fraquinhas", "translation": "weak", "note": ""}
+{"key": "frequentadores", "word": "frequentadores", "translation": "regulars", "note": ""}
+{"key": "frequente", "word": "frequente", "translation": "frequent", "note": ""}
+{"key": "fusíveis", "word": "fusíveis", "translation": "fuses", "note": ""}
+{"key": "fusível", "word": "fusível", "translation": "fuse", "note": ""}
+{"key": "g-g-gostosuras", "word": "g-g-gostosuras", "translation": "treats (stuttered)", "note": "stuttered form of gostosuras"}
+{"key": "gastrônomos", "word": "gastrônomos", "translation": "gastronomes", "note": ""}
+{"key": "gemeron", "word": "Gemeron", "translation": "Gemeron", "note": "proper name"}
+{"key": "geolocalização", "word": "geolocalização", "translation": "geolocation", "note": ""}
+{"key": "geotérmica", "word": "geotérmica", "translation": "geothermal", "note": ""}
+{"key": "ghamoo-raja", "word": "Ghamoo-Raja", "translation": "Ghamoo-Raja", "note": "proper name"}
+{"key": "gharrik", "word": "Gharrik", "translation": "Gharrik", "note": "proper name"}
+{"key": "gineteia", "word": "gineteia", "translation": "gineteia", "note": ""}
+{"key": "girada", "word": "girada", "translation": "rotated", "note": ""}
+{"key": "glibby", "word": "Glibby", "translation": "Glibby", "note": "proper name"}
+{"key": "gnomicamente", "word": "gnomicamente", "translation": "gnomically", "note": ""}
+{"key": "gordinhos", "word": "gordinhos", "translation": "chubby", "note": ""}
+{"key": "gorlas", "word": "Gorlas", "translation": "Gorlas", "note": "proper name"}
+{"key": "gotículas", "word": "gotículas", "translation": "droplets", "note": ""}
+{"key": "grezzlik", "word": "Grezzlik", "translation": "Grezzlik", "note": "proper name"}
+{"key": "guasquear", "word": "guasquear", "translation": "guasquear", "note": ""}
+{"key": "gástrico", "word": "gástrico", "translation": "gastric", "note": ""}
+{"key": "hannalah", "word": "Hannalah", "translation": "Hannalah", "note": "proper name"}
+{"key": "harpíaca", "word": "harpíaca", "translation": "harpy", "note": ""}
+{"key": "highlord", "word": "Highlord", "translation": "Highlord", "note": "proper name"}
+{"key": "hino", "word": "hino", "translation": "hymn", "note": ""}
+{"key": "hipnótico", "word": "hipnótico", "translation": "hypnotic", "note": ""}
+{"key": "hirst", "word": "hirst", "translation": "hirst", "note": ""}
+{"key": "hirzek", "word": "Hirzek", "translation": "Hirzek", "note": "proper name"}
+{"key": "hizrek", "word": "hizrek", "translation": "hizrek", "note": ""}
+{"key": "ias", "word": "ias", "translation": "ias", "note": ""}
+{"key": "identificarão", "word": "identificarão", "translation": "will identify", "note": ""}
+{"key": "ignolita", "word": "Ignolita", "translation": "Ignolita", "note": "proper name"}
+{"key": "ignorava", "word": "ignorava", "translation": "ignored", "note": ""}
+{"key": "illari", "word": "Illari", "translation": "Illari", "note": "proper name"}
+{"key": "iludir", "word": "iludir", "translation": "deceive", "note": ""}
+{"key": "imaginados", "word": "imaginados", "translation": "imagined", "note": ""}
+{"key": "imaginem", "word": "imaginem", "translation": "imagine", "note": ""}
+{"key": "imbuição", "word": "imbuição", "translation": "imbuing", "note": ""}
+{"key": "imbuo", "word": "imbuo", "translation": "imbue", "note": ""}
+{"key": "imitada", "word": "imitada", "translation": "imitated", "note": ""}
+{"key": "incompreendida", "word": "incompreendida", "translation": "misunderstood", "note": ""}
+{"key": "incunábulos", "word": "incunábulos", "translation": "incunabula", "note": ""}
+{"key": "indico", "word": "indico", "translation": "I recommend", "note": ""}
+{"key": "inexplicavelmente", "word": "inexplicavelmente", "translation": "inexplicably", "note": ""}
+{"key": "informamos", "word": "informamos", "translation": "we inform", "note": ""}
+{"key": "ingonça", "word": "Ingonça", "translation": "Ingonça", "note": "proper name"}
+{"key": "iniciá-lo", "word": "iniciá-lo", "translation": "start it", "note": ""}
+{"key": "inocentemente", "word": "inocentemente", "translation": "innocently", "note": ""}
+{"key": "inquestionavelmente", "word": "inquestionavelmente", "translation": "unquestionably", "note": ""}
+{"key": "inspirem", "word": "inspirem", "translation": "inspire", "note": ""}
+{"key": "interdimensionais", "word": "interdimensionais", "translation": "interdimensional", "note": ""}
+{"key": "intervalinho", "word": "intervalinho", "translation": "intermission", "note": ""}
+{"key": "intervalos", "word": "intervalos", "translation": "intervals", "note": ""}
+{"key": "invejarão", "word": "invejarão", "translation": "will envy", "note": ""}
+{"key": "iracundos", "word": "Iracundos", "translation": "Iracundos", "note": "proper name"}
+{"key": "iro", "word": "iro", "translation": "iro", "note": ""}
+{"key": "ironicamente", "word": "ironicamente", "translation": "ironically", "note": ""}
+{"key": "irrelevante", "word": "irrelevante", "translation": "irrelevant", "note": ""}
+{"key": "jademir", "word": "Jademir", "translation": "Jademir", "note": "proper name"}
+{"key": "jamnice", "word": "Jamnice", "translation": "Jamnice", "note": "proper name"}
+{"key": "jamniss", "word": "Jamniss", "translation": "Jamniss", "note": "proper name"}
+{"key": "javaton", "word": "Javaton", "translation": "Javaton", "note": "proper name"}
+{"key": "jen'neu", "word": "Jen'neu", "translation": "Jen'neu", "note": "proper name"}
+{"key": "jen'sahn", "word": "Jen'sahn", "translation": "Jen'sahn", "note": "proper name"}
+{"key": "jixo", "word": "Jixo", "translation": "Jixo", "note": "proper name"}
+{"key": "jociphine", "word": "Jociphine", "translation": "Jociphine", "note": "proper name"}
+{"key": "johnson", "word": "Johnson", "translation": "Johnson", "note": "proper name"}
+{"key": "julgou", "word": "julgou", "translation": "judged", "note": ""}
+{"key": "julien", "word": "Julien", "translation": "Julien", "note": "proper name"}
+{"key": "juntá-la", "word": "juntá-la", "translation": "join her", "note": ""}
+{"key": "jurguém", "word": "Jurguém", "translation": "Jurguém", "note": "proper name"}
+{"key": "kajind", "word": "Kajind", "translation": "Kajind", "note": "proper name"}
+{"key": "karrathia", "word": "Karrathia", "translation": "Karrathia", "note": "proper name"}
+{"key": "kazdor", "word": "Kazdor", "translation": "Kazdor", "note": "proper name"}
+{"key": "kazragore", "word": "Kazragore", "translation": "Kazragore", "note": "proper name"}
+{"key": "kir-moldir", "word": "Kir-Moldir", "translation": "Kir-Moldir", "note": "proper name"}
+{"key": "kissed", "word": "Kissed", "translation": "Kissed", "note": "proper name"}
+{"key": "kolark", "word": "Kolark", "translation": "Kolark", "note": "proper name"}
+{"key": "korlian", "word": "Korlian", "translation": "Korlian", "note": "proper name"}
+{"key": "krastinov's", "word": "krastinov's", "translation": "krastinov's", "note": ""}
+{"key": "krixix", "word": "Krixix", "translation": "Krixix", "note": "proper name"}
+{"key": "kroll", "word": "Kroll", "translation": "Kroll", "note": "proper name"}
+{"key": "lalâmina", "word": "Lalâmina", "translation": "Lalâmina", "note": "proper name"}
+{"key": "lanaria", "word": "Lanaria", "translation": "Lanaria", "note": "proper name"}
+{"key": "laninar", "word": "Laninar", "translation": "Laninar", "note": "proper name"}
+{"key": "larsera", "word": "Larsera", "translation": "Larsera", "note": "proper name"}
+{"key": "lastimosa", "word": "lastimosa", "translation": "pitiful", "note": ""}
+{"key": "latejando", "word": "latejando", "translation": "throbbing", "note": ""}
+{"key": "lavrar", "word": "lavrar", "translation": "plow", "note": ""}
+{"key": "lavratroll", "word": "Lavratroll", "translation": "Lavratroll", "note": "proper name"}
+{"key": "laçando", "word": "laçando", "translation": "lassoing", "note": ""}
+{"key": "lee's", "word": "lee's", "translation": "lee's", "note": ""}
+{"key": "legitimidade", "word": "legitimidade", "translation": "legitimacy", "note": ""}
+{"key": "libertador", "word": "libertador", "translation": "liberator", "note": ""}
+{"key": "libertarem", "word": "libertarem", "translation": "free", "note": ""}
+{"key": "liquefação", "word": "Liquefação", "translation": "Liquefação", "note": "proper name"}
+{"key": "lorne", "word": "lorne", "translation": "lorne", "note": ""}
+{"key": "luctus", "word": "Luctus", "translation": "Luctus", "note": "proper name"}
+{"key": "ludita", "word": "ludita", "translation": "luddite", "note": ""}
+{"key": "lufareia", "word": "Lufareia", "translation": "Lufareia", "note": "proper name"}
+{"key": "luminastra", "word": "Luminastra", "translation": "Luminastra", "note": "proper name"}
+{"key": "lunautumna", "word": "Lunautumna", "translation": "Lunautumna", "note": "proper name"}
+{"key": "lustrosa", "word": "lustrosa", "translation": "glossy", "note": ""}
+{"key": "lótus-estelar", "word": "lótus-estelar", "translation": "star lotus", "note": ""}
+{"key": "lótus-estelares", "word": "lótus-estelares", "translation": "star lotuses", "note": ""}
+{"key": "macere", "word": "macere", "translation": "macerate", "note": ""}
+{"key": "maciazinha", "word": "maciazinha", "translation": "softie", "note": ""}
+{"key": "maethra", "word": "Maethra", "translation": "Maethra", "note": "proper name"}
+{"key": "magas", "word": "magas", "translation": "mages", "note": ""}
+{"key": "malaki", "word": "Malaki", "translation": "Malaki", "note": "proper name"}
+{"key": "maldiçãozinha", "word": "maldiçãozinha", "translation": "little curse", "note": ""}
+{"key": "malena", "word": "Malena", "translation": "Malena", "note": "proper name"}
+{"key": "malfadado", "word": "malfadado", "translation": "ill-fated", "note": ""}
+{"key": "malhadas", "word": "Malhadas", "translation": "Malhadas", "note": "proper name"}
+{"key": "mancada", "word": "mancada", "translation": "blunder", "note": ""}
+{"key": "mandivis", "word": "Mandivis", "translation": "Mandivis", "note": "proper name"}
+{"key": "mandoran", "word": "Mandoran", "translation": "Mandoran", "note": "proper name"}
+{"key": "manejada", "word": "Manejada", "translation": "Manejada", "note": "proper name"}
+{"key": "manifestará", "word": "manifestará", "translation": "will manifest", "note": ""}
+{"key": "manipulado", "word": "manipulado", "translation": "manipulated", "note": ""}
+{"key": "maragiro", "word": "Maragiro", "translation": "Maragiro", "note": "proper name"}
+{"key": "marcaria", "word": "marcaria", "translation": "would score", "note": ""}
+{"key": "marejar", "word": "marejar", "translation": "sea", "note": ""}
+{"key": "maseara", "word": "Maseara", "translation": "Maseara", "note": "proper name"}
+{"key": "matriarcado", "word": "matriarcado", "translation": "matriarchy", "note": ""}
+{"key": "maximização", "word": "maximização", "translation": "maximization", "note": ""}
+{"key": "medidos", "word": "medidos", "translation": "measured", "note": ""}
+{"key": "medita", "word": "medita", "translation": "meditate", "note": ""}
+{"key": "megeras", "word": "megeras", "translation": "shrews", "note": ""}
+{"key": "mellias", "word": "Mellias", "translation": "Mellias", "note": "proper name"}
+{"key": "memoráveis", "word": "memoráveis", "translation": "memorable", "note": ""}
+{"key": "metafísica", "word": "Metafísica", "translation": "Metafísica", "note": "proper name"}
+{"key": "metamos", "word": "metamos", "translation": "let's get involved", "note": ""}
+{"key": "metes", "word": "metes", "translation": "metes", "note": ""}
+{"key": "molha-mão", "word": "Molha-mão", "translation": "Molha-mão", "note": "proper name"}
+{"key": "monoscópio", "word": "monoscópio", "translation": "monoscope", "note": ""}
+{"key": "morrinho", "word": "morrinho", "translation": "little hill", "note": ""}
+{"key": "mortos-vivo", "word": "mortos-vivo", "translation": "undead", "note": ""}
+{"key": "mostradas", "word": "mostradas", "translation": "shown", "note": ""}
+{"key": "movimente", "word": "movimente", "translation": "move", "note": ""}
+{"key": "murmurinhos", "word": "murmurinhos", "translation": "murmurs", "note": ""}
+{"key": "más-intenções", "word": "más-intenções", "translation": "bad intentions", "note": ""}
+{"key": "mãezinha", "word": "mãezinha", "translation": "mommy", "note": ""}
+{"key": "n'ora", "word": "N'ora", "translation": "N'ora", "note": "proper name"}
+{"key": "n-n-nessa", "word": "n-n-nessa", "translation": "in this (stuttered)", "note": "stuttered form of nessa"}
+{"key": "nalgum", "word": "nalgum", "translation": "none", "note": ""}
+{"key": "nancy", "word": "Nancy", "translation": "Nancy", "note": "proper name"}
+{"key": "nandieb", "word": "Nandieb", "translation": "Nandieb", "note": "proper name"}
+{"key": "negrodragônica", "word": "negrodragônica", "translation": "negrodragonica", "note": ""}
+{"key": "nerene", "word": "Nerene", "translation": "Nerene", "note": "proper name"}
+{"key": "noiterror", "word": "Noiterror", "translation": "Noiterror", "note": "proper name"}
+{"key": "numi", "word": "Numi", "translation": "Numi", "note": "proper name"}
+{"key": "observá-la", "word": "observá-la", "translation": "watch her", "note": ""}
+{"key": "odiarão", "word": "odiarão", "translation": "will hate", "note": ""}
+{"key": "oferecendo-os", "word": "oferecendo-os", "translation": "offering them", "note": ""}
+{"key": "olanian's", "word": "olanian's", "translation": "olanian's", "note": ""}
+{"key": "oneiros", "word": "Oneiros", "translation": "Oneiros", "note": "proper name"}
+{"key": "opondo", "word": "opondo", "translation": "opposing", "note": ""}
+{"key": "oriundos", "word": "oriundos", "translation": "originating", "note": ""}
+{"key": "orokai", "word": "Orokai", "translation": "Orokai", "note": "proper name"}
+{"key": "orre", "word": "orre", "translation": "pray", "note": ""}
+{"key": "orthas", "word": "Orthas", "translation": "Orthas", "note": "proper name"}
+{"key": "overseer", "word": "Overseer", "translation": "Overseer", "note": "proper name"}
+{"key": "padronizados", "word": "padronizados", "translation": "standardized", "note": ""}
+{"key": "palandar", "word": "Palandar", "translation": "Palandar", "note": "proper name"}
+{"key": "parecem-me", "word": "parecem-me", "translation": "they seem to me", "note": ""}
+{"key": "passeiozinho", "word": "passeiozinho", "translation": "little walk", "note": ""}
+{"key": "pataca", "word": "pataca", "translation": "pataca", "note": ""}
+{"key": "patologia", "word": "patologia", "translation": "pathology", "note": ""}
+{"key": "patriotismo", "word": "patriotismo", "translation": "patriotism", "note": ""}
+{"key": "pavonear", "word": "pavonear", "translation": "strut", "note": ""}
+{"key": "pavorâmbulos", "word": "Pavorâmbulos", "translation": "Pavorâmbulos", "note": "proper name"}
+{"key": "pedrarrubra", "word": "pedrarrubra", "translation": "redstone", "note": ""}
+{"key": "peixe-carniçal", "word": "Peixe-carniçal", "translation": "Peixe-carniçal", "note": "proper name"}
+{"key": "peleando", "word": "peleando", "translation": "fighting", "note": ""}
+{"key": "perambulações", "word": "perambulações", "translation": "wanderings", "note": ""}
+{"key": "percebessem", "word": "percebessem", "translation": "realized", "note": ""}
+{"key": "percepções", "word": "percepções", "translation": "insights", "note": ""}
+{"key": "persistiremos", "word": "persistiremos", "translation": "we will persist", "note": ""}
+{"key": "perturbá-lo", "word": "perturbá-lo", "translation": "disturb him", "note": ""}
+{"key": "perversões", "word": "perversões", "translation": "perversions", "note": ""}
+{"key": "pesquiso", "word": "pesquiso", "translation": "research", "note": ""}
+{"key": "petrus", "word": "Petrus", "translation": "Petrus", "note": "proper name"}
+{"key": "pimentinha", "word": "pimentinha", "translation": "little pepper", "note": ""}
+{"key": "pineais", "word": "Pineais", "translation": "Pineais", "note": "proper name"}
+{"key": "pisatroante", "word": "pisatroante", "translation": "trampling", "note": ""}
+{"key": "pix", "word": "Pix", "translation": "Pix", "note": "proper name"}
+{"key": "plumanoite", "word": "Plumanoite", "translation": "Plumanoite", "note": "proper name"}
+{"key": "polaridade", "word": "polaridade", "translation": "polarity", "note": ""}
+{"key": "portadora", "word": "Portadora", "translation": "Portadora", "note": "proper name"}
+{"key": "precedente", "word": "precedente", "translation": "precedent", "note": ""}
+{"key": "precipitantes", "word": "Precipitantes", "translation": "Precipitantes", "note": "proper name"}
+{"key": "pregoletes", "word": "pregoletes", "translation": "pregoletes", "note": ""}
+{"key": "prejudicado", "word": "prejudicado", "translation": "harmed", "note": ""}
+{"key": "prevenida", "word": "prevenida", "translation": "prevented", "note": ""}
+{"key": "prioritário", "word": "prioritário", "translation": "priority", "note": ""}
+{"key": "priva", "word": "priva", "translation": "private", "note": ""}
+{"key": "processador", "word": "processador", "translation": "processor", "note": ""}
+{"key": "procrastimondo", "word": "Procrastimondo", "translation": "Procrastimondo", "note": "proper name"}
+{"key": "proteínas", "word": "proteínas", "translation": "proteins", "note": ""}
+{"key": "providenciados", "word": "providenciados", "translation": "provided", "note": ""}
+{"key": "providenciava", "word": "providenciava", "translation": "provided", "note": ""}
+{"key": "provocarem", "word": "provocarem", "translation": "provoke", "note": ""}
+{"key": "ptchuu", "word": "ptchuu", "translation": "ptchuu", "note": ""}
+{"key": "punguistas", "word": "punguistas", "translation": "pickpockets", "note": ""}
+{"key": "puni-la", "word": "puni-la", "translation": "punish her", "note": ""}
+{"key": "quadrangulação", "word": "quadrangulação", "translation": "quadrangulation", "note": ""}
+{"key": "qualquiscordi", "word": "Qualquiscordi", "translation": "Qualquiscordi", "note": "proper name"}
+{"key": "quartas", "word": "quartas", "translation": "wednesdays", "note": ""}
+{"key": "quebra-ventos", "word": "quebra-ventos", "translation": "windbreaks", "note": ""}
+{"key": "quelônia", "word": "quelônia", "translation": "chelonia", "note": ""}
+{"key": "r-r-roubou", "word": "r-r-roubou", "translation": "he stole (stuttered)", "note": "stuttered form of roubou"}
+{"key": "racionalidade", "word": "racionalidade", "translation": "rationality", "note": ""}
+{"key": "raiz-da-lua", "word": "raiz-da-lua", "translation": "moonroot", "note": ""}
+{"key": "raiz-de-sonho", "word": "raiz-de-sonho", "translation": "dreamroot", "note": ""}
+{"key": "ramonírico", "word": "Ramonírico", "translation": "Ramonírico", "note": "proper name"}
+{"key": "raszel", "word": "Raszel", "translation": "Raszel", "note": "proper name"}
+{"key": "raízes-da-lua", "word": "raízes-da-lua", "translation": "moonroots", "note": ""}
+{"key": "raízes-de-sonho", "word": "Raízes-de-sonho", "translation": "Raízes-de-sonho", "note": "proper name"}
+{"key": "reabertura", "word": "reabertura", "translation": "reopening", "note": ""}
+{"key": "reacende", "word": "reacende", "translation": "rekindles", "note": ""}
+{"key": "reaja", "word": "reaja", "translation": "react", "note": ""}
+{"key": "recaída", "word": "recaída", "translation": "relapse", "note": ""}
+{"key": "rechaçá-la", "word": "rechaçá-la", "translation": "reject it", "note": ""}
+{"key": "recicladas", "word": "recicladas", "translation": "recycled", "note": ""}
+{"key": "reconforta", "word": "reconforta", "translation": "comforts", "note": ""}
+{"key": "reconheceremos", "word": "reconheceremos", "translation": "we will recognize", "note": ""}
+{"key": "recriou", "word": "recriou", "translation": "recreated", "note": ""}
+{"key": "recuperomático", "word": "Recuperomático", "translation": "Recuperomático", "note": "proper name"}
+{"key": "recém-colocada", "word": "recém-colocada", "translation": "newly placed", "note": ""}
+{"key": "reentrância", "word": "reentrância", "translation": "recess", "note": ""}
+{"key": "reformular", "word": "reformular", "translation": "reformulate", "note": ""}
+{"key": "regozija", "word": "regozija", "translation": "rejoice", "note": ""}
+{"key": "rejeitamos", "word": "rejeitamos", "translation": "we reject", "note": ""}
+{"key": "religiões", "word": "religiões", "translation": "religions", "note": ""}
+{"key": "remendados", "word": "Remendados", "translation": "Remendados", "note": "proper name"}
+{"key": "remova-os", "word": "remova-os", "translation": "remove them", "note": ""}
+{"key": "remunerar", "word": "remunerar", "translation": "pay", "note": ""}
+{"key": "requerente-chefe", "word": "Requerente-chefe", "translation": "Requerente-chefe", "note": "proper name"}
+{"key": "reses", "word": "reses", "translation": "cattle", "note": ""}
+{"key": "respectiva", "word": "respectiva", "translation": "respective", "note": ""}
+{"key": "resplandecia", "word": "resplandecia", "translation": "glowed", "note": ""}
+{"key": "retardá-los", "word": "retardá-los", "translation": "slow them down", "note": ""}
+{"key": "retire-se", "word": "retire-se", "translation": "withdraw", "note": ""}
+{"key": "retirem", "word": "retirem", "translation": "withdraw", "note": ""}
+{"key": "retorce", "word": "retorce", "translation": "twist", "note": ""}
+{"key": "retribuíssemos", "word": "retribuíssemos", "translation": "we would reciprocate", "note": ""}
+{"key": "retrucaram", "word": "retrucaram", "translation": "they retorted", "note": ""}
+{"key": "revele-o", "word": "revele-o", "translation": "reveal it", "note": ""}
+{"key": "rezei", "word": "rezei", "translation": "I prayed", "note": ""}
+{"key": "riosus", "word": "Riosus", "translation": "Riosus", "note": "proper name"}
+{"key": "riosustrasz", "word": "Riosustrasz", "translation": "Riosustrasz", "note": "proper name"}
+{"key": "ritualzinho", "word": "ritualzinho", "translation": "little ritual", "note": ""}
+{"key": "roguem", "word": "roguem", "translation": "pray", "note": ""}
+{"key": "rokar's", "word": "rokar's", "translation": "rokar's", "note": ""}
+{"key": "rondado", "word": "rondado", "translation": "rounded", "note": ""}
+{"key": "ruiniscante", "word": "Ruiniscante", "translation": "Ruiniscante", "note": "proper name"}
+{"key": "sacadas", "word": "sacadas", "translation": "balconies", "note": ""}
+{"key": "sacolejar", "word": "sacolejar", "translation": "shake", "note": ""}
+{"key": "sacra", "word": "sacra", "translation": "sacred", "note": ""}
+{"key": "sacro", "word": "sacro", "translation": "sacrum", "note": ""}
+{"key": "sanathel", "word": "Sanathel", "translation": "Sanathel", "note": "proper name"}
+{"key": "searn", "word": "Searn", "translation": "Searn", "note": "proper name"}
+{"key": "segredinhos", "word": "segredinhos", "translation": "little secrets", "note": ""}
+{"key": "segurado", "word": "segurado", "translation": "insured", "note": ""}
+{"key": "seitas", "word": "seitas", "translation": "sects", "note": ""}
+{"key": "selestrasza", "word": "Selestrasza", "translation": "Selestrasza", "note": "proper name"}
+{"key": "seradane", "word": "Seradane", "translation": "Seradane", "note": "proper name"}
+{"key": "serlina", "word": "Serlina", "translation": "Serlina", "note": "proper name"}
+{"key": "shaol'wath", "word": "Shaol'wath", "translation": "Shaol'wath", "note": "proper name"}
+{"key": "sheldryn", "word": "Sheldryn", "translation": "Sheldryn", "note": "proper name"}
+{"key": "silitistas", "word": "Silitistas", "translation": "Silitistas", "note": "proper name"}
+{"key": "silvestela", "word": "silvestela", "translation": "silvestela", "note": ""}
+{"key": "simultâneo", "word": "simultâneo", "translation": "simultaneous", "note": ""}
+{"key": "siopi", "word": "siopi", "translation": "siopi", "note": ""}
+{"key": "sisudo", "word": "sisudo", "translation": "serious", "note": ""}
+{"key": "skonk", "word": "Skonk", "translation": "Skonk", "note": "proper name"}
+{"key": "slirena", "word": "Slirena", "translation": "Slirena", "note": "proper name"}
+{"key": "slivers", "word": "Slivers", "translation": "Slivers", "note": "proper name"}
+{"key": "sobrepujarão", "word": "sobrepujarão", "translation": "will overcome", "note": ""}
+{"key": "sombramonte", "word": "Sombramonte", "translation": "Sombramonte", "note": "proper name"}
+{"key": "sombrarrama", "word": "Sombrarrama", "translation": "Sombrarrama", "note": "proper name"}
+{"key": "sopetão", "word": "sopetão", "translation": "sopetão", "note": ""}
+{"key": "sorros", "word": "sorros", "translation": "smiles", "note": ""}
+{"key": "sorvessombra", "word": "Sorvessombra", "translation": "Sorvessombra", "note": "proper name"}
+{"key": "stronghammer", "word": "Stronghammer", "translation": "Stronghammer", "note": "proper name"}
+{"key": "sumonírico", "word": "Sumonírico", "translation": "Sumonírico", "note": "proper name"}
+{"key": "superficiais", "word": "superficiais", "translation": "superficial", "note": ""}
+{"key": "suprimir-lhes", "word": "suprimir-lhes", "translation": "suppress them", "note": ""}
+{"key": "swart", "word": "Swart", "translation": "Swart", "note": "proper name"}
+{"key": "syrnoya", "word": "Syrnoya", "translation": "Syrnoya", "note": "proper name"}
+{"key": "sê-lo", "word": "sê-lo", "translation": "stamp", "note": ""}
+{"key": "ta'zo", "word": "Ta'zo", "translation": "Ta'zo", "note": "proper name"}
+{"key": "tarsis", "word": "Tarsis", "translation": "Tarsis", "note": "proper name"}
+{"key": "tece-fogos", "word": "Tece-fogos", "translation": "Tece-fogos", "note": "proper name"}
+{"key": "tecemedos", "word": "tecemedos", "translation": "tecemedos", "note": ""}
+{"key": "tectonis", "word": "Tectonis", "translation": "Tectonis", "note": "proper name"}
+{"key": "tendinha", "word": "tendinha", "translation": "tent", "note": ""}
+{"key": "tenébrio", "word": "Tenébrio", "translation": "Tenébrio", "note": "proper name"}
+{"key": "tesouraria", "word": "tesouraria", "translation": "treasury", "note": ""}
+{"key": "teste-as", "word": "teste-as", "translation": "test them", "note": ""}
+{"key": "thalinar", "word": "Thalinar", "translation": "Thalinar", "note": "proper name"}
+{"key": "thunderfury", "word": "Thunderfury", "translation": "Thunderfury", "note": "proper name"}
+{"key": "tintim", "word": "tintim", "translation": "tintin", "note": ""}
+{"key": "tirânikos", "word": "Tirânikos", "translation": "Tirânikos", "note": "proper name"}
+{"key": "toalha", "word": "toalha", "translation": "towel", "note": ""}
+{"key": "tokal", "word": "Tokal", "translation": "Tokal", "note": "proper name"}
+{"key": "tonitruantes", "word": "Tonitruantes", "translation": "Tonitruantes", "note": "proper name"}
+{"key": "tornaríamos", "word": "tornaríamos", "translation": "we would return", "note": ""}
+{"key": "transitando", "word": "transitando", "translation": "transiting", "note": ""}
+{"key": "transmutarei", "word": "transmutarei", "translation": "I will transmute", "note": ""}
+{"key": "transpoliportar", "word": "transpoliportar", "translation": "transport", "note": ""}
+{"key": "transpoliportação", "word": "transpoliportação", "translation": "transpolyportation", "note": ""}
+{"key": "trançarem", "word": "trançarem", "translation": "braid", "note": ""}
+{"key": "travamento", "word": "travamento", "translation": "lock", "note": ""}
+{"key": "travará", "word": "travará", "translation": "will brake", "note": ""}
+{"key": "trebor", "word": "Trebor", "translation": "Trebor", "note": "proper name"}
+{"key": "tremerá", "word": "tremerá", "translation": "will tremble", "note": ""}
+{"key": "trocarmos", "word": "trocarmos", "translation": "let's exchange", "note": ""}
+{"key": "tugule", "word": "Tugule", "translation": "Tugule", "note": "proper name"}
+{"key": "turbocompressores", "word": "turbocompressores", "translation": "turbochargers", "note": ""}
+{"key": "turvada", "word": "turvada", "translation": "cloudy", "note": ""}
+{"key": "tyrisius", "word": "Tyrisius", "translation": "Tyrisius", "note": "proper name"}
+{"key": "uhum", "word": "uhum", "translation": "uhum", "note": ""}
+{"key": "uivará", "word": "uivará", "translation": "will howl", "note": ""}
+{"key": "unending", "word": "Unending", "translation": "Unending", "note": "proper name"}
+{"key": "urgências", "word": "urgências", "translation": "emergency", "note": ""}
+{"key": "v-v-vagando", "word": "v-v-vagando", "translation": "wandering (stuttered)", "note": "stuttered form of vagando"}
+{"key": "v-v-volta", "word": "v-v-volta", "translation": "back (stuttered)", "note": "stuttered form of volta"}
+{"key": "valori", "word": "Valori", "translation": "Valori", "note": "proper name"}
+{"key": "valxx", "word": "Valxx", "translation": "Valxx", "note": "proper name"}
+{"key": "vapt-vupt", "word": "vapt-vupt", "translation": "vapt-vupt", "note": ""}
+{"key": "vasculhe-os", "word": "vasculhe-os", "translation": "search them", "note": ""}
+{"key": "vastidões", "word": "vastidões", "translation": "vastness", "note": ""}
+{"key": "veanna", "word": "Veanna", "translation": "Veanna", "note": "proper name"}
+{"key": "veenix", "word": "Veenix", "translation": "Veenix", "note": "proper name"}
+{"key": "veneracnídeo", "word": "Veneracnídeo", "translation": "Veneracnídeo", "note": "proper name"}
+{"key": "verve", "word": "verve", "translation": "verve", "note": ""}
+{"key": "vincular-se", "word": "vincular-se", "translation": "bind", "note": ""}
+{"key": "violâminus", "word": "Violâminus", "translation": "Violâminus", "note": "proper name"}
+{"key": "virasse", "word": "virasse", "translation": "turn", "note": ""}
+{"key": "visitamos", "word": "visitamos", "translation": "we visited", "note": ""}
+{"key": "vista-as", "word": "vista-as", "translation": "wear them", "note": ""}
+{"key": "voga", "word": "voga", "translation": "vogue", "note": ""}
+{"key": "vvarc'zul", "word": "Vvarc'zul", "translation": "Vvarc'zul", "note": "proper name"}
+{"key": "wabbits", "word": "Wabbits", "translation": "Wabbits", "note": "proper name"}
+{"key": "weber", "word": "Weber", "translation": "Weber", "note": "proper name"}
+{"key": "windseeker", "word": "Windseeker", "translation": "Windseeker", "note": "proper name"}
+{"key": "wir", "word": "wir", "translation": "wir", "note": ""}
+{"key": "wirdal", "word": "Wirdal", "translation": "Wirdal", "note": "proper name"}
+{"key": "xamânicas", "word": "xamânicas", "translation": "shamanic", "note": ""}
+{"key": "xelthos", "word": "Xelthos", "translation": "Xelthos", "note": "proper name"}
+{"key": "xirath", "word": "Xirath", "translation": "Xirath", "note": "proper name"}
+{"key": "xiv", "word": "XIV", "translation": "XIV", "note": "proper name"}
+{"key": "xizzik", "word": "Xizzik", "translation": "Xizzik", "note": "proper name"}
+{"key": "xv", "word": "XV", "translation": "XV", "note": "proper name"}
+{"key": "xvi", "word": "XVI", "translation": "XVI", "note": "proper name"}
+{"key": "xx", "word": "xx", "translation": "xx", "note": ""}
+{"key": "y-y-yetis", "word": "y-y-yetis", "translation": "yetis (stuttered)", "note": "stuttered form of yetis"}
+{"key": "ylanthrius", "word": "Ylanthrius", "translation": "Ylanthrius", "note": "proper name"}
+{"key": "yorba", "word": "Yorba", "translation": "Yorba", "note": "proper name"}
+{"key": "zalius", "word": "Zalius", "translation": "Zalius", "note": "proper name"}
+{"key": "zargain", "word": "Zargain", "translation": "Zargain", "note": "proper name"}
+{"key": "zelaterra", "word": "Zelaterra", "translation": "Zelaterra", "note": "proper name"}
+{"key": "ziri", "word": "Ziri", "translation": "Ziri", "note": "proper name"}
+{"key": "zotl", "word": "Zotl", "translation": "Zotl", "note": "proper name"}
+{"key": "zé-ruelas", "word": "zé-ruelas", "translation": "ze-ruelas", "note": ""}
+{"key": "úrsula", "word": "Úrsula", "translation": "Úrsula", "note": "proper name"}
